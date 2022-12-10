@@ -172,6 +172,7 @@ export default function TimeLineItem({
               <SafeAreaView style={{ flex: 1, backgroundColor: '#191109', }}>
                 <View style={styles.modalMedia}>
                   <Image
+                    alt={itemData.alt ? `${itemData.alt}` : ""}
                     style={{ flex: 1, height: undefined, width: undefined, }}
                     source={itemData.media}
                     resizeMethod='auto'
