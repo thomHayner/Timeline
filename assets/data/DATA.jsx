@@ -4,50 +4,64 @@ const data= [
     "location": "Northern Mexico",
     "date": "February 23",
     "description": "Spanish conquistador Francisco Vázquez de Coronado embarks on an expedition into the unexplored territory north of colonized Mexico to search for the fabled Seven Cities of Gold. The voyage lasts more than two years, during which Coronado travels through much of the American Southwest and as far north as present-day Kansas. His party is the first to document the geography and indigenous peoples of significant portions of the West.",
-    "media": require('../images/1500-Coronado.jpg')
+    "media": require('../images/1500-Coronado.jpg'),
+    "alt": "Coronado Sets Out to the North by American artist Frederic Remington"
   },
   {
     "year": "1579",
     "location": "Drakes Bay, California",
     "date": "June 17",
-    "description": "English explorer Francis Drake lands his expedition on the Pacific coast of North America in present-day Drakes Bay, California, claiming all of the land not already under Spanish control for the English Crown." 
+    "description": "English explorer Francis Drake lands his expedition on the Pacific coast of North America in present-day Drakes Bay, California, claiming all of the land not already under Spanish control for the English Crown.",
+    "media": require("../images/1579-Drakes_Bay_CA.jpg"),
+    "alt": "Drake's landing in California, engraving published 1590 by Theodor de Bry"
   },
   {
     "year": "1598",
     "location": "Rio Grande River, New Mexico",
     "date": "April",
-    "description": "Spanish explorer Juan de Oñate establishes Nuevo México in the region around the upper Rio Grande as the northernmost province of New Spain, serving as its first colonial governor." 
+    "description": "Spanish explorer Juan de Oñate establishes Nuevo México in the region around the upper Rio Grande as the northernmost province of New Spain, serving as its first colonial governor.",
+    "media": require("../images/1598-Juan_de_Onate.jpg"),
+    "alt": "Onate Monument Center, Alcalde, NM Equestrian Statue of Juan De Onate"
   },
   {
     "year": "1607",
     "location": "Santa Fe, New Mexico",
     "date": "",
-    "description": "Spanish colonists establish the city of Santa Fe in the province of Santa Fe de Nuevo México." 
+    "description": "Spanish colonists establish the city of Santa Fe in the province of Santa Fe de Nuevo México.",
+    "media": require("../images/1607-Flag_of_Santa_Fe.png"),
+    "alt": "Flag of Santa Fé de Nuevo México"
   },
   {
     "year": "1610",
     "location": "Santa Fe, New Mexico",
     "date": "",
-    "description": "The Palace of the Governors is built in Santa Fe, the new capital of Nuevo México. Today it is the oldest continuously occupied public building in the United States." 
+    "description": "The Palace of the Governors is built in Santa Fe, the new capital of Nuevo México. Today it is the oldest continuously occupied public building in the United States.",
+    "media": require("../images/1610-Palace_of_the_Governors_at_night.jpg"),
+    "alt": "Night view of The Palace of the Governors, reflecting the Christmas lights of Santa Fe Plaza"
   },
   {
     "year": "1680",
     "location": "New Mexico",
     "date": "August 10",
     "description": "An alliance of Puebloans coordinated by Popé initiates a mass revolt against Spanish colonists occupying what is now northern New Mexico in an effort to abolish European influence in the area. More than 400 people are killed and the Spanish are unable to reconquer Santa Fe for another 12 years.",
-    "media": require("../images/1680-Po_Pay.jpg")
+    "media": require("../images/1680-Po_Pay.png"),
+    "alt": "A statue of Po' Pay at the U.S. Capitol Building Visitor Center in Washington, D.C."
   },
   {
     "year": "1692",
     "location": "Santa Fe, New Mexico",
     "date": "",
-    "description": "Santa Fe is formally repossessed by the Spanish after Diego de Vargas negotiates a peace with the Pueblo Indians. The following six years witness a difficult reinstatement of Spanish and Franciscan rule over the Pueblos, including another revolt in 1696, which is successfully countered by De Vargas and his forces." 
+    "description": "Santa Fe is formally repossessed by the Spanish after Diego de Vargas negotiates a peace with the Pueblo Indians. The following six years witness a difficult reinstatement of Spanish and Franciscan rule over the Pueblos, including another revolt in 1696, which is successfully countered by De Vargas and his forces.",
+    "media": require("../images/1692-Diego_deVargas.jpeg"),
+    "alt": "Oil on canvas portrait of Diego de Vargas by Julio Barrera, date unknown, from the collection of the Palace of the Governors"
   },
   {
     "year": "1718",
     "location": "The Alamo, Spanish Texas",
     "date": "May 1",
-    "description": "The Misión San Antonio de Valero, later known as The Alamo, is founded in Spanish Texas to undermine French claims in the area. Four days later, the Presidio San Antonio de Béxar is established nearby to protect the new town of San Antonio de Béxar." 
+    "description": "The Misión San Antonio de Valero, later known as The Alamo, is founded in Spanish Texas to undermine French claims in the area. Four days later, the Presidio San Antonio de Béxar is established nearby to protect the new town of San Antonio de Béxar.",
+    "media": require("../images/1718-The_Alamo.jpg"),
+    "alt": "A postcard painting of The Alamo"
   },
   {
     "year": "1743",
@@ -59,50 +73,65 @@ const data= [
     "year": "1759",
     "location": "Red River, Spanish Texas",
     "date": "October 7",
-    "description": "A Spanish attack on a fortified Indian village along the Red River in what is now Texas is repulsed and defeated by allied Wichita, Comanche, and Tonkawa tribes." 
+    "description": "A Spanish attack on a fortified Indian village along the Red River in what is now Texas is repulsed and defeated by allied Wichita, Comanche, and Tonkawa tribes.",
+    "media": require("../images/1759-Wichita_Indian_Village.jpg"),
+    "alt": "The Wichita were farming Indians who lived in beehive-shaped houses thatched with grass and surrounded by extensive maize fields. They were skilled farmers who traded agricultural products to nomadic tribes in exchange for meat."
   },
   {
     "year": "1762",
     "location": "French Louisiana",
     "date": "November 13",
-    "description": "France transfers all of its territory west of the Appalachian Mountains to Spain in a secret treaty just months prior to the negotiations that end the French and Indian War." 
+    "description": "France transfers all of its territory west of the Appalachian Mountains to Spain in a secret treaty, Treaty of Fontainebleau, just months prior to the negotiations that end the French and Indian War.",
+    "media": require("../images/1762-Treaty_of_Fontainebleau.png"),
+    "alt": "Map showing British territorial gains in North America following the Treaty of Paris in pink, and Spanish territorial gains after the Treaty of Fontainebleau in yellow"
   },
   {
     "year": "1769",
     "location": "San Diego, Las Californias",
     "date": "July 16",
     "description": "Spanish Franciscans, led by friar Junípero Serra, establish Mission San Diego de Alcalá in Las Californias. By 1823, the missionaries successfully plant a series of 20 more missions along the coast of what becomes the Spanish province of Alta California. These missions bring European culture to the indigenous peoples of California, but also enable a serious decline of from one-third to one-half of the indigenous population there during the Mission period.",
-    "media": require("../images/1769-Primitive_Plow.jpg")
+    "media": require("../images/1769-Primitive_Plow.jpg"),
+    "alt": "Indigenous farmers preparing a field for planting near Mission San Diego de Alcalá. Drawing by A.B. Dodge, 1920"
 },
   {
     "year": "1775",
     "location": "Tuscón, Spanish Arizona",
     "date": "August 20",
-    "description": "A company of Spanish soldiers establishes a site for the Presidio San Agustín del Tucsón in what is now Tucson, Arizona." 
+    "description": "A company of Spanish soldiers establishes a site for the Presidio San Agustín del Tucsón in what is now Tucson, Arizona.",
+    "media": require("../images/1775-Presidio_sketch.jpg"),
+    "alt": "A sketch from Tom Sheridan’s Los Tucsonenses shows the Presidio San Agustín del Tucsón's enclosed space of approximately 11 acres"
   },
   {
     "year": "1776",
     "location": "Old Spanish Trail",
     "date": "July 29",
-    "description": "Two Franciscan priests lead the Domínguez–Escalante expedition west from Santa Fe in an attempt to find an overland route to the Spanish Catholic mission in Monterey. Though they fail to reach Las Californias, they explore previously unknown areas of the Colorado Plateau, become the first Europeans to enter the Great Basin, and establish the eastern section of what will later become the Old Spanish Trail." 
+    "description": "Two Franciscan priests lead the Domínguez–Escalante expedition west from Santa Fe in an attempt to find an overland route to the Spanish Catholic mission in Monterey. Though they fail to reach Las Californias, they explore previously unknown areas of the Colorado Plateau, become the first Europeans to enter the Great Basin, and establish the eastern section of what will later become the Old Spanish Trail.",
+    "media": require("../images/1776-Escalante.png"),
+    "alt": "Father Escalante Discovers Utah Valley by E. Keith Eddington"
   },
   {
     "year": "1779",
     "location": "Pueblo County, Spanish Colorado",
     "date": "September 3",
-    "description": "Comanche Indian leader Cuerno Verde is killed in combat with Spanish forces led by Juan Bautista de Anza in what is now Pueblo County, Colorado." 
+    "description": "Comanche Indian leader Cuerno Verde is killed in combat with Spanish forces led by Juan Bautista de Anza in what is now Pueblo County, Colorado.",
+    "media": require("../images/1779-Juan_Bautista_de_Anza.jpg"),
+    "alt": "Portrait of Juan Bautista de Anza (Painted by Fray Orci; 1774, Mexico City)"
   },
   {
     "year": "1783",
     "location": "The Treaty of Paris",
     "date": "September 3",
-    "description": "The Treaty of Paris is signed by Great Britain and the United States of America, ending the American Revolutionary War and establishing the United States as an independent country." 
+    "description": "The Treaty of Paris is signed by Great Britain and the United States of America, ending the American Revolutionary War and establishing the United States as an independent country.",
+    "media": require("../images/1783-Treaty_of_Paris.jpg"),
+    "alt": "Treaty of Paris, by Benjamin West (1783), depicts the American delegation at the Treaty of Paris (left to right): John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin. The British delegation refused to pose, and the painting was never completed"
   },
   {
     "year": "1792",
     "location": "Seattle, British Pacific Northwest",
     "date": "May 19",
-    "description": "Captain George Vancouver's expedition drops anchor near present-day Seattle and proceeds to name Puget Sound, Mount Rainier, Vashon Island, and Restoration Point. Vancouver and his expedition are the first Europeans to explore the area, claiming it for the British Crown, along with much of the Pacific Northwest coast, including Vancouver Island and the Columbia River." 
+    "description": "Captain George Vancouver's expedition drops anchor near present-day Seattle and proceeds to name Puget Sound, Mount Rainier, Vashon Island, and Restoration Point. Vancouver and his expedition are the first Europeans to explore the area, claiming it for the British Crown, along with much of the Pacific Northwest coast, including Vancouver Island and the Columbia River.",
+    "media": require("../images/1792-Vancouver_Rainier.jpg"),
+    "alt": "'Mount Rainier from the south Part of Admiralty Inlet'. The mountain was first sighted by Vancouver during his exploration of Puget Sound in the spring of 1792"
   },
   {
     "year": "1800",
@@ -115,7 +144,8 @@ const data= [
     "location": "Louisiana Territory",
     "date": "April 1",
     "description": "The United States agrees to buy the colony of La Louisiane from the French Republic for the price of $15 million ($350 million in 2022 USD when adjusted for inflation).",
-    "media": require("../images/1803-Louisiana_Purchase.jpg")
+    "media": require("../images/1803-Louisiana_Purchase.jpg"),
+    "alt": "Louisiana and the Louisiana Purchase (Government Printing Office, 1912 Map No. 4)"
   },
   {
     "year": "1803",
@@ -128,43 +158,56 @@ const data= [
     "location": "St. Charles, Missouri",
     "date": "May 14",
     "description": "The Lewis and Clark expedition sets out to explore and chart the territory acquired in the Louisiana Purchase. Officially titled the Corps of Discovery, the party canoes up the Missouri River from Saint Charles, spending the winter at Fort Mandan on Indian territory in what is now North Dakota.",
-    "media": require("../images/1804-Lewis_and_Clark.jpg")
+    "media": require("../images/1804-Fort_Mandan.jpg"),
+    "alt": "Reconstruction of Fort Mandan, Lewis and Clark Memorial Park, North Dakota"
   },
   {
     "year": "1805",
     "location": "Astoria, Oregon",
     "date": "November 7",
-    "description": "Lewis and Clark sight the Pacific Ocean for the first time, near the mouth of the Columbia River. The expedition winters at Fort Clatsop on the south side of the river, near present-day Astoria, Oregon." 
+    "description": "Lewis and Clark sight the Pacific Ocean for the first time, near the mouth of the Columbia River. The expedition winters at Fort Clatsop on the south side of the river, near present-day Astoria, Oregon.",
+    "media": require("../images/1805-Lewis_and_Clark_Columbia.jpg"),
+    "alt": "Corps of Discovery meet Chinooks on the Lower Columbia, October 1805 (painted by Charles Marion Russel, c. 1905)"
   },
   {
     "year": "1806",
     "location": "St. Louis, Missouri",
     "date": "July 15",
-    "description": "A U.S. Army reconnaissance expedition under the command of Lieutenant Zebulon Pike departs Fort Bellefontaine near Saint Louis to explore the southern Louisiana Territory." 
+    "description": "A U.S. Army reconnaissance expedition under the command of Lieutenant Zebulon Pike departs Fort Bellefontaine near Saint Louis to explore the southern Louisiana Territory.",
+    "media": require("../images/1806-Zebulon_Pike.jpg"),
+    "alt": "Portrait of American general and explorer Zebulon Pike by Charles Wilson Peale"
   },
   {
     "year": "1806",
     "location": "St. Louis, Missouri",
     "date": "September 23",
-    "description": "Lewis and Clark return to Saint Louis after a journey of nearly 6,000 total miles; in the past two and a half years, the party has made contact with over 70 Indian tribes and produced 140 maps, as well as documented more than 200 new plant and animal species." 
+    "description": "Lewis and Clark return to Saint Louis after a journey of nearly 6,000 total miles; in the past two and a half years, the party has made contact with over 70 Indian tribes and produced 140 maps, as well as documented more than 200 new plant and animal species.",
+    "media": require("../images/1806-Lewis_and_Clark.jpg"),
+    "alt": "Lewis and Clark"
   },
   {
     "year": "1807",
     "location": "Santa Fe, New Mexico",
     "date": "February 26",
-    "description": "Spanish cavalrymen arrest the Pike Expedition in the province of Santa Fe de Nuevo México (now southern Colorado)." 
+    "description": "Spanish cavalrymen arrest the Pike Expedition in the province of Santa Fe de Nuevo México (now southern Colorado).",
+    "media": require("../images/1807-Pike_Entering_Santa_Fe.jpg"),
+    "alt": "Zebulon Pike Entering Santa Fe by Frederic Remington"
   },
   {
     "year": "1808",
     "location": "New York, New York",
     "date": "April 6",
-    "description": "German immigrant John Jacob Astor incorporates his American Fur Company." 
+    "description": "German immigrant John Jacob Astor incorporates his American Fur Company.",
+    "media": require("../images/1808-John_Jacob_Astor.jpg"),
+    "alt": "Portrait of John Jacob Astor by John Wesley Jarvis"
   },
   {
     "year": "1808",
     "location": "Sibley, Missouri",
     "date": "November 10",
-    "description": "The Treaty of Fort Clark is signed, in which the Osage Nation cedes all of its territory east of Fort Clark and north of the Arkansas River to the United States." 
+    "description": "The Treaty of Fort Clark is signed, in which the Osage Nation cedes all of its territory east of Fort Clark and north of the Arkansas River to the United States.",
+    "media": require("../images/1808-Treaty_of_Fort_Clark.png"),
+    "alt": "Mural depicting the treaty from the Missouri State Capitol"
   },
   {
     "year": "1810",
