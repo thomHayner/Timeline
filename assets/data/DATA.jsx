@@ -452,263 +452,254 @@ const data= [
     "location": "Pierre's Hole, Idaho",
     "date": "July17",
     "description": "Attendees of the annual fur trapper's rendezvous, the largest yet of its kind, clash with local Indians at the Battle of Pierre's Hole.",
-"media": "",
-"alt": ""
+    "media": require("../images/1832-Fur_Trappers_Rendevouz.jpg"),
+    "alt": "A typical scene at the Annual Fur Trappers Convention"
   },
   {
     "year": "1833",
     "location": "Arkansas River, Colorado",
     "date": "May 1",
     "description": "Frontier trader William Bent establishes Bent's Fort on the north bank of the Arkansas River, along the Santa Fe Trail.",
-"media": "",
-"alt": ""
+    "media": require("../images/1833-Bents_Fort.jpg"),
+    "alt": "Bent's Old Fort National Historic Site"
   },
   {
     "year": "1834",
     "location": "Laramie, Wyoming",
     "date": "",
     "description": "Fort Laramie is founded by William Sublette in what is now eastern Wyoming as a private fur-trading post named Fort William.",
-"media": "",
-"alt": ""
+    "media": require("../images/1834-Fort_Laramie.jpg"),
+    "alt": "Fort William, the first Fort Laramie, as it looked prior to 1840, painting from memory by Alfred Jacob Miller"
   },
   {
     "year": "1834",
     "location": "Snake River, Idaho",
     "date": "July 31",
     "description": "Fort Hall is established on the Snake River in present-day Idaho.",
-"media": "",
-"alt": ""
+    "media": require("../images/1834-Fort_Hall_Replica.jpeg"),
+    "alt": "Replica of the first Fort Hall in Pocatello, ID"
   },
   {
     "year": "1835",
     "location": "Fort Vasquez, Denver, Colorado",
     "date": "May 1",
     "description": "Frontier traders Louis Vasquez and Andrew Sublette establish Fort Vasquez on the South Platte River, 35 miles northeast of present-day Denver, Colorado.",
-"media": "",
-"alt": ""
+    "media": require("../images/1835-Fort_Vasquez.jpeg"),
+    "alt": "Fort Vasquez, near present day Denver, Colorado"
   },
   {
     "year": "1835",
     "location": "Gonzales, Texas",
     "date": "October 2",
     "description": "The Texas Revolution begins when a Texian militia successfully defends against the confiscation of a cannon by Mexican soldiers at the Battle of Gonzales.",
-"media": "",
-"alt": ""
+    "media": require("../images/1835-Come_And_Take_It_Mural.jpg"),
+    "alt": "Museum mural of Texian soldiers fighting in the Battle of Gonzales, which was referred to as the 'Lexington of Texas' because it was the first battle of the Texas Revolution"
   },
   {
     "year": "1835",
     "location": "Mexico D.F., Mexico",
     "date": "October 23",
     "description": "The Mexican Constitution of 1824 is repealed, abolishing the former federalist system of government and replacing it with a provisional centralist system under President-General Antonio López de Santa Anna. The move further alienates Anglo-American settlers in Mexican Texas.",
-"media": "",
-"alt": ""
+    "media": require("../images/1835-Antonio_Lopez_de_Santa_Anna.png"),
+    "alt": "Antonio López de Santa Anna"
   },
   {
     "year": "1835",
     "location": "San Antonio, Texas",
     "date": "December 10",
     "description": "The two-month Siege of Béxar culminates in the surrender of the last remaining Mexican garrison in Texas, under Martín Perfecto de Cos, to the Texian Army under Edward Burleson. Santa Anna immediately prepares to march overland to recapture San Antonio.",
-"media": "",
-"alt": ""
+    "media": require("../images/1835-Ed_Burleson.jpg"),
+    "alt": "Edward Burleson (1798-1851)"
   },
   {
     "year": "1836",
     "location": "Washington, D.C.",
     "date": "February 25",
     "description": "Samuel Colt is granted a patent for his invention of a 'revolving gun'. Colt firearms eventually become widely used in the West.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-Colt_Paterson_Belt_2nd_Model.jpg"),
+    "alt": "Colt Paterson 2nd belt model"
   },
   {
     "year": "1836",
     "location": "The Alamo, San Antonio, Texas",
     "date": "March 6",
     "description": "Following a 13-day siege, Mexican troops under Santa Anna storm the Alamo Mission in San Antonio, killing all but a handful of its more than 200 Texian defenders, including Jim Bowie and Davy Crockett.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-David_Crockett.jpg"),
+    "alt": "David Crockett by Chester Harding"
   },
   {
     "year": "1836",
     "location": "Goliad, Texas",
     "date": "March 27",
     "description": "More than 450 captured Texian soldiers are executed by the Mexican army at the Goliad massacre.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-Goliad_Executions.jpg"),
+    "alt": "Goliad Executions By Norman Price From Texas State Archives And Library Commission"
   },
   {
     "year": "1836",
     "location": "Pasadena, Texas",
     "date": "April 21",
     "description": "Texians under General Sam Houston surprise and defeat the Mexican army at the Battle of San Jacinto, ending the Texas Revolution.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-The_Battle_of_San_Jacinto.jpg"),
+    "alt": "The Battle of San Jacinto – 1895 painting by Henry Arthur McArdle"
   },
   {
     "year": "1836",
     "location": "Velasco, Texas",
     "date": "May 2",
     "description": "Texians declare the independence of the Republic of Texas from Mexico. On May 14, they force captured General Antonio López de Santa Anna to sign the Treaties of Velasco, though Mexico never ratifies these treaties.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-Washington_on_the_Brazos_Monument.jpg"),
+    "alt": "Replica of the building at Washington-on-the-Brazos where the Texas Declaration was signed. An inscription reads: 'Here a Nation was born.'"
   },
   {
     "year": "1836",
     "location": "Little Rock, Arkansas",
     "date": "June 15",
     "description": "Arkansas is admitted as the 25th U.S. state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1836-Arkansas_State_Seal.png"),
+    "alt": "The Great Seal of the State of Arkansas"
   },
   {
     "year": "1837",
     "location": "Fort Leavenworth, Kansas",
     "date": "February 15",
     "description": "The Platte Purchase is approved, adding more than 3,000 square miles of former Indian lands to the northwest corner of the state of Missouri in direct violation of the Missouri Compromise.",
-"media": "",
-"alt": ""
+    "media": require("../images/1837-Platte_Purchase.png"),
+    "alt": "The Platte Purchase region (highlighted in red)"
   },
   {
     "year": "1838",
     "location": "Kansas City, Missouri",
     "date": "September 15",
     "description": "Rural landowners clash with immigrant Mormons near Kansas City, Missouri in a series of violent episodes later called the Mormon War, eventually forcing their complete expulsion from the state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1838-Danites_Charge.jpg"),
+    "alt": "'Charge of the Danites' in the 1838 Mormon War"
   },
   {
     "year": "1839",
     "location": "Tyler, Texas",
     "date": "July 15",
-    "description": "Militia forces of the Republic of Texas win a decisive victory over Cherokee and Delaware Indians at the Battle of the Neches, the main engagement of the Cherokee War of 1838–1839.",
-"media": "",
-"alt": ""
+    "description": "Militia forces of the Republic of Texas win a decisive victory over Cherokee and Delaware Indians at the Battle of the Neches, the main engagement of the Cherokee War of 1838–1839." 
   },
   {
     "year": "1840",
     "location": "San Antonio, Texas",
     "date": "March 19",
     "description": "In the Council House Fight, a delegation of 33 Comanche chiefs and warriors is slaughtered by Texan militiamen while attempting to negotiate the return of captive white settlers at a peace conference in San Antonio.",
-"media": "",
-"alt": ""
+    "media": require("../images/1840-San_Antonio_Plaza.jpg"),
+    "alt": "The Plaza and the Council House in San Antonio"
   },
   {
     "year": "1840",
     "location": "Belleview, Iowa",
     "date": "April 1",
     "description": "Political rivalries in the river town of Bellevue, Iowa Territory culminate in a shootout in front of the town hotel that leaves seven people dead.",
-"media": "",
-"alt": ""
+    "media": require("../images/1840-Bellevue_Iowa_in_1848.png"),
+    "alt": "Illustration of Bellevue, Iowa in 1848, viewed from the Mississippi"
   },
   {
     "year": "1841",
     "location": "Sacramento, California",
     "date": "June 18",
     "description": "Swiss pioneer John Sutter receives title to nearly 50,000 acres of land surrounding the confluence of the Sacramento and American rivers in the Mexican province of Alta California, upon which he founds a colony he names 'New Helvetia'. In December, Sutter purchases the Russian settlement at Fort Ross and uses its building materials to construct a fort on the site of present-day Sacramento.",
-"media": "",
-"alt": ""
+    "media": require("../images/1841-Johann_August_Sutter.jpg"),
+    "alt": "Johann August Sutter"
   },
   {
     "year": "1842",
     "location": "San Antonio, Texas",
     "date": "March 5",
-    "description": "Mexican troops led by Ráfael Vásquez invade Texas and occupy San Antonio, but are chased back across the Rio Grande two days later.",
-"media": "",
-"alt": ""
+    "description": "Mexican troops led by Ráfael Vásquez invade Texas and occupy San Antonio, but are chased back across the Rio Grande two days later." 
   },
   {
     "year": "1842",
     "location": "San Antonio, Texas",
     "date": "September 18",
-    "description": "Texas Rangers under Matthew Caldwell repulse the final Mexican invasion of the Republic of Texas, under Adrián Woll, in the Battle of Salado Creek. Simultaneously, a separate Texian company approaching Woll's army from the rear is overwhelmed and massacred.",
-"media": "",
-"alt": ""
+    "description": "Texas Rangers under Matthew Caldwell repulse the final Mexican invasion of the Republic of Texas, under Adrián Woll, in the Battle of Salado Creek. Simultaneously, a separate Texian company approaching Woll's army from the rear is overwhelmed and massacred." 
   },
   {
     "year": "1842",
     "location": "Ciudad Mier, Tamaulipas, Mexico",
     "date": "December 25",
     "description": "The Battle of Mier results when a Texan militia invades the Mexican border town of Ciudad Mier, Tamaulipas. The heavily outnumbered Texans are forced to surrender and more than 200 men are taken prisoner.",
-"media": "",
-"alt": ""
+    "media": require("../images/1842-Battle_of_Mier.jpg"),
+    "alt": "Map for the Battle of Mier, Mexico in 1842"
   },
   {
     "year": "1843",
     "location": "Ciudad Mier, Tamaulipas, Mexico",
     "date": "March 25",
     "description": "Seventeen Texan prisoners of war are executed by the Mexican army after drawing beans in a random lottery, as punishment for their participation in a raid on the town of Ciudad Mier several months earlier.",
-"media": "",
-"alt": ""
+    "media": require("../images/1843-The_Drawing_of_the_Black_Bean.jpg"),
+    "alt": "The Mier Expedition - The Drawing of the Black Bean by Frederic Remington"
   },
   {
     "year": "1843",
     "location": "Champoeg, Oregon",
     "date": "May 2",
     "description": "The Champoeg Meetings culminate with a motion to organize what will become the Provisional Government of Oregon, the first locally administered European-American body of government in the Oregon Country.",
-"media": "",
-"alt": ""
+    "media": require("../images/1843-Joseph_Meek.png"),
+    "alt": "Joe Meek appeals for the American Flag, at Champoeg, May 2, 1843"
   },
   {
     "year": "1843",
     "location": "Oregon City, Oregon",
     "date": "September 15",
     "description": "Missionary Marcus Whitman accompanies the first major wagon train west along the final leg of the Oregon Trail, establishing the viability of the route for later immigrants.",
-"media": "",
-"alt": ""
+    "media": require("../images/1843-Oregon_Trail.jpg"),
+    "alt": "The Oregon Trail"
   },
   {
     "year": "1844",
     "location": "Oregon City, Oregon",
     "date": "",
     "description": "Oregon City, the western terminus of the Oregon Trail, becomes the first incorporated U.S. city west of the Rocky Mountains.",
-"media": "",
-"alt": ""
+    "media": require("../images/1844-Oregon_City.jpg"),
+    "alt": "A painting of Oregon City, c. 1850–52, by John Mix Stanley"
   },
   {
     "year": "1844",
     "location": "Lake Tahoe, California",
     "date": "November 25",
     "description": "The Stephens-Townsend-Murphy Party pioneers the first wagon route across the Sierra Nevada on the California Trail.",
-"media": "",
-"alt": ""
+    "media": require("../images/1844-Elisha_Stephens.jpg"),
+    "alt": "Elisha Stephens"
   },
   {
     "year": "1845",
     "location": "St. Louis, Missouri",
     "date": "June 1",
     "description": "John C. Frémont's third expedition with 55 men and Kit Carson as guide leaves St. Louis to 'map the source of the Arkansas River' but continues to the Sacramento Valley.",
-    "media": require("../images/1845-John_Charles_Fremont.png")
+    "media": require("../images/1845-John_Charles_Fremont.png"),
+    "alt": "Portrait of John Charles Frémont by William Smith Jewett"
   },
   {
     "year": "1845",
     "location": "Austin, Texas",
     "date": "June 23",
-    "description": "The Republic of Texas accepts a joint resolution of the U.S. Congress to annex Texas to the United States. Mexico does not recognize the annexation.",
-"media": "",
-"alt": ""
+    "description": "The Republic of Texas accepts a joint resolution of the U.S. Congress to annex Texas to the United States. Mexico does not recognize the annexation." 
   },
   {
     "year": "1845",
     "location": "Washington, DC",
     "date": "July 1",
     "description": "The phrase 'manifest destiny' first appears in the Democratic Review in an essay by John L. O'Sullivan urging the annexation of Texas. The concept does not become widely popular until O'Sullivan later uses the same phrase while addressing the subject of the Oregon Country.",
-"media": "",
-"alt": ""
+    "media": require("../images/1845-Manifest_Destiny.jpg"),
+    "alt": "American Progress (1872) by John Gast is an allegorical representation of the modernization of the new west. Columbia, a personification of the United States, is shown leading civilization westward with the American settlers. She is shown bringing light from east to west, stringing telegraph wire, holding a book, and highlighting different stages of economic activity and evolving forms of transportation"
   },
   {
     "year": "1845",
     "location": "Oregon City, Oregon",
     "date": "December 19",
-    "description": "The 'Lash Law' bans blacks from living in the Oregon Territory.",
-"media": "",
-"alt": ""
+    "description": "The 'Lash Law' bans blacks from living in the Oregon Territory." 
   },
   {
     "year": "1845",
     "location": "Austin, Texas",
     "date": "December 29",
     "description": "The United States admits the Republic of Texas to the Union as the slave State of Texas. The boundaries of the state remain undefined.",
-"media": "",
-"alt": ""
+    "media": require("../images/1845-Texas_State_Seal.png"),
+    "alt": "The Official Seal of the State of Texas"
   },
   {
     "year": "1846",
@@ -2989,6 +2980,6 @@ const data= [
     "media": require("../images/1959_Alaska_State_Seal.png"),
     "alt": "The Seal of the State of Alaska"
   }
- ]
+ ];
 
  export default data
