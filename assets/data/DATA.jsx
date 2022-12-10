@@ -247,7 +247,7 @@ const data= [
     "date": "April 30",
     "description": "Louisiana is admitted as the 18th U.S. state, and the first to include land west of the Mississippi River. It is also the first state organized from the Louisiana Purchase territory, the rest of which is soon renamed the Missouri Territory.",
     "media": require("../images/1812-Louisiana_State_Seal.png"),
-    "alt": "The Seal of the State of Louisiana"
+    "alt": "The Great Seal of the State of Louisiana"
   },
   {
     "year": "1812",
@@ -293,7 +293,7 @@ const data= [
     "date": "March 2",
     "description": "The Arkansas Territory is organized.",
     "media": require("../images/1819-Arkansas_Territory.png"),
-    "alt": "The Seal of the Arkansas Territory"
+    "alt": "The Great Seal of the Arkansas Territory"
   },
   {
     "year": "1819",
@@ -699,530 +699,509 @@ const data= [
     "date": "December 29",
     "description": "The United States admits the Republic of Texas to the Union as the slave State of Texas. The boundaries of the state remain undefined.",
     "media": require("../images/1845-Texas_State_Seal.png"),
-    "alt": "The Official Seal of the State of Texas"
+    "alt": "The Great Seal of the State of Texas"
   },
   {
     "year": "1846",
     "location": "Oregon City, Oregon",
     "date": "February 5",
     "description": "The Oregon Spectator becomes the first American newspaper published west of the Rocky Mountains.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-Oregon_Spectator.png"),
+    "alt": "Oregon Spectator newspaper cover from 1846"
   },
   {
     "year": "1846",
     "location": "Brownsville, Texas",
     "date": "April 25",
     "description": "The first skirmish of the Mexican–American War takes place on the Rio Grande near present-day Brownsville, Texas.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-Thornton_Skirmish.jpg"),
+    "alt": "Rancho de Carricitos, the site of the Thornton skirmish"
   },
   {
     "year": "1846",
     "location": "Washington, DC",
     "date": "May 13",
     "description": "The United States under President James K. Polk declares war on Mexico, formally commencing the Mexican–American War.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-James_K_Polk.jpg"),
+    "alt": "Daguerrotype of United States president James Knox Polk"
   },
   {
     "year": "1846",
     "location": "Sonoma, California",
     "date": "June 14",
     "description": "In the Bear Flag Revolt, American insurgents led by William B. Ide seize the Sonoma Barracks from Mexican officers and declare their intention to found an independent republic in northern Alta California. The so-called 'Bear Flag Republic' lasts just 25 days, after which it is subsumed into American military efforts to control California.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-William_B_Ide.png"),
+    "alt": "William B. Ide"
   },
   {
     "year": "1846",
     "location": "Washington, DC",
     "date": "June 15",
-    "description": "The Oregon Treaty resolves a decades-long dispute over possession of the Oregon Country by extending the original boundary between the United States and British North America further west to the Pacific Ocean, with Vancouver Island being retained in its entirety by the British.",
-"media": "",
-"alt": ""
+    "description": "The Oregon Treaty resolves a decades-long dispute over possession of the Oregon Country by extending the original boundary between the United States and British North America further west to the Pacific Ocean, with Vancouver Island being retained in its entirety by the British." 
   },
   {
     "year": "1846",
     "location": "Santa Fe, New Mexico",
     "date": "August 15",
     "description": "Troops under the command of General Stephen W. Kearny seize the territorial capital of Santa Fe for the United States with little resistance.",
-    "media": require("../images/1846-Stephen_W_Kearny.jpg")
+    "media": require("../images/1846-Stephen_W_Kearny.jpg"),
+    "alt": "Brigadier-General Stephen W. Kearny (1794-1848)"
   },
   {
     "year": "1846",
     "location": "San Diego, California",
     "date": "December 6",
     "description": "Kearny's Army of the West engages Mexican lancers east of San Diego at the Battle of San Pasqual.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-San_Pasqual.jpg"),
+    "alt": "Battle of San Pasqual by Colonel Charles Waterhouse, US Marine Corp Reserves"
   },
   {
     "year": "1846",
     "location": "Las Cruces, New Mexico",
     "date": "December 25",
     "description": "American forces under Colonel Alexander W. Doniphan defeat Mexican regulars at the Battle of El Brazito.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-Battle_of_El_Brazito.jpg"),
+    "alt": "Plan of the Battle of Brazito"
   },
   {
     "year": "1846",
     "location": "Iowa City, Iowa",
     "date": "December 28",
     "description": "Iowa is admitted as the 29th U.S. state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1846-Iowa_State_Seal.png"),
+    "alt": "The Great Seal of the State of Iowa"
   },
   {
     "year": "1847",
     "location": "Taos, New Mexico",
     "date": "January 19",
     "description": "Governor Charles Bent of the New Mexico Territory is assassinated and scalped during the Taos Revolt.",
-"media": "",
-"alt": ""
+    "media": require("../images/1847-Charles_Bent.jpg"),
+    "alt": "New Mexico Territorial Governor Charles Bent"
   },
   {
     "year": "1847",
     "location": "Donner Pass, California",
     "date": "February 31",
     "description": "The first of three relief missions arrives to rescue survivors of the Donner Party, who have been snowbound in California's Sierra Nevada mountains for more than three months.",
-"media": "",
-"alt": ""
+    "media": require("../images/1847-Patrick_Breen_Diary.jpg"),
+    "alt": "The 28th page of Patrick Breen's diary, recording his observations in late February 1847, including 'Mrs Murphy said here yesterday that thought she would Commence on Milt & eat him. I dont that she has done so yet, it is distressing.' [sic]"
   },
   {
     "year": "1847",
     "location": "Salt Lake City, Utah",
     "date": "July 24",
-    "description": "Brigham Young and his vanguard company of Mormons first arrive in the Salt Lake Valley in present-day Utah.",
-"media": "",
-"alt": ""
+    "description": "Brigham Young and his vanguard company of Mormons first arrive in the Salt Lake Valley in present-day Utah." 
   },
   {
     "year": "1847",
     "location": "Walla Walla, Washington",
     "date": "November 29",
     "description": "Fifteen Oregon missionaries, including mission founders Marcus and Narcissa Whitman, are murdered and 54 others taken hostage by a party of Cayuse Indians who accuse Whitman of deliberately poisoning Indians in his medical care during an outbreak of measles. The massacre sparks the Cayuse War.",
-"media": "",
-"alt": ""
+    "media": require("../images/1847-Murder_of_Rev_Dr_Whitman.png"),
+    "alt": "A dramatic depiction of the murder of Reverend Dr. Marcus Whitman"
   },
   {
     "year": "1848",
     "location": "Columbia, California",
     "date": "January 24",
     "description": "James W. Marshall discovers gold at Sutter's Mill near Coloma, California, precipitating the California Gold Rush.",
-    "media": require("../images/1848-Gullgraver_1850_California.jpg")
+    "media": require("../images/1848-Gullgraver_1850_California.jpg"),
+    "alt": "A forty-niner panning for gold in California"
   },
   {
     "year": "1848",
     "location": "Guadalupe Hidalgo, Mexico",
     "date": "February 2",
     "description": "The United States and Mexico sign the Treaty of Guadalupe Hidalgo, ending the Mexican–American War. The agreement results in the cession of nearly all of the present-day Southwest, including California, to the U.S., as well as the designation of the Rio Grande as the boundary between Texas and Mexico.",
-"media": "",
-"alt": ""
+    "media": require("../images/1848-Mexican_Cession.png"),
+    "alt": "Shown is the area Mexico ceded to the United States in 1848, minus Texan claims. The Mexican Cession consisted of the present-day U.S. states of California, Nevada, Utah, most of Arizona, the western half of New Mexico, the western quarter of Colorado, and the southwest corner of Wyoming"
   },
   {
     "year": "1849",
     "location": "San Francisco, California",
     "date": "February 28",
     "description": "Regular steamboat service between the east and west coasts of the United States begins with the arrival of the SS California in San Francisco.",
-"media": "",
-"alt": ""
+    "media": require("../images/1849-SS_California.jpg"),
+    "alt": "SS California, the first ship of the Pacific Mail Steamship Company. This ship was used between Panama and San Francisco between 1848 and 1894, when she was wrecked off the coast of Peru"
   },
   {
     "year": "1850",
     "location": "Washington, DC",
     "date": "January 29",
     "description": "Responding to questions of how to accommodate slavery in the western territories, Henry Clay proposes a series of measures to preserve the Union that come to be called the Compromise of 1850.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-Henry_Clay_Senate.jpg"),
+    "alt": "The United States Senate, A.D. 1850 (engraving by Peter F. Rothermel): Henry Clay takes the floor of the Old Senate Chamber; Vice President Millard Fillmore presides as John C. Calhoun (to the right of the Speaker's chair) and Daniel Webster (seated to the left of Clay) look on"
   },
   {
     "year": "1850",
     "location": "Chicago, Illinois",
     "date": "February 1",
     "description": "The Pinkerton National Detective Agency is founded.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-Pinkerton.jpg"),
+    "alt": "'We Never Sleep' - the original logo of the Pinkerton National Detective Agency"
   },
   {
     "year": "1850",
     "location": "Provo, Utah",
     "date": "February 8",
     "description": "The Nauvoo Legion, under orders from Brigham Young, attacks Timpanogos Indians over land disputes near Fort Utah.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-Nauvoo_Legion.png"),
+    "alt": "Joseph Mustering the Nauvoo Legion by C.C.A. Christensen"
   },
   {
     "year": "1850",
     "location": "Los Angeles, California",
     "date": "April 4",
     "description": "The city of Los Angeles, California is incorporated.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-Los_Angeles.png"),
+    "alt": "Panoramic view of Los Angeles Plaza and Old Plaza Church circa 1869, the two gas lamps seen on the corners of the Plaza were the first streetlights installed in LA"
   },
   {
     "year": "1850",
     "location": "San Francisco, California",
     "date": "April 15",
     "description": "The city of San Francisco, California is incorporated.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-San_Francisco.jpg"),
+    "alt": "Panorama view from near present Ina Coolbrith Park to Telegraph Hill, San Francisco (1855) | Photo Courtesy of OpenSFHistory / wnp37.10118"
   },
   {
     "year": "1850",
     "location": "Western Arizona",
     "date": "April 16",
-    "description": "The California territorial government sends a military expedition to attack hostile Yuma Indians along the Colorado River in retaliation for the Glanton Massacre earlier in the year, sparking the Yuma War.",
-"media": "",
-"alt": ""
+    "description": "The California territorial government sends a military expedition to attack hostile Yuma Indians along the Colorado River in retaliation for the Glanton Massacre earlier in the year, sparking the Yuma War." 
   },
   {
     "year": "1850",
     "location": "Oregon City, Oregon",
     "date": "June 3",
-    "description": "Five Cayuse tribesmen are hanged in Oregon City for their participation in the Whitman massacre.",
-"media": "",
-"alt": ""
+    "description": "Five Cayuse tribesmen are hanged in Oregon City for their participation in the Whitman massacre." 
   },
   {
     "year": "1850",
     "location": "San Jose, California",
     "date": "September 9",
     "description": "California is admitted as the 31st U.S. state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-California_State_Seal.png"),
+    "alt": "The Great Seal of the State of California"
   },
   {
     "year": "1850",
     "location": "Washington, DC, New Mexico and Utah",
     "date": "September 9",
     "description": "The New Mexico Territory and Utah Territory are organized by order of Congress.",
-"media": "",
-"alt": ""
+    "media": require("../images/1850-NM_UT_Territories.png"),
+    "alt": "The Territorial Coat of Arms for New Mexico and Utah"
   },
   {
     "year": "1850",
     "location": "Washington, DC and Oregon",
     "date": "September 27",
-    "description": "The Donation Land Claim Act takes effect to promote homestead settlement in the Oregon Territory.",
-"media": "",
-"alt": ""
+    "description": "The Donation Land Claim Act takes effect to promote homestead settlement in the Oregon Territory." 
   },
   {
     "year": "1850",
     "location": "Washington, DC and Fillmore, Utah",
     "date": "September 29",
     "description": "President Millard Fillmore appoints Brigham Young the first governor of the Utah Territory.",
-    "media": require("../images/1850-Brigham_Young.jpg/")
+    "media": require("../images/1850-Brigham_Young.jpg/"),
+    "alt": "Brigham Young"
   },
   {
     "year": "1851",
     "location": "Terre Haute, Indiana",
     "date": "",
     "description": "The phrase 'Go West, young man' first appears in an editorial by Indiana newspaper writer John B.L. Soule in the Terre Haute Express. The saying is later popularized by Horace Greeley, editor of the New-York Tribune.",
-"media": "",
-"alt": ""
+    "media": require("../images/1851-Horace_Greeley.jpg"),
+    "alt": "Horace Greeley, to whom the saying 'Go West, young man' is attributed"
   },
   {
     "year": "1851",
     "location": "Rochester, New York",
     "date": "",
     "description": "Western Union is founded as The New York and Mississippi Valley Printing Telegraph Company.",
-"media": "",
-"alt": ""
+    "media": require("../images/1851-Western_Union.jpg"),
+    "alt": "Samuel Morse Demonstrates his newly invented telegraph, c. 1838"
   },
   {
     "year": "1851",
     "location": "Portland, Oregon",
     "date": "January 23",
-    "description": "The flip of a coin determines whether a new city in Oregon is named after Boston, Massachusetts, or Portland, Maine, with Portland winning.",
-"media": "",
-"alt": ""
+    "description": "The flip of a coin determines whether a new city in Oregon is named after Boston, Massachusetts, or Portland, Maine, with Portland winning." 
   },
   {
     "year": "1851",
     "location": "Gila Bend, Arizona",
     "date": "February 18",
-    "description": "A family of Brewsterite pioneers traveling a southern route to California is massacred by Indians on the banks of the Gila River in what is now Arizona. Thirteen-year-old Olive Oatman and her eight-year-old sister Mary Ann are abducted and enslaved.",
-    "media": require("../images/1851-Olive_Oatman.jpg")
+    "description": "A family of Brewsterite pioneers traveling a southern route to California is massacred by Indians on the banks of the Gila River in what is now Arizona. Thirteen-year-old Olive Oatman and her eight-year-old sister Mary Ann are abducted and enslaved, Mary Ann died of starvation.",
+    "media": require("../images/1851-Olive_Oatman.jpg"),
+    "alt": "Olive Oatman 1838–1903, albumen silver print, c. 1863 by Benjamin F. Powelson. The blue tattoo on her face was to make her more recognizable to her captors, she was the first known white woman with a Native tattoo on record"
   },
   {
     "year": "1851",
     "location": "Washington, DC",
     "date": "February 27",
-    "description": "Congress passes the Appropriation Bill for Indian Affairs, which allocates funds to move western Native American tribes on to permanent reservations enclosed and protected by the federal government. The act sets the precedent for modern reservations in the United States.",
-"media": "",
-"alt": ""
+    "description": "Congress passes the Appropriation Bill for Indian Affairs, which allocates funds to move western Native American tribes on to permanent reservations enclosed and protected by the federal government. The act sets the precedent for modern reservations in the United States." 
   },
   {
     "year": "1851",
     "location": "Yosemite Valley, California",
     "date": "March 27",
     "description": "Mariposa Battalion, led by James D. Savage, are the first reported non-natives to enter California's Yosemite Valley.",
-"media": "",
-"alt": ""
+    "media": require("../images/1851-Yosemite_Valley.jpg"),
+    "alt": "The First Picture of Yosemite Valley, sketch by Thomas Ayres, 1855"
   },
   {
     "year": "1851",
     "location": "Watrous, New Mexico",
     "date": "July 26",
     "description": "Fort Union is established in the New Mexico Territory.",
-"media": "",
-"alt": ""
+    "media": require("../images/1851-Fort_Union.jpeg"),
+    "alt": "Ruins of Fort Union, at the Fort Union National Monument, New Mexico"
   },
   {
     "year": "1851",
     "location": "Guernsey, Wyoming",
     "date": "September 17",
     "description": "The Treaty of Fort Laramie (1851) is negotiated between the United States government and representatives of ten Native American tribes of the Great Plains, including the Lakota, Crow, and Cheyenne. The tribes agree to provide safe passage for westward migrants and permit the construction of roads and forts in their territories in return for an annuity of $50,000 for fifty years.",
-    "media": require("../images/1851-Washakie.jpg")
+    "media": require("../images/1851-Washakie.jpg"),
+    "alt": "Washakie (c. 1804/1810 – February 20, 1900), a prominent Shoshoni chief holding a catlinite pipe"
   },
   {
     "year": "1851",
     "location": "Seattle, Washington",
     "date": "November 13",
     "description": "The Denny Party lands at Alki Point, the first settlers of what will become Seattle, Washington.",
-"media": "",
-"alt": ""
+    "media": require("../images/1851-Denny_Party.jpg"),
+    "alt": "Alki Point, where the Denny Party made their initial land claims. Seattle, Washington, USA, viewed from Elliott Bay"
   },
   {
     "year": "1852",
     "location": "New York, New York",
     "date": "March 18",
     "description": "The Wells Fargo company is founded to provide express and banking services to California.",
-"media": "",
-"alt": ""
+    "media": require("../images/1852-Wells_Fargo.jpg"),
+    "alt": "The Wells Fargo stage stop built in 1872 in Black Canyon City, Arizona"
   },
   {
     "year": "1853",
     "location": "San Francisco, California",
     "date": "March 1",
     "description": "Levi Strauss arrives in San Francisco and opens a store supplying goods and clothing to Gold Rush miners.",
-"media": "",
-"alt": ""
+    "media": require("../images/1853-Levi_Strauss.jpg"),
+    "alt": "The original Levi's factory, at 14-16 Battery Street in San Francisco"
   },
   {
     "year": "1853",
     "location": "Washington, DC and Olympia, Washington",
     "date": "March 2",
     "description": "The Washington Territory is organized from a portion of the Oregon Territory.",
-"media": "",
-"alt": ""
+    "media": require("../images/1853-Washington_Territory_Seal.png"),
+    "alt": "The Great Seal of the Territory of Washington"
   },
   {
     "year": "1853",
     "location": "Junction City, Kansas",
     "date": "June 27",
     "description": "Fort Riley is established in what is now Kansas.",
-"media": "",
-"alt": ""
+    "media": require("../images/1853-Fort_Riley_Custer_House.jpg"),
+    "alt": "Constructed in 1855 of native limestone, the Custer House is one of two surviving sets of quarters from Fort Riley's establishment. It depicts military life on the Western frontier and features displays that show the living conditions of a typical military family"
   },
   {
     "year": "1853",
     "location": "Dallas, Oregon",
     "date": "July 13",
-    "description": "In the case of Holmes v. Ford, a decision of the Oregon Territorial Supreme Court reaffirms that slavery is illegal in the Oregon Territory, concluding the last challenge of abolitionist law by pro-slavery elements living in Oregon.",
-"media": "",
-"alt": ""
+    "description": "In the case of Holmes v. Ford, a decision of the Oregon Territorial Supreme Court reaffirms that slavery is illegal in the Oregon Territory, concluding the last challenge of abolitionist law by pro-slavery elements living in Oregon." 
   },
   {
     "year": "1853",
     "location": "Sevier Lake, Utah",
     "date": "October 26",
     "description": "Paiute Indians attack U.S. Army Captain John W. Gunnison and his party of 37 soldiers and railroad surveyors near Sevier Lake, Utah.",
-"media": "",
-"alt": ""
+    "media": require("../images/1853-John_Williams_Gunnison.jpeg"),
+    "alt": "Portrait of John Williams Gunnison in military uniform"
   },
   {
     "year": "1853",
     "location": "Southern Arizona and New Mexico",
     "date": "December 30",
     "description": "The United States and Mexico agree to the Gadsden Purchase, transferring portions of southern Arizona and New Mexico to the U.S.",
-"media": "",
-"alt": ""
+    "media": require("../images/1853-Gadsden_Purchase.png"),
+    "alt": "Map showing the area of the Gadsden Purchase (highlighted in yellow)"
   },
   {
     "year": "1854",
     "location": "Baja California and Sonora, Mexico",
     "date": "February 13",
     "description": "The Mexican army forces would-be conqueror William Walker and his mercenary troops to retreat to Sonora.",
-"media": "",
-"alt": ""
+    "media": require("../images/1854-William_Walker.jpg"),
+    "alt": "'General' William Walker"
   },
   {
     "year": "1854",
     "location": "Marshall, TX and New Orleans, LA",
     "date": "February 14",
-    "description": "Texas is linked by telegraph with the rest of the country when a connection between New Orleans and Marshall, Texas is completed.",
-"media": "",
-"alt": ""
+    "description": "Texas is linked by telegraph with the rest of the country when a connection between New Orleans and Marshall, Texas is completed." 
   },
   {
     "year": "1854",
     "location": "Washington, DC",
     "date": "May 30",
     "description": "The Kansas–Nebraska Act becomes law, creating the Kansas Territory and Nebraska Territory. A provision that settlers will vote on the legality of slavery in the new territories effectively rescinds the Missouri Compromise of 1820 and touches off an epidemic of violence and electoral fraud beginning the next year.",
-"media": "",
-"alt": ""
+    "media": require("../images/1854-Kansas_Nebraska_Act.jpg"),
+    "alt": "J.H. Colton’s map of Nebraska and Kansas, 1855"
   },
   {
     "year": "1854",
     "location": "Omaha, Nebraska",
     "date": "July 4",
     "description": "Omaha City is founded in the Nebraska Territory.",
-"media": "",
-"alt": ""
+    "media": require("../images/1854-Omaha_Nebraska.jpg"),
+    "alt": "Looking Northwest from 13th and Farnam Streets in Omaha in 1860. The territorial capitol is visitble on the hill in background"
   },
   {
     "year": "1854",
     "location": "Lingle, Wyoming",
     "date": "August 19",
-    "description": "An argument over a stray cow precipitates the Grattan massacre, in which 30 U.S. Army soldiers and an interpreter are killed in retaliation for the shooting of Chief Conquering Bear of the Lakota Sioux.",
-"media": "",
-"alt": ""
+    "description": "An argument over a stray cow precipitates the Grattan massacre, in which 30 U.S. Army soldiers and an interpreter are killed in retaliation for the shooting of Chief Conquering Bear of the Lakota Sioux." 
   },
   {
     "year": "1854",
     "location": "Sacramento, California",
     "date": "December 19",
-    "description": "Jonathan R. Davis, a veteran of the Mexican–American War and a gold rush prospector, single-handedly kills eleven armed immigrant outlaws near Sacramento, California using two revolvers and a Bowie knife.",
-"media": "",
-"alt": ""
+    "description": "Jonathan R. Davis, a veteran of the Mexican–American War and a gold rush prospector, single-handedly kills eleven armed immigrant outlaws near Sacramento, California using two revolvers and a Bowie knife." 
   },
   {
     "year": "1855",
     "location": "Minneapolis, Minnesota",
     "date": "January 23",
     "description": "The first permanent bridge across the Mississippi River opens for traffic in Minneapolis, Minnesota.",
-"media": "",
-"alt": ""
+    "media": require("../images/1855-Hennepin_Bridge.jpg"),
+    "alt": "The first Louis Henneping Bridge in 1855 (it has been replaced three times, the current (fourth) Hennepin Bridge was built in 1990)"
   },
   {
     "year": "1855",
     "location": "Garden County, Nebraska",
-    "date": "September 1",
+    "date": "September 2-3",
     "description": "U.S. Army detachments under Brigadier General William S. Harney defeat a band of Brulé Lakota led by Little Thunder at the Battle of Ash Hollow in present-day Garden County, Nebraska, a punitive expedition for the Grattan massacre.",
-"media": "",
-"alt": ""
+    "media": require("../images/1855-Battle_of_Ash_Hollow.jpg"),
+    "alt": "An 1878 depiction of the Battle of Ash Hollow"
   },
   {
     "year": "1856",
     "location": "Seattle, Washington",
     "date": "January 26",
     "description": "In the Puget Sound War, the Battle of Seattle is fought when an alliance of local Indians attacks pioneer settlements in the Washington Territory.",
-"media": "",
-"alt": ""
+    "media": require("../images/1856-Battle_of_Seattle.jpg"),
+    "alt": "'Battle of Seattle' by Emily Inez Denny"
   },
   {
     "year": "1856",
     "location": "Dallas, Texas",
     "date": "February 2",
     "description": "The city of Dallas is incorporated in Texas.",
-"media": "",
-"alt": ""
+    "media": require("../images/1856-Dallas.jpg"),
+    "alt": "One of the oldest photographs of Dallas, Texas from 1872.  At the time of it's incorporation in 1856 the city had less than 600 free residents and most of the original city burned down in 1860"
   },
   {
     "year": "1856",
     "location": "Lawrence, Kansas",
     "date": "May 21",
     "description": "The predominantly abolitionist town of Lawrence, Kansas is ransacked and looted by a pro-slavery militia.",
-"media": "",
-"alt": ""
+    "media": require("../images/1856-Lawrence_Kansas.jpg"),
+    "alt": "Ruins of Free State Hotel after Sacking of Lawrence, image from State Historical Society of Missouri"
   },
   {
     "year": "1856",
     "location": "Kansas",
     "date": "May 24",
     "description": "Outraged at the sacking of Lawrence, abolitionist John Brown and a party of Free-Staters murder five pro-slavery activists in rural Kansas Territory in the Pottawatomie massacre. In the three months of retaliatory raids and murders that follow, more than two dozen people are killed, marking the bloodiest episode of the Bleeding Kansas era.",
-"media": "",
-"alt": ""
+    "media": require("../images/1856-John_Brown.jpg"),
+    "alt": "John Brown (May 9, 1800 – December 2, 1859) was an American abolitionist leader"
   },
   {
     "year": "1857",
     "location": "Sonora, Mexico",
     "date": "April 1",
-    "description": "In the midst of Mexico's Reform War, former California Senator Henry A. Crabb leads a filibustering expedition into Sonora to aid Mexican rebels fighting government forces. The rebels turn on the Americans after they cross the border and Crabb's entire army is executed.",
-"media": "",
-"alt": ""
+    "description": "In the midst of Mexico's Reform War, former California Senator Henry A. Crabb leads a filibustering expedition into Sonora to aid Mexican rebels fighting government forces. The rebels turn on the Americans after they cross the border and Crabb's entire army is executed." 
   },
   {
     "year": "1857",
     "location": "Pima, Arizona",
     "date": "September 1",
     "description": "The Battle of Pima Butte, in what is now Arizona, is the last major battle fought solely between indigenous peoples in North America.",
-"media": "",
-"alt": ""
+    "media": require("../images/1857-Pima_Butte.jpg"),
+    "alt": "Two Mohave warriors in 1871, by Timothy H. O'Sullivan"
   },
   {
     "year": "1857",
     "location": "Utah",
     "date": "September 11",
-    "description": "Nearly 120 emigrants passing through the Utah Territory are massacred by a combined force of Mormon militiamen and Paiute Indians during the hysteria of the Utah War.",
-"media": "",
-"alt": ""
+    "description": "Nearly 120 emigrants passing through the Utah Territory are massacred by a combined force of Mormon militiamen and Paiute Indians during the hysteria of the Utah War." 
   },
   {
     "year": "1858",
     "location": "Seattle, Washington",
     "date": "February 19",
     "description": "Chief Leschi, a leader of the Nisqually people, is hanged by the territorial government of Washington after being wrongfully convicted of killing a colonel during the Puget Sound War.",
-"media": "",
-"alt": ""
+    "media": require("../images/1858-Chief_Leschi.png"),
+    "alt": "Nisqually Chief Leschi (1808-1858), portrait created in 1894, watercolor by Raphael Coombs. Courtesy Washington State Historical Society"
   },
   {
     "year": "1858",
     "location": "South Dakota",
     "date": "April 19",
     "description": "The Yankton Treaty, signed by the Yankton Sioux, cedes most of what is now eastern South Dakota to the United States.",
-"media": "",
-"alt": ""
+    "media": require("../images/1858-Yankton_Treaty.jpeg"),
+    "alt": "Treaty of 1858 monument in Charles Mix County, South Dakota"
   },
   {
     "year": "1858",
     "location": "St. Paul, Minnesota",
     "date": "May 11",
     "description": "Minnesota is admitted as the 32nd U.S. state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1858-Minnesota_State_Seal.png"),
+    "alt": "The Great Seal of the State of Minnesota"
   },
   {
     "year": "1858",
     "location": "Texas Panhandle",
     "date": "May 12",
     "description": "An army of Texas Rangers and Indian allies under the command of John Salmon Ford engages Comanche warriors in a series of battles after attacking villages in the Canadian River valley, the final actions of the Antelope Hills expedition.",
-"media": "",
-"alt": ""
+    "media": require("../images/1858-John_Ford.jpg"),
+    "alt": "Capt. John 'Rip' Ford"
   },
   {
     "year": "1858",
     "location": "Colorado",
     "date": "July 1",
     "description": "Gold is discovered in the Front Range of the Rocky Mountains. The resulting gold rush draws nearly 100,000 people to the Pike's Peak Country of present-day Colorado over the next three years.",
-"media": "",
-"alt": ""
+    "media": require("../images/1858-Pikes_Peak.jpg"),
+    "alt": "Gold prospectors in what was then the 'Pikes Peak' region of western Kansas Territory (modern Colorado), ca. 1858"
   },
   {
     "year": "1859",
     "location": "Nevada",
     "date": "May 1",
     "description": "The Comstock Lode, the first major discovery of silver ore in the country, provokes a silver rush in present-day Nevada that funds boomtowns including Virginia City and Gold Hill. Over the next 30 years, hundreds of mines extract more than $320 million in gold and silver from the region, making millionaires of investors such as George Hearst and the Bonanza Kings.",
-"media": "",
-"alt": ""
+    "media": require("../images/1859-Comstock_Lode.jpg"),
+    "alt": "'Mining on the Comstock', depicting the headframes and mills of the various mines, and mining technology used at Comstock, most prominently the method of square-set timbering developed there to work the veins"
   },
   {
     "year": "1859",
     "location": "Salem, Oregon",
     "date": "February 14",
     "description": "Oregon is admitted as the 33rd U.S. state.",
-"media": "",
-"alt": ""
+    "media": require("../images/1859-Oregon_State_Seal.png"),
+    "alt": "The Great Seal of the State of Oregon"
   },
   {
     "year": "1859",
     "location": "Brownsville, Texas",
     "date": "September 28",
     "description": "Mexican folk hero Juan Cortina and a large posse seize control of Brownsville, Texas in one of the major actions of the First Cortina War. His motivation is the legal abuses perpetrated by Texan authorities against ethnic Mexicans. The occupation only lasts two days, but the Cortina Troubles continue for another two years.",
-"media": "",
-"alt": ""
+    "media": require("../images/1859-Juan_Cortina.jpg"),
+    "alt": "Juan Nepomuceno Cortina, the 'Red Robber or the Rio Grande'"
   },
   {
     "year": "1860",
@@ -2978,7 +2957,7 @@ const data= [
     "date": "January 6",
     "description": "Alaska is admitted as the 49th U.S. state, marking the complete political incorporation of continental U.S. western territorial acquisitions.",
     "media": require("../images/1959_Alaska_State_Seal.png"),
-    "alt": "The Seal of the State of Alaska"
+    "alt": "The Great Seal of the State of Alaska"
   }
  ];
 
