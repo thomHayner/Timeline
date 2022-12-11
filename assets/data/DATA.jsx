@@ -1471,10 +1471,17 @@ const data= [
     "date": "February 26",
     "description": "Hundreds of Wiyot people are massacred by white settlers along the coast of what is now Humboldt County, California.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1860-Wiyot_map.png"),
+      "alt": "Map of Wiyot dialects and villages with locator"
     },
-    "coords": ""
+    "coords":
+      [
+        {
+          "lat": "40.7450° N",
+          "lng": "123.8695° W"
+        }
+      ]
+    
   },
   {
     "year": "1860",
@@ -1482,10 +1489,15 @@ const data= [
     "date": "April 14",
     "description": "The Pony Express completes its first westbound and eastbound deliveries between St. Joseph, Missouri and San Francisco, California.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1860-Pony_Express.jpg"),
+      "alt": "Pony Express postmark, 1860, westbound"
     },
-    "coords": ""
+    "coords": [
+      {
+        "lat": "",
+        "lng": ""
+      }
+    ]
   },
   {
     "year": "1860",
@@ -1493,8 +1505,8 @@ const data= [
     "date": "December 18",
     "description": "Texas Rangers under Lawrence Sullivan 'Sul' Ross attack a Comanche camp at the Battle of Pease River, where they discover Cynthia Ann Parker 24 years after her kidnapping.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1860-Cynthia_Ann_Parker.jpg"),
+      "alt": "Cynthia Ann Parker and her daughter in 1861 after being taken at Pease River, in a picture which was famous all over the United States"
     },
     "coords": ""
   },
@@ -1504,8 +1516,8 @@ const data= [
     "date": "January 29",
     "description": "Kansas is admitted to the Union as the 34th U.S. state, and a free state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Kansas_State_Seal.png"),
+      "alt": "The Great Seal of the State of Kansas"
     },
     "coords": ""
   },
@@ -1515,8 +1527,8 @@ const data= [
     "date": "February 1",
     "description": "A series of hostilities involving U.S. Army Lt. George Nicholas Bascom and Chiricahua Apache chief Cochise triggers the Chiricahua Wars, which remain a central conflict in Arizona and New Mexico for the next 25 years.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Cochise.png"),
+      "alt": "Bronze bust of Cochise by Betty Butts. Fort Bowie National Historic Site, Arizona"
     },
     "coords": ""
   },
@@ -1526,8 +1538,8 @@ const data= [
     "date": "February 1",
     "description": "A convention of the Texas legislature votes to secede from the Union.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-TX_Rebel_Flag.png"),
+      "alt": "The Texas Rebel Flag during the Civil War, Texas was a part of the Confederate States of America"
     },
     "coords": ""
   },
@@ -1537,8 +1549,8 @@ const data= [
     "date": "February 28",
     "description": "Colorado is organized as a U.S. territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Colorado_Territory.jpg"),
+      "alt": "The Territorial Coat of Arms for Colorado"
     },
     "coords": ""
   },
@@ -1548,8 +1560,8 @@ const data= [
     "date": "March 2",
     "description": "The Nevada Territory and Dakota Territory are organized.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Nevada_Dakota_Territory.png"),
+      "alt": "The Territorial Coat of Arms for Nevada and Dakota"
     },
     "coords": ""
   },
@@ -1560,7 +1572,7 @@ const data= [
     "description": "Governor of Texas Sam Houston is evicted from office for refusing to take an oath of loyalty to the Confederate States of America.",
     "media": { 
       "img": require("../images/1861-Sam_Houston.jpg"),
-      "alt": ""
+      "alt": "Sam Houston (March 2, 1793 – July 26, 1863), the 7th Governor of Texas"
     },
     "coords": ""
   },
@@ -1570,8 +1582,8 @@ const data= [
     "date": "March 28",
     "description": "The southern half of the New Mexico Territory nominally joins the Confederacy as the Provisional Confederate Territory of Arizona.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-NM_Sibley_Flag.png"),
+      "alt": "The Sibley Flag, flown by the Army of New Mexico during the Civil War, New Mexico was a part of the Confederate States of America"
     },
     "coords": ""
   },
@@ -1581,8 +1593,8 @@ const data= [
     "date": "July 25",
     "description": "250 Confederate troops led by John R. Baylor engage Union forces under Isaac Lynde at Mesilla, New Mexico, resulting in Lynde's troops retreating into the Organ Mountains, toward Fort Stanton. Lynde is relieved of duty after abandoning his post.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-John_Baylor.png"),
+      "alt": "John R. Baylor (July 27, 1822 - February 6, 1894)"
     },
     "coords": ""
   },
@@ -1592,8 +1604,8 @@ const data= [
     "date": "September 2",
     "description": "A small Confederate patrol from Fort Stanton is ambushed by Mescalero Apache warriors in New Mexico's Gallinas Mountains.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Fort_Stanton_Apache.png"),
+      "alt": "Apache bowman, waiting for an ambush"
     },
     "coords": ""
   },
@@ -1603,8 +1615,8 @@ const data= [
     "date": "October 24",
     "description": "The first transcontinental telegraph line is completed near Fort Bridger in present-day Wyoming, the result of an effort by Hiram Sibley and Western Union to connect California to the telegraph networks of the east. The ability to instantaneously send messages from coast to coast immediately makes the Pony Express obsolete.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1861-Pacific_Telegraph_Route.jpg"),
+      "alt": "Route of the first transcontinental telegraph"
     },
     "coords": ""
   },
@@ -1614,8 +1626,8 @@ const data= [
     "date": "January 1",
     "description": "Months of record precipitation in the far west culminate in the Great Flood of 1862, which turns California's Central Valley into an inland sea and causes millions of dollars in property damage.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Great_Flood.jpg"),
+      "alt": "Lithograph of K Street in the city of Sacramento, California — during the Great Flood of 1862 The flood affected the Western United States, from Oregon through California, and Idaho through New Mexico"
     },
     "coords": ""
   },
@@ -1626,7 +1638,7 @@ const data= [
     "description": "Confederate forces under Brigadier General Henry Hopkins Sibley and Colonel Thomas Green undertake one of the most ambitious military operations of the American Civil War when they begin the New Mexico Campaign. Their goals include seizing the Colorado gold fields and securing roads by which to invade California and Mexico.",
     "media": { 
       "img": require("../images/1862-Henry_Hopkins_Sibley.jpg"),
-      "alt": ""
+      "alt": "Henry Hopkins Sibley (May 25, 1816 - August 23, 1886"
     },
     "coords": ""
   },
@@ -1636,8 +1648,8 @@ const data= [
     "date": "February 20",
     "description": "The Battle of Valverde is fought at a ford of Valverde Creek in present-day New Mexico, resulting in a Confederate victory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Battle_of_Valverde.jpg"),
+      "alt": "A soldiers sketch of the Battle of Valverde"
     },
     "coords": ""
   },
@@ -1645,10 +1657,10 @@ const data= [
     "year": "1862",
     "location": "San Miguel County, New Mexico",
     "date": "March 26",
-    "description": "The Battle of Glorieta Pass is fought in the Sangre de Cristo Mountains between Confederate cavalry forces and Union volunteers from Colorado and New Mexico. It marks a turning point in the New Mexico Campaign in favor of the Union.",
+    "description": "The Battle of Glorieta Pass, sometimes called the 'Gettysburg of the West', is fought in the Sangre de Cristo Mountains between Confederate cavalry forces and Union volunteers from Colorado and New Mexico. It marks a turning point in the New Mexico Campaign in favor of the Union.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Glorietta_Pass.png"),
+      "alt": "Battle of Glorieta Pass - Pigeon's Ranch by Roy Andersen"
     },
     "coords": ""
   },
@@ -1658,8 +1670,8 @@ const data= [
     "date": "March 30",
     "description": "The Battle of Stanwix Station is fought at a Butterfield Overland Mail stagecoach stop 80 miles east of Yuma, Arizona between Capt. William P. Calloway of the California Column and Confederate 2nd Lt. Jack Swilling.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Jack_Swilling.jpg"),
+      "alt": "Jack Swilling with his Apache ward Guillermo Swilling, c. 1875"
     },
     "coords": ""
   },
@@ -1669,8 +1681,8 @@ const data= [
     "date": "April 15",
     "description": "The Battle of Picacho Pass is fought between the 1st California Cavalry under Union Lt. James Barrett and a detachment of Arizona Confederates led by Sgt. Henry Holmes. It is often cited as the westernmost battle of the American Civil War, occurring 50 miles northwest of Tucson.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Picacho_Peak.jpeg"),
+      "alt": "Photo taken of the south face of Picacho Peak, Arizona"
     },
     "coords": ""
   },
@@ -1679,10 +1691,6 @@ const data= [
     "location": "Benson, Arizona",
     "date": "May 5",
     "description": "Confederate Sgt. Sam Ford and his men are ambushed by Apache warriors led by Cochise in the Dragoon Mountains, near present-day Benson, Arizona, at the First Battle of Dragoon Springs.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -1690,10 +1698,6 @@ const data= [
     "location": "Cochise County, Arizona",
     "date": "May 9",
     "description": "The Second Battle of Dragoon Springs is fought in retaliation for the deaths of the four Confederates killed at the Apache ambush four days earlier. Rebels under Capt. Sherod Hunter take back the cattle stolen by Cochise and his warriors and kill five Apaches.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -1702,8 +1706,8 @@ const data= [
     "date": "May 20",
     "description": "The Homestead Act of 1862 is signed into law by President Abraham Lincoln. It aims to encourage settlement in the West by simplifying the process of land acquisition: homesteaders need only claim, occupy for five years, and improve a minimum of 160 acres of unappropriated land to be granted full ownership. Alternatively, settlers have the option of purchasing the land outright after six months of residency.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Homestead_Certificate.jpg"),
+      "alt": "Certificate of homestead in Nebraska given under the Homestead Act, 1862"
     },
     "coords": ""
   },
@@ -1713,8 +1717,8 @@ const data= [
     "date": "July 15",
     "description": "140 Union troops from the California Column are ambushed by 500 Apaches under Mangas Coloradas and Cochise at the Battle of Apache Pass in Arizona's Chiricahua Mountains. It is one of the first battles in which the United States Army is able to effectively use artillery against Indians. Fort Bowie is built near the site following the battle.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Fort_Bowie_in_1886.jpg"),
+      "alt": "A photograph of Fort Bowie in 1886, courtesy National Park Service"
     },
     "coords": ""
   },
@@ -1724,8 +1728,8 @@ const data= [
     "date": "August 10",
     "description": "More than 30 people are killed when a group of Unionist German Texan settlers fleeing the Texas Hill Country for Mexico is attacked by a Confederate detachment along the Nueces River.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-German_Texans.jpg"),
+      "alt": "Unionists throughout the Confederate States, including Germans, resisted the imposition of conscription in 1862"
     },
     "coords": ""
   },
@@ -1735,8 +1739,8 @@ const data= [
     "date": "August 17",
     "description": "The Dakota War of 1862 begins when a Sioux hunting party slaughters five white settlers and the tribal council decides to attack white settlements throughout the Minnesota River valley.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Dakota_War.jpg"),
+      "alt": "1904 painting 'Attack on New Ulm' by Anton Gag"
     },
     "coords": ""
   },
@@ -1746,8 +1750,8 @@ const data= [
     "date": "November 5",
     "description": "More than 300 Santee Sioux in Minnesota are sentenced to hang for the rape and murder of white settlers.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1862-Mankato_Hanging.jpg"),
+      "alt": "Drawing of an 1862 mass hanging in Mankato, Minnesota"
     },
     "coords": ""
   },
@@ -1757,10 +1761,10 @@ const data= [
     "date": "January 1",
     "description": "Daniel Freeman submits the first claim under the Homestead Act of 1862 for land near Beatrice, Nebraska.",
     "media": { 
-      "img": "../images/",
+      "img": require("../images/1863-Daniel_Freeman_Homestead_Application.jpg"),
       "alt": ""
     },
-    "coords": ""
+    "coords": "Daniel Freeman's Homestead Application"
   },
   {
     "year": "1863",
@@ -1768,8 +1772,8 @@ const data= [
     "date": "January 18",
     "description": "Chiricahua Apache leader Mangas Coloradas is captured, tortured, and killed by U.S. Army sentries after meeting with Brigadier General Joseph Rodman West to call for peace.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Mangas_Coloradas_Autopsy.jpg"),
+      "alt": "Drawing of Skull of Mangas Coloradas after being tortured, from 1873 book 'Human Science' p. 1196 by Orson Squire Fowler"
     },
     "coords": ""
   },
@@ -1779,8 +1783,8 @@ const data= [
     "date": "January 29",
     "description": "Colonel Patrick Edward Connor leads his troops to fight Shoshone Indians in present-day Idaho, resulting in the Bear River Massacre.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Chief_Sagwitch_and_Beawoachee.jpg"),
+      "alt": "Massacre survivor Chief Sagwitch and spouse Beawoachee, circa 1875"
     },
     "coords": ""
   },
@@ -1790,8 +1794,8 @@ const data= [
     "date": "February 24",
     "description": "The Arizona Territory is organized from a portion of the New Mexico Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Arizona_Territory.jpg"),
+      "alt": "The Official Seal of the Territory of Arizona"
     },
     "coords": ""
   },
@@ -1801,8 +1805,8 @@ const data= [
     "date": "March 4",
     "description": "Idaho is organized as a U.S. territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Idaho_Territory.jpg"),
+      "alt": "The Territorial Coat of Arms for Idaho"
     },
     "coords": ""
   },
@@ -1812,8 +1816,8 @@ const data= [
     "date": "August 21",
     "description": "Confederate guerrillas led by William Quantrill set fire to the pro-Union town of Lawrence, Kansas and kill nearly 200 civilians in the Lawrence massacre. Quantrill claims his motive was revenge for the Sacking of Osceola several years earlier.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Battle_of_Lawrence.png"),
+      "alt": "Print showing Rebel troops killing the citizens of Lawrence, Kansas, and setting fire to the buildings"
     },
     "coords": ""
   },
@@ -1823,8 +1827,8 @@ const data= [
     "date": "August 25",
     "description": "In the aftermath of the Lawrence massacre, Union General Thomas Ewing Jr. issues General Order No. 11, which forces the expulsion of all residents who cannot prove their allegiance to the Union from four counties in rural western Missouri.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1863-Order_No_11.jpg"),
+      "alt": "George Caleb Bingham painting of General Order No. 11. In this famous propaganda work General Thomas Ewing is seated on a horse watching the Red Legs (the Red Legs were a secretive paramilitary organisation of abolitionist fighters on the western union border)"
     },
     "coords": ""
   },
@@ -1835,7 +1839,7 @@ const data= [
     "description": "John Bozeman leads a group of about 2,000 settlers along the Bozeman Trail, a new cutoff route connecting the Oregon Trail with the gold fields of southwestern Montana, which he and John Jacobs had blazed the previous year.",
     "media": { 
       "img": require("../images/1864-John_Bozeman.jpeg"),
-      "alt": ""
+      "alt": "John Bozeman (January 1835 - April 20, 1867)"
     },
     "coords": ""
   },
@@ -1845,8 +1849,8 @@ const data= [
     "date": "January 1",
     "description": "Colonel Kit Carson accepts the surrender of most of the Navajo nation after the final two years of the bloody Navajo Wars.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Kit_Carson.jpg"),
+      "alt": "Colonel Kit Carson (December 24, 1809 - May 23, 1868)"
     },
     "coords": ""
   },
@@ -1856,8 +1860,8 @@ const data= [
     "date": "May 26",
     "description": "Montana is organized as a U.S. territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Montana_Territory.jpg"),
+      "alt": "The Territorial Coat of Arms for Montana"
     },
     "coords": ""
   },
@@ -1867,8 +1871,8 @@ const data= [
     "date": "July 1",
     "description": "Outlaw Jim Reynolds and his gang plunder and rob settlements in the South Park Basin of the Colorado Territory in an attempt to loot the gold mines of the region to support the fledgling Confederacy.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Jim_Reynolds.jpg"),
+      "alt": "Depiction of The Reynolds Gang robbing a stagecoach in South Park, CO"
     },
     "coords": ""
   },
@@ -1879,7 +1883,7 @@ const data= [
     "description": "Pro-Confederate bushwhackers led by William 'Bloody Bill' Anderson capture and execute 24 unarmed Union soldiers at a rail depot in Centralia, Missouri.",
     "media": { 
       "img": require("../images/1864-Bloody_Bill_Anderson.jpg"),
-      "alt": ""
+      "alt": "William T. 'Bloody Bill' Anderson (1840 - October 27, 1864)"
     },
     "coords": ""
   },
@@ -1889,8 +1893,8 @@ const data= [
     "date": "October 23",
     "description": "Union General Samuel R. Curtis' Army of the Border decisively defeats Confederate General Sterling Price's Army of Missouri at the Battle of Westport, near Kansas City. The battle ends the last major Confederate offensive west of the Mississippi River. The largest engagement in the Trans-Mississippi Theater, with over 30,000 men involved, it is sometimes called the 'Gettysburg of the West'.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Samuel_Curtis.jpg"),
+      "alt": "General Samuel Ryan Curtis (February 3, 1805 - 	December 26, 1866)"
     },
     "coords": ""
   },
@@ -1900,8 +1904,8 @@ const data= [
     "date": "October 25",
     "description": "In consecutive engagements only hours apart, Union cavalry under Alfred Pleasonton pursue and defeat Confederate forces under Sterling Price at Marais des Cygnes, Mine Creek, and Marmiton River as they retreat through Kansas and Missouri.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Price_Raid.jpg"),
+      "alt": "Confederate cavalry during Price's Raid drawn by Samuel J. Reader in 1865"
     },
     "coords": ""
   },
@@ -1911,8 +1915,8 @@ const data= [
     "date": "October 31",
     "description": "Nevada is admitted as the 36th U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Nevada_State_Seal.png"),
+      "alt": "The Great Seal of the State of Nevada"
     },
     "coords": ""
   },
@@ -1922,8 +1926,8 @@ const data= [
     "date": "November 29",
     "description": "Colonel John Chivington and his volunteer militia massacre a peaceful Cheyenne village near Sand Creek in the Colorado Territory, in what is later called the Sand Creek massacre.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1864-Sand_Creek.jpg"),
+      "alt": "Mochi, a Southern Cheyenne in Black Kettle's camp, became a warrior after her experiences at the Sand Creek massacre"
     },
     "coords": ""
   },
