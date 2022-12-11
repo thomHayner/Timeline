@@ -2862,10 +2862,6 @@ const data= [
     "location": "Fort Worth, Texas",
     "date": "",
     "description": "George Alford is sentenced to five years imprisonment for murdering a sheriff in Fort Worth, Texas.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2873,10 +2869,6 @@ const data= [
     "location": "Las Vegas, New Mexico",
     "date": "March 2",
     "description": "James Allen kills James Moorehead after ordering eggs in a tavern in Las Vegas, New Mexico and, after escaping from prison for Moorehead's murder, is killed by a posse.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2885,8 +2877,8 @@ const data= [
     "date": "May 1",
     "description": "The Tombstone Epitaph prints its first issue in Tombstone, Arizona. It remains the oldest continuously published newspaper in the state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1880-Tombstone_Epitaph.jpg"),
+      "alt": "Tombstone Epitaph Building in Tombstone, Arizona"
     },
     "coords": ""
   },
@@ -2896,8 +2888,8 @@ const data= [
     "date": "May 11",
     "description": "A dispute over land titles between settlers of California's San Joaquin Valley and the Southern Pacific Railroad leaves seven people dead in what is later called the Mussel Slough Tragedy.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1880-Mussel_Slough.jpg"),
+      "alt": "'The Retribution Comet' – Editorial cartoon published in The Wasp, July 8, 1881, depicting a comet with a skull about to strike railroad tycoons Leland Stanford and Collis Potter Huntington, shown robbing the graves of the Mussel Slough victims"
     },
     "coords": ""
   },
@@ -2907,8 +2899,8 @@ const data= [
     "date": "December 19",
     "description": "Tom O'Folliard, best friend of Billy the Kid, is shot and killed by members of Pat Garrett's posse in Fort Sumner, New Mexico.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1880-Tom_O'Folliard.jpg"),
+      "alt": "Tom O'Folliard (1858 – December 19, 1880) was the best friend of outlaw William 'Billy the Kid' Bonney; Both were members of the Regulators during the Lincoln County War"
     },
     "coords": ""
   },
@@ -2918,8 +2910,8 @@ const data= [
     "date": "December 23",
     "description": "Charlie Bowdre, a member of Billy the Kid's gang, is shot and killed by members of Pat Garrett's posse at Stinking Springs, New Mexico.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1880-Charlie_Bowdre.jpg"),
+      "alt": "Charles Bowdre (1848 – December 23, 1880) was an American cowboy and outlaw; He was an associate of Billy the Kid and member of his gang"
     },
     "coords": ""
   },
@@ -2928,10 +2920,6 @@ const data= [
     "location": "Socorro, New Mexico",
     "date": "December 24",
     "description": "Abran Baca kills A.M. Conklin in Socorro, New Mexico with several other outlaws, though he is acquitted the following year.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2940,8 +2928,8 @@ const data= [
     "date": "February 5",
     "description": "The city of Phoenix is incorporated in the Arizona Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1881-Phoenix.jpg"),
+      "alt": "Aerial lithograph of Phoenix from 1885"
     },
     "coords": ""
   },
@@ -2951,8 +2939,8 @@ const data= [
     "date": "April 14",
     "description": "A gunfight involving El Paso, Texas Marshal Dallas Stoudenmire results in what witnesses recall as 'four dead in five seconds'.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1881-Dallas_Stoudenmire.jpg"),
+      "alt": "Dallas Stoudenmire (December 11, 1845 – September 18, 1882) was an American Old West gunfighter and lawman who gained fame for a brief gunfight that was later dubbed the 'Four Dead in Five Seconds Gunfight.'; Stoudenmire had a deadly reputation in his day and was involved in several gunfights"
     },
     "coords": ""
   },
@@ -2963,7 +2951,7 @@ const data= [
     "description": "Billy the Kid is shot and killed by Sheriff Pat Garrett in Fort Sumner, New Mexico. He is buried the next day between his friends Tom O'Folliard and Charlie Bowdre in the town's old military cemetery.",
     "media": { 
       "img": require("../images/1881-Billy_the_Kid.jpg"),
-      "alt": ""
+      "alt": "Billy the Kid (born Henry McCarty; September 17 or November 23, 1859 – July 14, 1881)"
     },
     "coords": ""
   },
@@ -2973,8 +2961,8 @@ const data= [
     "date": "August 5",
     "description": "Crow Dog, a Lakota subchief on the Great Sioux Reservation, shoots and kills Chief Spotted Tail. Though the matter is settled by tribal custom, Crow Dog is sentenced to death under the laws of the Dakota Territory, only to be freed by a decision of the U.S. Supreme Court.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1881-Spotted_Tail.jpg"),
+      "alt": "Spotted Tail (Siŋté Glešká Siouan: [sɪ̃ˈte glɛˈʃka]; pronounced gleh-shka; birth name T'at'aŋka Napsíca 'Jumping Buffalo' Siouan: [t'at'ə̃ka naˈpsit͡ʃa]); born c. 1823 – died August 5, 1881) was a Brulé Lakota tribal chief"
     },
     "coords": ""
   },
@@ -2995,8 +2983,8 @@ const data= [
     "date": "December 13",
     "description": "San Jose, California becomes the first city west of the Rocky Mountains with civic electric lighting when a 237-foot-tall moonlight tower is illuminated downtown.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1881-San_Jose.jpg"),
+      "alt": "A postcard depicting the San Jose Moontower;  The design of the Eiffel Tower, in Paris, France, was inspired by the San Jose Moontower"
     },
     "coords": ""
   },
@@ -3006,8 +2994,8 @@ const data= [
     "date": "March 18",
     "description": "Morgan Earp is shot and killed while playing billiards in Tombstone, Arizona. His assassination is linked to his involvement in the Gunfight at the O.K. Corral.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1882-Morgan_Earp.jpg"),
+      "alt": "Morgan Seth Earp (April 24, 1851 – March 18, 1882) was an American sheriff and lawman; He served as Tombstone, Arizona's Special Policeman when he helped his brothers Virgil and Wyatt, as well as Doc Holliday, confront the outlaw Cochise County Cowboys in the Gunfight at the O.K. Corral"
     },
     "coords": ""
   },
@@ -3017,8 +3005,8 @@ const data= [
     "date": "March 24",
     "description": "Outlaw William 'Curly Bill' Brocius is shot and killed by Wyatt Earp at Iron Springs in southeastern Arizona.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1882-Curly_Bill_Brocius.jpg"),
+      "alt": "William Brocius (c. 1845 – March 24, 1882), better known as Curly Bill Brocius, was an American gunman, rustler and an outlaw Cowboy in the Cochise County area of the Arizona Territory during the late 1870s and early 1880s"
     },
     "coords": ""
   },
@@ -3028,8 +3016,8 @@ const data= [
     "date": "April 3",
     "description": "Jesse James is shot in the back of the head by Robert Ford, a new recruit to his gang, at his home in St. Joseph, Missouri.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1882-Robert_Ford.jpg"),
+      "alt": "Robert Newton Ford (January 31, 1862 – June 8, 1892) was an American outlaw best known for his assassination of Jesse James on April 3, 1882"
     },
     "coords": ""
   },
@@ -3038,10 +3026,6 @@ const data= [
     "location": "Trinidad, Colorado",
     "date": "April 16",
     "description": "John Allen mortally wounds Frank Loving during a shootout in Trinidad, Colorado.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3050,8 +3034,8 @@ const data= [
     "date": "May 6",
     "description": "President Chester A. Arthur signs the Chinese Exclusion Act, which effects a near-complete ban on Chinese immigration and naturalization in the United States. The law is especially significant for the burgeoning railroad and mining industries in the West, which had previously relied largely on low-wage Chinese labor. Though the original act is set to expire in ten years, it is renewed in 1892 and again in 1902.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1882-Chester_Alan_Arthur.jpg"),
+      "alt": "Chester Alan Arthur (October 5, 1829 – November 18, 1886) was an American lawyer and politician who served as the 21st president of the United States"
     },
     "coords": ""
   },
@@ -3060,10 +3044,6 @@ const data= [
     "location": "Big Dry Wash, Arizona",
     "date": "July 17",
     "description": "U.S. cavalry under Adna R. Chaffee and Andrew W. Evans pursue and defeat warriors of the White Mountain Apache tribe at the Battle of Big Dry Wash in the Arizona Territory.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3072,8 +3052,8 @@ const data= [
     "date": "November 14",
     "description": "'Buckskin' Frank Leslie shoots and kills outlaw Billy Claiborne while bartending at the Oriental Saloon in Tombstone, Arizona.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1882-Buckskin_and_Claiborne.png"),
+      "alt": "Buckskin Franklyn Leslie (March 18, 1842 – after 1920), left; Billy Claiborne (1860 – November 14, 1882), right"
     },
     "coords": ""
   },
@@ -3083,8 +3063,8 @@ const data= [
     "date": "January 12",
     "description": "The Southern section of the second transcontinental railroad line is completed.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1883-Southern_Pacific.jpg"),
+      "alt": "A Southern Pacific train at Los Angeles' Arcade Depot in 1891"
     },
     "coords": ""
   },
@@ -3094,8 +3074,8 @@ const data= [
     "date": "September 8",
     "description": "The Northern Pacific Railroad is completed near Independence Creek in western Montana Territory, connecting St. Paul, Minnesota with the Washington Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1883-Northern_Pacific_Railway.jpeg"),
+      "alt": "The line encouraged people to make their homes in the Pacific Northwest by having an 'immigration agent' and offering special excursion trains for prospective buyers during the winter months"
     },
     "coords": ""
   },
@@ -3104,10 +3084,6 @@ const data= [
     "location": "Bisbee, Arizona",
     "date": "December 8",
     "description": "In the Bisbee massacre, five outlaws rob a general store in Bisbee, Arizona and kill four people in the process.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3116,8 +3092,8 @@ const data= [
     "date": "March 11",
     "description": "Former lawmen Ben Thompson and John King Fisher are ambushed and killed by enemies of Thompson at the Jack Harris Vaudeville Saloon and Theater in San Antonio, Texas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1884-Thompson_and_King.png"),
+      "alt": "Ben Thompson (November 2, 1843 – March 11, 1884), left; John King Fisher (October 1853 – March 11, 1884), right"
     },
     "coords": ""
   },
@@ -3127,8 +3103,8 @@ const data= [
     "date": "April 10",
     "description": "Lawman William 'Bill' Tilghman is appointed city marshal of Dodge City, Kansas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1884-William_Tilghman.jpg"),
+      "alt": "William Matthew Tilghman Jr. (July 4, 1854 – November 1, 1924) was a career lawman, gunfighter, and politician in Kansas and Oklahoma during the late 19th century"
     },
     "coords": ""
   },
@@ -3138,8 +3114,8 @@ const data= [
     "date": "May 17",
     "description": "The Department of Alaska is organized into the District of Alaska.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1884-District_of_Alaska_Seal.png"),
+      "alt": "The Official Seal of the District of Alaska"
     },
     "coords": ""
   },
@@ -3149,8 +3125,8 @@ const data= [
     "date": "December 1",
     "description": "A 36-hour standoff begins in the town of Reserve, New Mexico when a posse of Texan cowboys confronts lawman Elfego Baca for having arrested an intoxicated cowboy.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1884-Elfebo_Baca.png"),
+      "alt": "Elfego Baca (February 10, 1865 – August 27, 1945) was a gunman, lawman, lawyer, and politician in New Mexico; during the later years of the New Mexico Territory frontier he became an American folk hero"
     },
     "coords": ""
   },
@@ -3160,8 +3136,8 @@ const data= [
     "date": "September 2",
     "description": "Years of racial tension, aggravated by labor unrest over the preferential hiring of Chinese immigrants for very low wages, come to a head in the Rock Springs massacre, which leaves at least 28 Chinese coal miners dead at the hands of white miners in the town of Rock Springs, Wyoming. The riot touches off a wave of anti-Chinese violence across the country.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1885-Rock_Springs.jpg"),
+      "alt": "'The Massacre of the Chinese at Rock Springs, Wyoming': Illustration of the 1885 riot and massacre of Chinese-American coal miners, by white miners. Wood engraving from Harper's Weekly: Harper's Weekly, Vol. 29"
     },
     "coords": ""
   },
@@ -3171,8 +3147,8 @@ const data= [
     "date": "",
     "description": "Jack Langrishe, a popular western entertainer, is elected justice in Coeur d’Alene, Idaho.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1886-Jack_Langrishe.jpg"),
+      "alt": "John Sewell 'Jack' Langrishe (September 24, 1825 – December 12, 1895), popularly known as the 'Comedian of the Frontier', was an Irish-American actor and impresario who travelled extensively throughout the American West and later in life became one of the first State Senators of Idaho"
     },
     "coords": ""
   },
@@ -3181,10 +3157,6 @@ const data= [
     "location": "Parral, Mexico",
     "date": "February 18",
     "description": "Dave Rudabaugh, a former member of Billy the Kid's Dodge City Gang, is reportedly captured and decapitated by townspeople after terrorizing the village of Parral, Mexico.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3192,10 +3164,6 @@ const data= [
     "location": "Tascosa, Texas",
     "date": "March 21",
     "description": "The 'Big Fight' takes place in Tascosa, Texas, when three ex-members of Pat Garrett's 'Home Rangers' are killed by rival ranch hands and gunmen.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3203,10 +3171,6 @@ const data= [
     "location": "Fort Fred Steele, Wyoming",
     "date": "August 7",
     "description": "Fort Fred Steele, used to protect railroads from local Native American tribes in the Wyoming Territory, is closed.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3215,8 +3179,8 @@ const data= [
     "date": "August 20",
     "description": "Fort Duchesne is officially opened by Major Frederick William Benteen in the Utah Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1886-Frederick_W_Benteen.jpg"),
+      "alt": "Frederick William Benteen (August 24, 1834 – June 22, 1898) was a military officer who first fought during the American Civil War"
     },
     "coords": ""
   },
@@ -3227,7 +3191,7 @@ const data= [
     "description": "Apache renegade Geronimo surrenders to forces under General Nelson Miles and is taken into custody at Fort Grant, Arizona. His surrender is often considered the end of the Apache Wars.",
     "media": { 
       "img": require("../images/1886-Goyaale.jpg"),
-      "alt": ""
+      "alt": "Geronimo (Mescalero-Chiricahua: Goyaałé, Athabaskan pronunciation: [kòjàːɬɛ́], lit. 'the one who yawns'; June 16, 1829 – February 17, 1909) was a prominent leader and medicine man from the Bedonkohe band of the Ndendahe Apache people"
     },
     "coords": ""
   },
@@ -3237,8 +3201,8 @@ const data= [
     "date": "December 1",
     "description": "Brothers Jim and Rube Burrow rob their first train in Bellevue, Texas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1886-Rube_Burrow.jpg"),
+      "alt": "Reuben Houston Burrow (December 11, 1855 – October 9, 1890), better known as Rube Burrow, was an infamous train-robber and outlaw in the Southern and Southwestern United States"
     },
     "coords": ""
   },
@@ -3248,8 +3212,8 @@ const data= [
     "date": "January 1",
     "description": "The extremely harsh winter of 1886–87 devastates the American cattle industry, leading to the end of the open range era. As a result, cattle ranching is completely reorganized and the period of the great cattle drives is over.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1887-Great_Plains.jpg"),
+      "alt": "Waiting for a Chinook, by Charles Marion Russell; overgrazing and harsh winters were factors that brought an end to the age of the Open Range"
     },
     "coords": ""
   },
@@ -3259,8 +3223,8 @@ const data= [
     "date": "February 8",
     "description": "The Dawes Act is signed into law by President Grover Cleveland, permitting the federal government to divide communal Native American lands into privately owned allotments and to grant United States citizenship to individual allottees. Intended as a way to modernize the reservation system and assimilate Native Americans into mainstream society, the act forces the sale and redistribution of nearly 90 million acres of Indian lands in the West to white settlers and commercial interests over the next five decades.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1887-Grover_Cleveland.jpg"),
+      "alt": "Stephen Grover Cleveland (March 18, 1837 – June 24, 1908) was an American lawyer and politician who served as the 22nd and 24th president of the United States"
     },
     "coords": ""
   },
@@ -3270,8 +3234,8 @@ const data= [
     "date": "February 8",
     "description": "Luke Short kills former Fort Worth, Texas Marshal Jim Courtright in a gunfight on the streets of Fort Worth. The shooting is ruled self-defense, since Courtright drew his pistol first.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1887-Short_and_Courtright.png"),
+      "alt": "Luke Lamar Short (January 22, 1854 – September 8, 1893), on the left; Timothy Isaiah Courtright (1848 – February 8, 1887), also known as 'Longhair Jim' or 'Big Jim' Courtright, on the right"
     },
     "coords": ""
   },
@@ -3281,8 +3245,8 @@ const data= [
     "date": "January 12",
     "description": "A severe winter storm known as the Schoolhouse Blizzard kills more than 235 people across a vast area of the Great Plains including the Dakota Territory, Nebraska, and Kansas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1888-Schoolhouse_Blizzard.jpg"),
+      "alt": "Scenes and Incidents from the Recent Terrible Blizzard in Dakota on January 12, 1888; published in Frank Leslie's Weekly"
     },
     "coords": ""
   },
@@ -3292,8 +3256,8 @@ const data= [
     "date": "December 18",
     "description": "Richard Wetherill and his brother-in-law discover the Cliff Palace of Mesa Verde in southwestern Colorado.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1888-Mesa_Verde.jpg"),
+      "alt": "Cliff Palace in 1891"
     },
     "coords": ""
   },
@@ -3303,8 +3267,8 @@ const data= [
     "date": "January 12",
     "description": "During the Gray County War, a shootout erupts in Cimarron, Kansas when a party led by Bill Tilghman raids the Old Gray County Courthouse in an attempt to bring the county records to the neighboring town of Ingalls.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Old_Gray_Courthouse.jpg"),
+      "alt": "The old Gray County Courthouse in Cimarron, Kansas"
     },
     "coords": ""
   },
@@ -3315,7 +3279,7 @@ const data= [
     "description": "Belle Starr is murdered in Oklahoma.",
     "media": { 
       "img": require("../images/1889-Belle_Starr.jpg"),
-      "alt": ""
+      "alt": "Myra Maybelle Shirley Reed Starr (February 5, 1848 – February 3, 1889), better known as Belle Starr, was an American outlaw who gained national notoriety after her violent death"
     },
     "coords": ""
   },
@@ -3325,8 +3289,8 @@ const data= [
     "date": "April 22",
     "description": "An estimated 50,000 homesteaders rush to claim nearly two million acres of unoccupied land appropriated for public settlement from ceded Native American territory in what is now central Oklahoma. It is the first of several major land runs in the region.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Land_Rush_Oklahoma.jpg"),
+      "alt": "Postcard depicting the land rush in Oklahoma, 1889"
     },
     "coords": ""
   },
@@ -3336,8 +3300,8 @@ const data= [
     "date": "May 11",
     "description": "U.S. Army paymaster Joseph W. Wham and his escort of eleven Buffalo Soldiers are ambushed and robbed of more than $28,000 in gold and silver coins by a posse of bandits on the road to Fort Thomas, Arizona Territory. The bandits are never captured.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Buffalo_Soldiers.jpg"),
+      "alt": "Buffalo soldiers of the 25th Infantry, some wearing buffalo robes, Ft. Keogh, Montana, 1890"
     },
     "coords": ""
   },
@@ -3347,8 +3311,8 @@ const data= [
     "date": "June 6",
     "description": "The Great Seattle Fire destroys the entire central business district in Seattle, Washington Territory, eventually burning 25 city blocks and costing the city nearly $20 million.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Seattle_fire.jpg"),
+      "alt": "Looking toward Elliott Bay from the burned-over district"
     },
     "coords": ""
   },
@@ -3369,8 +3333,8 @@ const data= [
     "date": "November 2",
     "description": "North Dakota and South Dakota are admitted as the 39th and 40th U.S. states.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Dakota_State_Seals.png"),
+      "alt": "Each of The Great Seals of the States of North and South Dakota"
     },
     "coords": ""
   },
@@ -3380,8 +3344,8 @@ const data= [
     "date": "November 2",
     "description": "Eight imprisoned Apache renegades, including the Apache Kid, murder two sheriffs and escape into the desert during a prisoner transfer near Globe, Arizona.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-The_Apache_Kid.jpg"),
+      "alt": "Haskay-bay-nay-ntayl (c. 1860 – in or after 1894), better known as the Apache Kid"
     },
     "coords": ""
   },
@@ -3391,8 +3355,8 @@ const data= [
     "date": "November 8",
     "description": "Montana is admitted as the 41st U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Montana_State_Seal.png"),
+      "alt": "The Great Seal of the State of Montana"
     },
     "coords": ""
   },
@@ -3402,8 +3366,8 @@ const data= [
     "date": "November 11",
     "description": "Washington is admitted as the 42nd U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Washington_State_Seal.png"),
+      "alt": "The Great Seal of the State of Washington"
     },
     "coords": ""
   },
