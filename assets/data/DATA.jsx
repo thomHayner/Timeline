@@ -1937,8 +1937,8 @@ const data= [
     "date": "February 17",
     "description": "Fort Buchanan is overrun and destroyed by Chiricahua warriors in the Arizona Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1865-Fort_Buchanan_ruins_in_1914.jpg"),
+      "alt": "US Army Captain John H. Cady at the ruins of Fort Buchanan in Arizona, 1914"
     },
     "coords": ""
   },
@@ -1948,8 +1948,8 @@ const data= [
     "date": "May 12",
     "description": "The Battle of Palmito Ranch is fought near Brownsville, Texas. It is the final armed engagement of the American Civil War.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1865-John_J._Williams_last_soldier_to_die.jpg"),
+      "alt": "John J. Williams (1843 - May 13, 1865), the presumed last soldier to die in the American Civil War"
     },
     "coords": ""
   },
@@ -1959,8 +1959,8 @@ const data= [
     "date": "June 23",
     "description": "Stand Watie, a Cherokee cavalry commander in the Confederate Army, becomes the last Confederate general to surrender to Union forces, at Doaksville in the Indian Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1865-Stand_Watie.jpg"),
+      "alt": "Isaac Stand Watie Degataga (December 12, 1806 - September 9, 1871).  The Cherokee chief Stand Watie was the last Confederate general to surrender in the Civil War"
     },
     "coords": ""
   },
@@ -1971,7 +1971,7 @@ const data= [
     "description": "'Wild Bill' Hickok kills gambler Davis Tutt in a shootout in Springfield, Missouri. The confrontation is sensationalized in Harper's Magazine, making Hickok a household name. It is often considered the archetypal one-on-one quick-draw duel, which later becomes a popular image of the Old West.",
     "media": { 
       "img": require("../images/1865-Wild_Bill_Hickok.png"),
-      "alt": ""
+      "alt": "James Butler Hickok (May 27, 1837 - August 2, 1876)"
     },
     "coords": ""
   },
@@ -1982,7 +1982,7 @@ const data= [
     "description": "Ex-Confederate bushwhackers Frank and Jesse James rob their first bank, the Clay County Savings Association in Liberty, Missouri.",
     "media": { 
       "img": require("../images/1866-Jesse_and_Frank_James.png"),
-      "alt": ""
+      "alt": "Jesse and Frank James"
     },
     "coords": ""
   },
@@ -1992,8 +1992,8 @@ const data= [
     "date": "May 1",
     "description": "The period of the great cattle drives begins when Texas ranchers drive more than 260,000 head of cattle to assorted markets. Some travel east to Louisiana, where the animals are shipped to Cairo, Illinois and St. Louis; others travel west to Fort Sumner, New Mexico and Denver, inaugurating the Goodnight-Loving Trail. But the vast majority follow the Shawnee Trail north to Kansas City or Sedalia, Missouri.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1866-Cowboy_in_1902.jpg"),
+      "alt": "Cattle herd and cowboy, c. 1902"
     },
     "coords": ""
   },
@@ -2003,8 +2003,8 @@ const data= [
     "date": "December 21",
     "description": "Captain William J. Fetterman and 80 soldiers of the U.S. 2nd Cavalry and 18th Infantry regiments are ambushed and wiped out by Lakota, Cheyenne, and Arapaho warriors near Fort Phil Kearny, Wyoming. A fort built the next year, Fort Fetterman, is named in his honor.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1866-Red_Cloud.jpg"),
+      "alt": "Red Cloud, the Oglala Lakota leader and victor of the 'Fetterman Fight' in 1866"
     },
     "coords": ""
   },
@@ -2014,8 +2014,8 @@ const data= [
     "date": "March 1",
     "description": "Nebraska is admitted as the 37th U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1867-Nebraska_State_Seal.png"),
+      "alt": "The Great Seal of the State of Nebraska"
     },
     "coords": ""
   },
@@ -2025,8 +2025,8 @@ const data= [
     "date": "March 30",
     "description": "The United States purchases Alaska from the Russian Empire for $7.2 million.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1867-Alaska_Purchase.jpg"),
+      "alt": "With this check, the United States completed the purchase of almost 600,000 square miles of land from the Russian Government. This treasury warrant issued on August 1, 1868, at the Sub-Treasury Building at 26 Wall Street, New York, New York, transferred $7.2 million to Russian Minister to the United States Edouard de Stoeckl. The purchase price of the 49th state? Less than two cents an acre. Original located in the National Archives, Records of the Accounting Officers of the Department of Treasury"
     },
     "coords": ""
   },
@@ -2036,8 +2036,8 @@ const data= [
     "date": "June 25",
     "description": "Lucien B. Smith of Kent, Ohio is issued the first patent for barbed wire fencing, an invention which revolutionizes cattle ranching on the open prairies of the West.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1867-Barbed_Wire.jpeg"),
+      "alt": "A close-up view of a barbed wire"
     },
     "coords": ""
   },
@@ -2047,8 +2047,8 @@ const data= [
     "date": "August 2",
     "description": "In the Wagon Box Fight, a small party of U.S. Army soldiers and civilians near Fort Phil Kearny, armed with new rapid-fire breech-loading rifles and encircled by a wall of wagon boxes, manages to hold off hundreds of Lakota warriors led by Red Cloud and Crazy Horse.",
     "media": { 
-      "img": require("../images/1867-Red_Cloud.jpg"),
-      "alt": ""
+      "img": require("../images/1867-Crazy_Horse.jpg"),
+      "alt": "Alleged photo of Crazy Horse in 1877"
     },
     "coords": ""
   },
@@ -2058,8 +2058,8 @@ const data= [
     "date": "October 18",
     "description": "At a ceremony in Sitka, Alaska, Russian soldiers officially transfer Alaska to the U.S. Army on Castle Hill. It is organized on the same day into the Department of Alaska, to be administered by the Army.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1867-Illustration_of_Castle_Hill_in_1827.jpg"),
+      "alt": "1827 illustration of Castle Hill in Russian-controlled Sitka. The hilltop building was an imposing fortification on a hill overlooking the water and Tlingit areas. On October 18, 1867, the Russian flag was lowered on Castle Hill, home of Alaska's Russian governors, the American flag was raised, and a brief exchange of statements completed the transfer of Alaska to the United States"
     },
     "coords": ""
   },
@@ -2069,8 +2069,8 @@ const data= [
     "date": "October 28",
     "description": "The Medicine Lodge Treaty is signed between the U.S. government and several southern Plains Indian tribes, requiring that the tribes relocate to the Indian Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1867-Council_at_Medicine_Lodge_Creek.png"),
+      "alt": "Council at Medicine Lodge Creek This drawing by J. Howland, originally printed in Harper's Weekly, depicts the council between representatives of the U.S. government and the Kiowa and Comanche tribes at Medicine Creek Lodge, Kansas, in 1867. At this council the Kiowa, Comanche, Plains Apache, Cheyenne and Arapaho tribes signed three successive treaties with the United States government, collectively known as the Medicine Lodge treaty"
     },
     "coords": ""
   },
@@ -2080,8 +2080,8 @@ const data= [
     "date": "April 29",
     "description": "The Treaty of Fort Laramie (1868) is signed between the United States and several bands of Lakota, Dakota, and Arapaho Indians. It results in the abandonment of U.S. military outposts along the Bozeman Trail, the indefinite closure of the Powder River Country and western South Dakota to white settlement, and the end of Red Cloud's War.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1868-Laramie_Treaty.jpg"),
+      "alt": "The signing of a peace treaty by William T. Sherman and the Sioux at Fort Laramie, Wyoming"
     },
     "coords": ""
   },
@@ -2091,8 +2091,8 @@ const data= [
     "date": "July 25",
     "description": "Wyoming is organized as a U.S. territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1868-Wyoming_Territory.jpg"),
+      "alt": "The Territorial Coat of Arms for Wyoming"
     },
     "coords": ""
   },
@@ -2102,8 +2102,8 @@ const data= [
     "date": "November 27",
     "description": "The Battle of Washita River is fought when Lt. Col. George Armstrong Custer's 7th Cavalry Regiment attacks a winter encampment of Southern Cheyenne Indians on the Washita River in what is now western Oklahoma. Chief Black Kettle, leader of the Cheyenne, is killed.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1868-Battle_of_Washita_River.jpg"),
+      "alt": "The Seventh U.S. Cavalry charging into Black Kettle's village at daylight, November 27, 1868, wood engraving 1868"
     },
     "coords": ""
   },
@@ -2113,8 +2113,8 @@ const data= [
     "date": "January 8",
     "description": "Fort Sill is established by General Philip H. Sheridan in the Indian Territory, near present-day Lawton, Oklahoma.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1869-Philip_Sheridan.jpg"),
+      "alt": "Philip Henry Sheridan (March 6, 1831 - August 5, 1888)"
     },
     "coords": ""
   },
@@ -2125,7 +2125,7 @@ const data= [
     "description": "Leland Stanford drives the Golden Spike to join the rails of the Central Pacific and Union Pacific railroads at a special ceremony in Promontory Summit, Utah Territory, completing the First Transcontinental Railroad.",
     "media": { 
       "img": require("../images/1869-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad.jpg"),
-      "alt": ""
+      "alt": "The Golden Spike ceremony joining the Union Pacific Railroad with the Central Pacific Railroad"
     },
     "coords": ""
   },
@@ -2136,7 +2136,7 @@ const data= [
     "description": "John Wesley Powell and nine others embark on a scientific expedition that charts more than 930 mi (1,500 km) of the Green River and Colorado River through the canyon country of Wyoming, Colorado, Utah, and Arizona. Powell and his crew become the first recorded white men to travel the length of the Grand Canyon. They reach the mouth of the Virgin River in present-day Nevada on August 30.",
     "media": { 
       "img": require("../images/1869-John_Wesley_Powell.jpg"),
-      "alt": ""
+      "alt": "John Wesley Powell (March 24, 1834 - September 23, 1902), 2nd Director of the United States Geological Survey"
     },
     "coords": ""
   },
@@ -2146,8 +2146,8 @@ const data= [
     "date": "July 4",
     "description": "The world's first documented competitive rodeo is held in the town of Deer Trail in the Colorado Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1869-Deer_Trail.jpg"),
+      "alt": "The First Rodeo in Deer Trail, Colorado, courtesy Arapahoe County, CO"
     },
     "coords": ""
   },
@@ -2157,8 +2157,8 @@ const data= [
     "date": "December 10",
     "description": "Wyoming becomes the first U.S. territory to grant women the right to vote.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1869-Loiusa_Swain.png"),
+      "alt": "In 1870, Louisa Swain was one of the first women to vote in Wyoming Territory. She lived and voted in Laramie, Wyoming"
     },
     "coords": ""
   },
@@ -2168,8 +2168,8 @@ const data= [
     "date": "",
     "description": "Bret Harte's The Luck of Roaring Camp and Other Sketches, a collection of stories based on his years as a San Francisco journalist, is published.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Bret_Harte.jpg"),
+      "alt": "Bret Harte (born Francis Brett Hart; August 25, 1836 – May 5, 1902) was an American short story writer and poet best remembered for short fiction featuring miners, gamblers, and other romantic figures of the California Gold Rush"
     },
     "coords": ""
   },
@@ -2178,10 +2178,6 @@ const data= [
     "location": "Abilene, Kansas",
     "date": "",
     "description": "William 'Hurricane Bill' Martin, a notorious outlaw in Kansas, begins rustling cattle southeast of Abilene before he and his gang are driven off by a posse from Marion.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2190,8 +2186,8 @@ const data= [
     "date": "",
     "description": "Settling in the New Mexico Territory, gunfighter Robert Clay Allison purchases a ranch in Colfax County. According to local newspapers, Allison is reported to have killed as many as fifteen men in gunfights during this time.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Robert_Clay_Allison.jpg"),
+      "alt": "Robert A. Clay Allison (September 2, 1841 – July 1, 1887) was a cattle rancher, cattle broker, and sometimes gunfighter of the American Old West, his grave marker reads 'He never killed a man that did not need killing'"
     },
     "coords": ""
   },
@@ -2201,8 +2197,8 @@ const data= [
     "date": "",
     "description": "With the growing railroad industry and cattle boom, buffalo hunters begin moving onto the Great Plains. In less than ten years, the buffalo population is dramatically reduced, and the animal remains an endangered species for much of the next century.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-American_Bison.jpg"),
+      "alt": "An American Plains Bison, photo courtesy US Department of Agriculture"
     },
     "coords": ""
   },
@@ -2212,8 +2208,8 @@ const data= [
     "date": "",
     "description": "The Utah Territorial Assembly, supported by Brigham Young, grants women the right to vote. Over the next several decades, this provides Mormons with an added margin of political power.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Utah_womens_suffrage.png"),
+      "alt": "Members of the executive committee of the national suffragists’ convention and prominent local suffragists snapped this photo with Senator Reed Smoot in August 1915 outside of the Hotel Utah, after meeting with him to ensure his support for a federal women’s suffrage amendment in the next Congress, photo courtesy of the National Women's Party"
     },
     "coords": ""
   },
@@ -2223,8 +2219,8 @@ const data= [
     "date": "January 1",
     "description": "Shortly after leaving the post of sheriff of Ellis County, Kansas, 'Wild Bill' Hickok travels to Missouri and eventually resumes his duties as a U.S. Marshal.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Wild_Bill.jpg"),
+      "alt": "Wild Bill Hickock"
     },
     "coords": ""
   },
@@ -2233,10 +2229,6 @@ const data= [
     "location": "Marias River, Montana",
     "date": "January 23",
     "description": "More than 200 men, women, and children belonging to a friendly band of Piegan Blackfeet Indians are mistakenly attacked and massacred by a U.S. Army command on the Marias River in the Montana Territory.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2245,8 +2237,8 @@ const data= [
     "date": "March 30",
     "description": "Texas is readmitted to the Union following the Civil War.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Texas_State_Seal.png"),
+      "alt": "The Great Seal of the State of Texas"
     },
     "coords": ""
   },
@@ -2256,8 +2248,8 @@ const data= [
     "date": "May 1",
     "description": "With the emergence of Abilene, Kansas as a major stopover for cattle ranchers, the town trustees attempt to curb the violence brought by the beginning of the cattle season by banning guns within town limits. This proves extremely unpopular and unenforceable, as Texas cowboys make a habit of shooting up ordinance posters and tear down the city's first jailhouse; violence continues in the city until the appointment of Tom 'Bear River' Smith as city marshal on June 4.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1870-Thomas_J_Smith.jpg"),
+      "alt": "Thomas James Smith, also known as Tom 'Bear River' Smith, (June 12, 1830 – November 2, 1870) was a lawman in the American Old West and briefly marshal of cattle town Abilene, Kansas. He was killed and nearly decapitated in the line of duty"
     },
     "coords": ""
   },
@@ -2266,10 +2258,6 @@ const data= [
     "location": "Hays, Kansas",
     "date": "July 17",
     "description": "'Wild Bill' Hickok is involved in a shootout with several members of the U.S. 7th Cavalry Regiment in Hays City after killing one trooper and wounding another.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2277,10 +2265,6 @@ const data= [
     "location": "Abilene, Kansas",
     "date": "November 2",
     "description": "Abilene City Marshal Tom 'Bear River' Smith is killed while serving an arrest warrant near the town.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2289,8 +2273,8 @@ const data= [
     "date": "",
     "description": "John K. 'King' Fisher is hired by settlers of the Pendencia River country in Dimmit County, Texas to protect their livestock and other property. It is during this time that Fisher becomes known as a skilled gunfighter.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-King_Fisher.jpg"),
+      "alt": "John King Fisher (October 1853 – March 11, 1884) was a gunslinger from the U.S. state of Texas during the heyday of the American Old West"
     },
     "coords": ""
   },
@@ -2299,10 +2283,6 @@ const data= [
     "location": "Marina, California",
     "date": "January 1",
     "description": "After a long illness, U.S. Army Captain John Barry is forced into retirement. While stationed at Fort Ord, Barry attempts to improve relations between the United States and the Apaches, as well as encourages the enlistment of scouts to combat renegade Apaches.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2310,10 +2290,6 @@ const data= [
     "location": "Dallas, Texas",
     "date": "February 16",
     "description": "John Younger kills Captain S.W. Nichols in a gunfight in Dallas, Texas.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2321,10 +2297,6 @@ const data= [
     "location": "Clifton, Arizona",
     "date": "February 23",
     "description": "While heading an Apache-hunting force near present-day Clifton, Arizona, John M. Bullard is shot and killed when he approaches a wounded Apache warrior.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2332,10 +2304,6 @@ const data= [
     "location": "Kansas",
     "date": "February 28",
     "description": "'Handsome Jack' John Ledford, an outlaw-turned-hotel-owner involved in counterfeiting and horse theft in Kansas and the Indian Territory, is killed in a shootout with a group of U.S. Army soldiers led by scout Lee Stewart and U.S. Marshal Jack Bridges, who claimed to have a warrant for his arrest.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2344,8 +2312,8 @@ const data= [
     "date": "March 16",
     "description": "Death of Navajo chieftain Barboncito (Hastin Daagii).",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-Barboncito.jpg"),
+      "alt": "Navajo War Chief Barboncito or Hastiin Dághaaʼ (c. 1820 – 1871) was a Navajo political and spiritual leader"
     },
     "coords": ""
   },
@@ -2355,8 +2323,8 @@ const data= [
     "date": "April 15",
     "description": "'Wild Bill' Hickok succeeds Tom 'Bear River' Smith as city marshal of Abilene, Kansas and remains in the position until December 13.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-Wild_Bill_Abilene.jpg"),
+      "alt": "Wild Bill Hickock"
     },
     "coords": ""
   },
@@ -2366,8 +2334,8 @@ const data= [
     "date": "April 28",
     "description": "In what becomes known as the Camp Grant Massacre, over 100 Apache women and children are killed by a mob of Mexicans and Papago Indians led by several Tucson businessmen, including D.A. Bennett and Sam Hughes. Bennett and several others are indicted in December, though all are acquitted.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-Camp_Grant.jpg"),
+      "alt": "Photograph by John Karl Hillers showing Camp Grant, Arizona in 1870"
     },
     "coords": ""
   },
@@ -2377,8 +2345,8 @@ const data= [
     "date": "June 14",
     "description": "Thomas Carson, reportedly a nephew of Kit Carson, is appointed to the Abilene police force under City Marshal 'Wild Bill' Hickok. After an incident with gunfighter John Wesley Hardin over Hardin's insistence on wearing his gun in public, Carson is hired briefly as deputy in Newton, Kansas before returning to Abilene in November. Carson and Deputy John W. 'Brocky Jack' Norton are fired from the police force on November 27 after assaulting a bartender.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-John_Wesley_Hardin.png"),
+      "alt": "John Wesley Hardin (May 26, 1853 – August 19, 1895) was an American Old West outlaw, gunfighter, and controversial folk icon was harassed by Abilene Police Officer Thomas Carson, resulting in Carson's removal from the town police force. Carson was later rehired, but was fired again shortly after for assaulting another local resident"
     },
     "coords": ""
   },
@@ -2388,8 +2356,8 @@ const data= [
     "date": "June 30",
     "description": "Shortly after robbing a nearby bank, Jesse James addresses a crowd at a political rally in Corydon, Iowa.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1871-Young_Jesse_James.jpg"),
+      "alt": "Jesse James as a young man"
     },
     "coords": ""
   },
@@ -2398,10 +2366,6 @@ const data= [
     "location": "Abilene, Kansas",
     "date": "October 5",
     "description": "Professional gambler Phil Coe is involved in a shootout with Abilene City Marshal 'Wild Bill' Hickok after Hickok attempts to censor a painting of a bull with abnormally large genitals in Coe's saloon. Deputy Mike Williams is killed when Hickok accidentally shoots him, and Coe dies from his wounds four days later.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2411,7 +2375,7 @@ const data= [
     "description": "William F. 'Buffalo Bill' Cody, a scout for the U.S. 5th Cavalry Regiment, is awarded the Medal of Honor. Later that year, he and fellow scout John 'Texas Jack' Omohundro appear on stage for the first time, portraying themselves in 'Scouts of the Prairie'.",
     "media": { 
       "img": require("../images/1872-Buffalo_Bill_Cody.jpg"),
-      "alt": ""
+      "alt": "William Frederick Cody (February 26, 1846 – January 10, 1917), known as 'Buffalo Bill', was an American soldier, bison hunter, and showman"
     },
     "coords": ""
   },
@@ -2421,8 +2385,8 @@ const data= [
     "date": "",
     "description": "Ellsworth, Kansas succeeds Abilene as the northern stopping point on the Old Texas cattle trail.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1872-Cattle_trails.jpg"),
+      "alt": "Map of major cattle trails with the Great Western Trail"
     },
     "coords": ""
   },
@@ -2432,8 +2396,8 @@ const data= [
     "date": "",
     "description": "Following the completion of the Santa Fe Railroad across the border of the Colorado Territory, the use of the Santa Fe Trail begins to decline, although Dodge City remains a major cattle town for the next decade. The Santa Fe Railroad also completes a rail line at Wichita, Kansas, causing a major population boom in the town over the next several years.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1872-Santa_Fe_Railroad.jpg"),
+      "alt": "A promotional brochure for the Santa Fe Railway's Scott Special passenger train"
     },
     "coords": ""
   },
@@ -2443,8 +2407,8 @@ const data= [
     "date": "March 1",
     "description": "Yellowstone is designated America's first national park by President Ulysses S. Grant.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1872-Yellowstone.jpg"),
+      "alt": "Detailed pictorial map of Yellowstone National Park from 1904"
     },
     "coords": ""
   },
@@ -2454,8 +2418,8 @@ const data= [
     "date": "November 29",
     "description": "The Battle of Lost River results when the U.S. 1st Cavalry Regiment tries to force a band of Modoc Indians under Captain Jack to return to the Klamath Reservation in southern Oregon. In the subsequent Modoc War, a party of 53 Modoc warriors entrenched in the Lava Beds of northern California manages to hold off hundreds of U.S. soldiers for more than five months.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1872-Lost_River.jpg"),
+      "alt": "The Modoc War -- Soldiers Recovering the Bodies of the Slain, a wood engraving published in Harper's Weekly, May 3, 1873"
     },
     "coords": ""
   },
@@ -2464,10 +2428,6 @@ const data= [
     "location": "Arizona",
     "date": "December 28",
     "description": "U.S. Army cavalry under George Crook begin a campaign into Arizona's Tonto Basin by defeating the occupants of a Yavapai stronghold at the Battle of Salt River Canyon, part of the Yavapai War.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2476,8 +2436,8 @@ const data= [
     "date": "",
     "description": "The Colt Single Action Army revolver is first manufactured. It later becomes known as 'The Gun That Won the West'.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1873-Colt_Single_Action.jpg"),
+      "alt": "First Generation Colt Single Action Army Revolver"
     },
     "coords": ""
   },
@@ -2487,8 +2447,8 @@ const data= [
     "date": "March 3",
     "description": "Designed to encourage the cultivation of timber on the treeless Great Plains, the Timber Culture Act is signed into law by President Ulysses S. Grant. A follow-up to the Homestead Act of 1862, it permits homesteaders to claim 160 acres of public land on which they have planted and maintained at least 40 acres of timber for a minimum of 10 years.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1873-Ulysses_S_Grant.jpg"),
+      "alt": "Ulysses S. Grant (born Hiram Ulysses Grant; April 27, 1822 – July 23, 1885) was an American military officer and politician who served as the 18th president of the United States"
     },
     "coords": ""
   },
@@ -2498,8 +2458,8 @@ const data= [
     "date": "March 27",
     "description": "A combined force of U.S. Army soldiers and Apache Scouts wins another major victory over Yavapai and Tonto Apache warriors at the Battle of Turret Peak in central Arizona.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1873-Apache_Scouts.jpg"),
+      "alt": "Apache Scouts at Ft. Apache, Arizona Territory"
     },
     "coords": ""
   },
@@ -2509,8 +2469,8 @@ const data= [
     "date": "July 21",
     "description": "The James–Younger Gang commits the first train robbery in the history of the West by derailing a locomotive of the Rock Island Line west of Adair, Iowa and stealing $3,000 from the express safe and passengers on board.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1873-James_Younger_Train_Derail.jpeg"),
+      "alt": "The Rock Island Train, derailed during a robbery by the James-Younger Gang.  Although the Engineer was killed in the wreck and several other people were wounded, the gang did not harm any passengers and only stole from men, leving women and children alone with their belongings"
     },
     "coords": ""
   },
@@ -2519,10 +2479,6 @@ const data= [
     "location": "Smith County, Kansas",
     "date": "December 1",
     "description": "'My Western Home', a poem by Dr. Brewster M. Higley, is first published in an issue of the Smith County Pioneer. It is set to music by Daniel E. Kelley and evolves into the classic western folk song 'Home on the Range', which is later adopted as the state song of Kansas.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2532,7 +2488,7 @@ const data= [
     "description": "Californio bandido Tiburcio Vásquez and his gang loot the town of Kingston in Fresno County, California.",
     "media": { 
       "img": require("../images/1873-Tiburcio_Vasquez.jpg"),
-      "alt": ""
+      "alt": "Tiburcio Vásquez (April 11, 1835 – March 19, 1875) was a Californio bandido who was active in California from 1854 to 1874. The Vasquez Rocks, 40 miles (64 km) north of Los Angeles, were one of his many hideouts and are named after him"
     },
     "coords": ""
   },
@@ -2541,10 +2497,6 @@ const data= [
     "location": "Lincoln County, New Mexico",
     "date": "",
     "description": "Outlaws Ceberiano and Reymundo Aguilar are killed during the Harrold War of Lincoln County, New Mexico.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2553,8 +2505,8 @@ const data= [
     "date": "March 17",
     "description": "John Younger is killed when he and his brother Jim assault two undercover Pinkerton detectives and a local sheriff in St. Clair County, Missouri.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1874-John_Younger.jpg"),
+      "alt": "John Harrison Younger (1851 – March 17, 1874) was an American outlaw, the brother of Cole, Jim and Bob. He was briefly a member of the James-Younger Gang, a band of outlaws that also included the famous Jesse James"
     },
     "coords": ""
   },
@@ -2564,8 +2516,8 @@ const data= [
     "date": "June 27",
     "description": "While occupying an old trading post in the Texas panhandle, 28 bison hunters including 21-year-old Bat Masterson are besieged by 700 Comanche warriors at the Second Battle of Adobe Walls.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1874-Billy_Dixon.jpg"),
+      "alt": "William 'Billy' Dixon (September 25, 1850 – March 9, 1913), civilian reciepient of the Congressional Medal of Honor, is credited by the US Army with an official confirmed sniper kill during the Second Battle of Adobe Walls from a distance of 1,538 yards, just under 9/10 of a mile, an international record that stood for 93 years until the Vietnam War in 1967"
     },
     "coords": ""
   },
@@ -2575,8 +2527,8 @@ const data= [
     "date": "July 1",
     "description": "An expedition led by Lt. Col. George Armstrong Custer embarks from Fort Abraham Lincoln to explore the previously uncharted Black Hills of present-day South Dakota. The expedition discovers placer gold, prompting a gold rush which draws thousands of settlers to the region over the next few years and thereby antagonizes the native Sioux inhabitants.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1874-Custers_wagon_train.jpg"),
+      "alt": "Custer's wagon train passing through Castle Creek Valley during the Black Hills Expedition of 1874"
     },
     "coords": ""
   },
@@ -2586,8 +2538,8 @@ const data= [
     "date": "September 28",
     "description": "The 4th U.S. Cavalry under Col. Ranald S. Mackenzie routs a large camp of Cheyenne, Comanche, and Kiowa Indians taking refuge in Palo Duro Canyon in the Texas panhandle.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1874-Randall_S_Mackenzie.jpg"),
+      "alt": "Brevet Major General Ranald Slidell Mackenzie, also called Bad Hand, (July 27, 1840 – January 19, 1889)"
     },
     "coords": ""
   },
@@ -2596,10 +2548,6 @@ const data= [
     "location": "DeKalb, Illinois",
     "date": "November 24",
     "description": "Joseph Glidden patents a type of barbed wire he calls 'The Winner', which becomes one of the most popular types in the country. His design is modified from a version patented by Henry B. Rose that was displayed at a county fair in Glidden's hometown of DeKalb, Illinois.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2607,10 +2555,6 @@ const data= [
     "location": "Muncie, Kansas",
     "date": "December 8",
     "description": "The James–Younger Gang robs a train on the Kansas Pacific Railroad near Muncie, Kansas, stealing $30,000.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2619,8 +2563,8 @@ const data= [
     "date": "January 25",
     "description": "Pinkerton agents throw an incendiary device into Jesse James' family home in Kearney, Missouri, killing James' 9-year-old half-brother and badly wounding his mother.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1875-Jesse_James.png"),
+      "alt": "A portrait of Jesse James. The photograph is from the Library of Congress, reproduction number LC-USZ62-3854. According to the LoC, it was taken May 22, 1882, although it has been claimed that this photo is actually from 1876"
     },
     "coords": ""
   },
@@ -2629,10 +2573,6 @@ const data= [
     "location": "New Mexico",
     "date": "August 8",
     "description": "Jermin Aguirre is killed near the San Augin Ranch in the New Mexico Territory.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2641,8 +2581,8 @@ const data= [
     "date": "November 19",
     "description": "The Las Cuevas War is fought when Texas Rangers commanded by Leander McNelly engage Mexican militia in Tamaulipas in an attempt to return stolen cattle to U.S. territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1875-Leander_McNelly.jpg"),
+      "alt": "Captain Leander H. McNelly (March 12, 1844 - September 4, 1877)"
     },
     "coords": ""
   },
@@ -2652,8 +2592,8 @@ const data= [
     "date": "",
     "description": "After being wounded in the hip during a gunfight in Sweetwater, Texas, Bat Masterson agrees to become assistant city marshal of Dodge City, Kansas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-Bat_Masterson.jpg"),
+      "alt": "Bartholemew William Barclay 'Bat' Masterson (November 26, 1853 – October 25, 1921)"
     },
     "coords": ""
   },
@@ -2664,7 +2604,7 @@ const data= [
     "description": "When Sioux leaders Sitting Bull and Crazy Horse refuse to comply with the United States government's order to leave the Black Hills of the Dakota Territory, an expeditionary force commanded by General George Crook directs Colonel Joseph J. Reynolds to attack a Cheyenne encampment at the Battle of Powder River, thereby beginning the Great Sioux War.",
     "media": { 
       "img": require("../images/1876-Chief_Sitting_Bull.jpg"),
-      "alt": ""
+      "alt": "Sitting Bull (Lakota: Tȟatȟáŋka Íyotake [tˣaˈtˣə̃ka ˈi.jɔtakɛ]) (c. 1831 – December 15, 1890)"
     },
     "coords": ""
   },
@@ -2674,8 +2614,8 @@ const data= [
     "date": "June 17",
     "description": "General George Crook's forces are defeated by Crazy Horse at the Battle of the Rosebud. The defeat convinces Crook to withdraw from his planned offensive and await reinforcements.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-Battle_of_Rosebud.jpg"),
+      "alt": "The Sioux charging Colonel Royall's detachment of Cavalry, June 17th, 1876, wood engraving"
     },
     "coords": ""
   },
@@ -2686,7 +2626,7 @@ const data= [
     "description": "While leading an attack into a Sioux village in the Montana Territory, the U.S. 7th Cavalry Regiment under Brig. Gen. George Armstrong Custer is ambushed and massacred by over 2,000 Lakota and Cheyenne warriors led by Sitting Bull and Crazy Horse at the Battle of the Little Bighorn.",
     "media": { 
       "img": require("../images/1876-George_Armstrong_Custer.jpg"),
-      "alt": ""
+      "alt": "General George Armstrong Custer (December 5, 1839 – June 25, 1876)"
     },
     "coords": ""
   },
@@ -2696,8 +2636,8 @@ const data= [
     "date": "August 1",
     "description": "Colorado is admitted as the 38th U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-Colorado_State_Seal.png"),
+      "alt": "The Great Seal of the State of Colorado"
     },
     "coords": ""
   },
@@ -2707,8 +2647,8 @@ const data= [
     "date": "August 2",
     "description": "'Wild Bill' Hickok is shot and killed by Jack McCall during a poker game in Deadwood, Dakota Territory.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-Wild_Bill_Death.jpg"),
+      "alt": "James Butler Hickok (May 27, 1837 – August 2, 1876), better known as 'Wild Bill' Hickok"
     },
     "coords": ""
   },
@@ -2718,8 +2658,8 @@ const data= [
     "date": "September 7",
     "description": "Several members of the James–Younger Gang, including Cole Younger, are captured after the failed robbery of the First National Bank leads to a gunfight with bank employees and local residents in Northfield, Minnesota.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-Cole_Younger.jpg"),
+      "alt": "Portrait photograph taken of Thomas Coleman 'Cole' Younger while he was a prisoner at the Minnesota State Prison c. 1889"
     },
     "coords": ""
   },
@@ -2729,8 +2669,8 @@ const data= [
     "date": "September 9",
     "description": "In the first U.S. Army victory since the disaster at the Little Bighorn, a punitive expedition led by George Crook destroys an Oglala Lakota village led by Chief American Horse at the Battle of Slim Buttes in present-day South Dakota.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1876-George_Crook.jpg"),
+      "alt": "General George R. Crook (September 8, 1828 – March 21, 1890)"
     },
     "coords": ""
   },
@@ -2740,8 +2680,8 @@ const data= [
     "date": "May 5",
     "description": "Crazy Horse surrenders to the U.S. Army at the Red Cloud Agency near Fort Robinson, Nebraska.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Crazy_Horse_Surrender.jpg"),
+      "alt": "Crazy Horse and his people on their way from Camp Sheridan to surrender to General Crook at Red Cloud Agency"
     },
     "coords": ""
   },
@@ -2751,8 +2691,8 @@ const data= [
     "date": "June 17",
     "description": "Anticipating retaliation for recent crimes against white settlers and reluctant to move to a reservation, about 600 Nez Perce Indians led by Chief Joseph, Ollokot, and White Bird begin a long retreat from western Idaho with the U.S. Army in pursuit. They defeat their pursuers at the Battle of White Bird Canyon, and the Nez Perce War begins.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Chief_Joseph.jpg"),
+      "alt": "Chief Joseph (March 3, 1840 - September 21, 1904), pictured taken in 1877"
     },
     "coords": ""
   },
@@ -2762,8 +2702,8 @@ const data= [
     "date": "August 9",
     "description": "The Battle of the Big Hole is fought in the Montana Territory between the Nez Perce and U.S. soldiers under Col. John Gibbon.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Battle_of_the_Big_Hole.jpg"),
+      "alt": "This photo of Chief Joseph and Brigadier General John Gibbon was taken at Lake Chelan in 1889, shortly before Chief Joseph visited Vancouver Barracks, 12 years after fighting against each other at the Battle of the Big Hole"
     },
     "coords": ""
   },
@@ -2773,8 +2713,8 @@ const data= [
     "date": "August 17",
     "description": "At 17 years old, Henry McCarty, later known as 'Billy the Kid', shoots his first man, Frank 'Windy' Cahill, after Cahill wrestles him to the ground at a saloon near Fort Grant, Arizona. Cahill dies the following day.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Billy_the_Kid_(left)_Croquet.jpeg"),
+      "alt": "Photograph purporting to show Henry 'Billy the Kid' McCarty (left) playing croquet in 1878"
     },
     "coords": ""
   },
@@ -2784,8 +2724,8 @@ const data= [
     "date": "September 5",
     "description": "Four months after his surrender, Oglala war leader Crazy Horse is fatally stabbed with a bayonet by a U.S. Army soldier while allegedly resisting imprisonment at Fort Robinson.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Crazy_Horse_Memorial.jpg"),
+      "alt": "The Crazy Horse Memorial in Crazy Horse, South Dakota"
     },
     "coords": ""
   },
@@ -2793,10 +2733,10 @@ const data= [
     "year": "1877",
     "location": "Big Springs, Nebraska",
     "date": "September 18",
-    "description": "A gang led by Sam Bass robs a Union Pacific train of more than $60,000 while it is stopped at a remote water station near present-day Big Springs, Nebraska.",
+    "description": "A gang led by Sam Bass robs a Union Pacific train of more than $60,000 ($1.4 million adjusted for inflation to 2020 value) while it is stopped at a remote water station near present-day Big Springs, Nebraska.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Sam_Bass.jpeg"),
+      "alt": "Sam Bass (July 21, 1851 - July 21 1878)"
     },
     "coords": ""
   },
@@ -2806,8 +2746,8 @@ const data= [
     "date": "September 21",
     "description": "Prospector Ed Schieffelin files his first mining claim after discovering silver ore on a high plateau between the San Pedro River and the Dragoon Mountains in southeastern Arizona Territory. He names his stake 'Tombstone'.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Ed-Schieffelin.jpg"),
+      "alt": "Ed Schieffelin (1847 - May 12, 1897), during a visit to the Yukon River in Alaska in 1882"
     },
     "coords": ""
   },
@@ -2817,8 +2757,8 @@ const data= [
     "date": "October 5",
     "description": "Cornered at the Battle of Bear Paw, just 40 miles south of the Canadian border in the Montana Territory, Chief Joseph and his dwindling band of Nez Perce surrender to the U.S. Army under Generals Oliver O. Howard and Nelson A. Miles, ending the Nez Perce War.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-Howard_and_Miles.png"),
+      "alt": "Oliver O. Howard (November 8, 1830 - October 26, 1909), left.  Nelson A. Miles (August 8, 1839 - May 15, 1925), right"
     },
     "coords": ""
   },
@@ -2828,8 +2768,8 @@ const data= [
     "date": "December 17",
     "description": "In the San Elizario Salt War, years of legal conflict over the application of individual mineral rights to traditionally community-held salt lakes near the Guadalupe Mountains reach a climax when a detachment of Texas Rangers surrenders to a popular army of Tejano citizens following a four-day siege in the town of San Elizario, Texas. More than a dozen people are killed in the exchange.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1877-San_Elizaro_Rangers.jpg"),
+      "alt": "Three of the surrendering Texas Rangers at San Elizario, c. 1878. Photo of Texas Rangers Andy and Tom Zickefoose, with an unidentified man in the middle. This is the only known photo taken of Salt War Rangers"
     },
     "coords": ""
   },
@@ -2837,10 +2777,10 @@ const data= [
     "year": "1878",
     "location": "Lincoln County, New Mexico",
     "date": "February 18",
-    "description": "New Mexico rancher John Tunstall is killed by a posse whose members include gunman Charles Wolz, beginning the Lincoln County War.",
+    "description": "A young Billy the Kid watches as his boss, New Mexico rancher John Tunstall, is murdered in cold blood by Sheriff William J. Brady and his posse, whose members include gunman Charles Wolz, beginning the Lincoln County War.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1878-Torreon_Lincoln_County.jpg"),
+      "alt": "The Torreon, where Murphy's sharpshooters were stationed"
     },
     "coords": ""
   },
@@ -2848,10 +2788,10 @@ const data= [
     "year": "1878",
     "location": "Leadville, Colorado",
     "date": "February 18",
-    "description": "The town of Leadville is incorporated in Colorado.",
+    "description": "The town of Leadville is incorporated in Colorado.  Today, it still remains as the highest altitude incorporated place in the United States, at over 10,000 ft elevation.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1878-Leadville.jpg"),
+      "alt": "Leadville Colorado, 1879, courtesy of Western Mining History"
     },
     "coords": ""
   },
@@ -2860,10 +2800,6 @@ const data= [
     "location": "Cimarron, New Mexico",
     "date": "June 18",
     "description": "Nick Worthington, a well-known outlaw throughout New Mexico and Colorado, is killed by residents of Cimarron, New Mexico after killing several men and stealing horses.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -2873,7 +2809,7 @@ const data= [
     "description": "The Battle of Lincoln takes place over five days in Lincoln, New Mexico. Alexander McSween, former partner of John Tunstall, is shot and killed on July 19, along with gunman Francisco Zamora.",
     "media": { 
       "img": require("../images/1878-Lewis_Wallace.jpg"),
-      "alt": ""
+      "alt": "Lew Wallace (April 10, 1827 - February 15, 1905), 11th Governor of New Mexico Territory, negotiated peace between local residents and corrupt local officials in the Lincoln County War"
     },
     "coords": ""
   },
@@ -2883,8 +2819,8 @@ const data= [
     "date": "",
     "description": "Ike and Billy Clanton enlist William 'Curly Bill' Brocius and Johnny Ringo as they begin cattle rustling in the New Mexico and Arizona Territories.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1879-Billy_Clanton_Tombstone_Shootout.jpg"),
+      "alt": "Tom McLaury, Frank McLaury and Billy Clanton (left to right) lie dead after the gunfight at the O.K. Corral. This is the only known photo of 19 year-old Billy"
     },
     "coords": ""
   },
@@ -2894,8 +2830,8 @@ const data= [
     "date": "January",
     "description": "Captain Marcus Reno, the highest-ranking officer to have survived the Battle of the Little Bighorn, is brought before a general court-martial but is acquitted of cowardice.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1879-The_Custer_Fight.jpg"),
+      "alt": "Lithograph showing the Battle of Little Bighorn, from the Indian side, by Charles Marion Russell"
     },
     "coords": ""
   },
@@ -2905,8 +2841,8 @@ const data= [
     "date": "April 5",
     "description": "Gambler Frank Loving kills Levi Richardson in a gunfight at the Long Branch Saloon in Dodge City, Kansas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1879-Long_Branch_Saloon.jpg"),
+      "alt": "Inside the Long Branch Saloon, c. 1880"
     },
     "coords": ""
   },
@@ -2917,7 +2853,7 @@ const data= [
     "description": "In the White River War, Nathan Meeker and ten employees of the White River Indian Agency in western Colorado are massacred by Ute Indians when Meeker wires for military assistance in suppressing a perceived uprising. The Utes besiege a U.S. Army detachment in the Battle of Milk Creek until it is relieved by troops under Col. Wesley Merritt on October 5.",
     "media": { 
       "img": require("../images/1879-Chief_Ouray_and_Chipeta.jpg"),
-      "alt": ""
+      "alt": "Chief Ouray (1833 – August 24, 1880) and Chipeta (or White Singing Bird) (1843 or 1844 – August 1924)"
     },
     "coords": ""
   },
