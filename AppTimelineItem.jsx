@@ -103,7 +103,7 @@ export default function TimeLineItem({
           </Text>
         </View>
         
-        {/* [CARD IMAGE ICON IF THERE IS MEDIA] */}
+        {/* [CARD IMAGE ICON/SCROLL-DOWN-BUTTON IF THERE IS MEDIA] */}
         {itemData.media ? 
           <Pressable
             style={styles.mediaIcon}
@@ -140,10 +140,11 @@ export default function TimeLineItem({
         {itemData.media ? 
           <View style={styles.itemCardMedia}>
               <Image
+                alt={itemData.media.alt ? itemData.media.alt : ""}
                 style={
                   { flex: 1, height: undefined, width: undefined, marginVertical: 10, }
                 }
-                source={itemData.media}
+                source={itemData.media.img}
                 resizeMethod='auto'
                 resizeMode='contain'
               />
@@ -172,18 +173,18 @@ export default function TimeLineItem({
               <SafeAreaView style={{ flex: 1, backgroundColor: '#191109', }}>
                 <View style={styles.modalMedia}>
                   <Image
-                    alt={itemData.alt ? `${itemData.alt}` : ""}
+                    alt={itemData.media.alt ? itemData.media.alt : ""}
                     style={{ flex: 1, height: undefined, width: undefined, }}
-                    source={itemData.media}
+                    source={itemData.media.img}
                     resizeMethod='auto'
                     resizeMode='contain'
                   />
                 </View>
 
-                {itemData.alt ? 
+                {itemData.media.alt ? 
                   <View style={styles.modalAltBox}>
                     <Text style={isTextEnlarged ? styles.modalAltTextEnlarged : styles.modalAltTextFont}>
-                      {itemData.alt}
+                      {itemData.media.alt}
                     </Text>
                   </View>
                 :
