@@ -6,7 +6,7 @@ const data= [
     "description": "Spanish conquistador Francisco Vázquez de Coronado embarks on an expedition into the unexplored territory north of colonized Mexico to search for the fabled Seven Cities of Gold. The voyage lasts more than two years, during which Coronado travels through much of the American Southwest and as far north as present-day Kansas. His party is the first to document the geography and indigenous peoples of significant portions of the West.",
     "media": { 
       "img": require('../images/1500-Coronado.jpg'),
-      "alt": "Coronado Sets Out to the North by American artist Frederic Remington"
+      "alt": "Coronado Sets Out to the North, by American artist Frederic Remington"
     }
   },
   {
@@ -26,7 +26,7 @@ const data= [
     "description": "Spanish explorer Juan de Oñate establishes Nuevo México in the region around the upper Rio Grande as the northernmost province of New Spain, serving as its first colonial governor.",
     "media": { 
       "img": require("../images/1598-Juan_de_Onate.jpg"),
-      "alt": "Onate Monument Center, Alcalde, NM Equestrian Statue of Juan De Onate"
+      "alt": "Equestrian Statue of Juan De Onate at the Onate Monument Center, Alcalde, NM"
     }
   },
   {
@@ -46,7 +46,7 @@ const data= [
     "description": "The Palace of the Governors is built in Santa Fe, the new capital of Nuevo México. Today it is the oldest continuously occupied public building in the United States.",
     "media": { 
       "img": require("../images/1610-Palace_of_the_Governors_at_night.jpg"),
-      "alt": "Night view of The Palace of the Governors, reflecting the Christmas lights of Santa Fe Plaza"
+      "alt": "Night view of The Palace of the Governors, reflecting the Christmas lights of Santa Fe Plaza in Santa Fe, New Mexico"
     }
   },
   {
@@ -66,7 +66,7 @@ const data= [
     "description": "Santa Fe is formally repossessed by the Spanish after Diego de Vargas negotiates a peace with the Pueblo Indians. The following six years witness a difficult reinstatement of Spanish and Franciscan rule over the Pueblos, including another revolt in 1696, which is successfully countered by De Vargas and his forces.",
     "media": { 
       "img": require("../images/1692-Diego_deVargas.jpeg"),
-      "alt": "Oil on canvas portrait of Diego de Vargas by Julio Barrera, date unknown, from the collection of the Palace of the Governors"
+      "alt": "Oil on canvas portrait of Diego de Vargas, by Julio Barrera, from the collection of the Palace of the Governors"
     }
   },
   {
@@ -92,7 +92,7 @@ const data= [
     "description": "A Spanish attack on a fortified Indian village along the Red River in what is now Texas is repulsed and defeated by allied Wichita, Comanche, and Tonkawa tribes.",
     "media": { 
       "img": require("../images/1759-Wichita_Indian_Village.jpg"),
-      "alt": "The Wichita were farming Indians who lived in beehive-shaped houses thatched with grass and surrounded by extensive maize fields. They were skilled farmers who traded agricultural products to nomadic tribes in exchange for meat."
+      "alt": "The Wichita were farming Indians who lived in beehive-shaped houses thatched with grass and surrounded by extensive maize fields; they were skilled farmers who traded agricultural products to nomadic tribes in exchange for meat."
     }
   },
   {
@@ -112,7 +112,7 @@ const data= [
     "description": "Spanish Franciscans, led by friar Junípero Serra, establish Mission San Diego de Alcalá in Las Californias. By 1823, the missionaries successfully plant a series of 20 more missions along the coast of what becomes the Spanish province of Alta California. These missions bring European culture to the indigenous peoples of California, but also enable a serious decline of from one-third to one-half of the indigenous population there during the Mission period.",
     "media": { 
       "img": require("../images/1769-Primitive_Plow.jpg"),
-      "alt": "Indigenous farmers preparing a field for planting near Mission San Diego de Alcalá. Drawing by A.B. Dodge, 1920"
+      "alt": "Indigenous farmers preparing a field for planting near Mission San Diego de Alcalá, drawing by A.B. Dodge, 1920"
     }
   },
   {
@@ -132,7 +132,7 @@ const data= [
     "description": "Two Franciscan priests lead the Domínguez–Escalante expedition west from Santa Fe in an attempt to find an overland route to the Spanish Catholic mission in Monterey. Though they fail to reach Las Californias, they explore previously unknown areas of the Colorado Plateau, become the first Europeans to enter the Great Basin, and establish the eastern section of what will later become the Old Spanish Trail.",
     "media": { 
       "img": require("../images/1776-Escalante.png"),
-      "alt": "Father Escalante Discovers Utah Valley by E. Keith Eddington"
+      "alt": "Father Escalante Discovers Utah Valley, by E. Keith Eddington"
     }
   },
   {
@@ -142,7 +142,7 @@ const data= [
     "description": "Comanche Indian leader Cuerno Verde is killed in combat with Spanish forces led by Juan Bautista de Anza in what is now Pueblo County, Colorado.",
     "media": { 
       "img": require("../images/1779-Juan_Bautista_de_Anza.jpg"),
-      "alt": "Portrait of Juan Bautista de Anza (Painted by Fray Orci; 1774, Mexico City)"
+      "alt": "Portrait of Juan Bautista de Anza, by Fray Orci, 1774, Mexico City)"
     }
   },
   {
@@ -152,7 +152,7 @@ const data= [
     "description": "The Treaty of Paris is signed by Great Britain and the United States of America, ending the American Revolutionary War and establishing the United States as an independent country.",
     "media": { 
       "img": require("../images/1783-Treaty_of_Paris.jpg"),
-      "alt": "Treaty of Paris, by Benjamin West (1783), depicts the American delegation at the Treaty of Paris (left to right): John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin. The British delegation refused to pose, and the painting was never completed"
+      "alt": "Treaty of Paris, by Benjamin West, 1783; depicts the American delegation at the Treaty of Paris (left to right): John Jay, John Adams, Benjamin Franklin, Henry Laurens, and William Temple Franklin; the British delegation refused to pose, and the painting was never completed"
     }
   },
   {
@@ -162,7 +162,7 @@ const data= [
     "description": "Captain George Vancouver's expedition drops anchor near present-day Seattle and proceeds to name Puget Sound, Mount Rainier, Vashon Island, and Restoration Point. Vancouver and his expedition are the first Europeans to explore the area, claiming it for the British Crown, along with much of the Pacific Northwest coast, including Vancouver Island and the Columbia River.",
     "media": { 
       "img": require("../images/1792-Vancouver_Rainier.jpg"),
-      "alt": "'Mount Rainier from the south Part of Admiralty Inlet'. The mountain was first sighted by Vancouver during his exploration of Puget Sound in the spring of 1792"
+      "alt": "'Mount Rainier from the south Part of Admiralty Inlet'; the mountain was first sighted by Vancouver during his exploration of Puget Sound in the spring of 1792"
     }
   },
   {
@@ -178,7 +178,7 @@ const data= [
     "description": "The United States agrees to buy the colony of La Louisiane from the French Republic for the price of $15 million ($350 million in 2022 USD when adjusted for inflation).",
     "media": { 
       "img": require("../images/1803-Louisiana_Purchase.jpg"),
-      "alt": "Louisiana and the Louisiana Purchase (Government Printing Office, 1912 Map No. 4)"
+      "alt": "Louisiana and the Louisiana Purchase, Government Printing Office, 1912, Map No. 4"
     }
   },
   {
@@ -204,7 +204,7 @@ const data= [
     "description": "Lewis and Clark sight the Pacific Ocean for the first time, near the mouth of the Columbia River. The expedition winters at Fort Clatsop on the south side of the river, near present-day Astoria, Oregon.",
     "media": { 
       "img": require("../images/1805-Lewis_and_Clark_Columbia.jpg"),
-      "alt": "Corps of Discovery meet Chinooks on the Lower Columbia, October 1805 (painted by Charles Marion Russel, c. 1905)"
+      "alt": "Corps of Discovery meet Chinooks on the Lower Columbia, October 1805, by Charles Marion Russel c. 1905"
     }
   },
   {
@@ -214,7 +214,7 @@ const data= [
     "description": "A U.S. Army reconnaissance expedition under the command of Lieutenant Zebulon Pike departs Fort Bellefontaine near Saint Louis to explore the southern Louisiana Territory.",
     "media": { 
       "img": require("../images/1806-Zebulon_Pike.jpg"),
-      "alt": "Portrait of American General and explorer Zebulon Pike by Charles Wilson Peale"
+      "alt": "Portrait of American General and explorer Zebulon Pike, by Charles Wilson Peale"
     }
   },
   {
@@ -234,7 +234,7 @@ const data= [
     "description": "Spanish cavalrymen arrest the Pike Expedition in the province of Santa Fe de Nuevo México (now southern Colorado).",
     "media": { 
       "img": require("../images/1807-Pike_Entering_Santa_Fe.jpg"),
-      "alt": "Zebulon Pike Entering Santa Fe by Frederic Remington"
+      "alt": "Zebulon Pike Entering Santa Fe, by Frederic Remington"
     }
   },
   {
@@ -244,7 +244,7 @@ const data= [
     "description": "German immigrant John Jacob Astor incorporates his American Fur Company.",
     "media": { 
       "img": require("../images/1808-John_Jacob_Astor.jpg"),
-      "alt": "Portrait of John Jacob Astor by John Wesley Jarvis"
+      "alt": "Portrait of John Jacob Astor, by John Wesley Jarvis"
     }
   },
   {
@@ -254,7 +254,7 @@ const data= [
     "description": "The Treaty of Fort Clark is signed, in which the Osage Nation cedes all of its territory east of Fort Clark and north of the Arkansas River to the United States.",
     "media": { 
       "img": require("../images/1808-Treaty_of_Fort_Clark.png"),
-      "alt": "Mural depicting the treaty at the Missouri State Capitol"
+      "alt": "Mural depicting the Treaty of Fort Clark, at the Missouri State Capitol, Jefferson City, Missouri"
     }
   },
   {
@@ -294,7 +294,7 @@ const data= [
     "description": "Fort Ross is established by Russian traders on the California coast as the hub of the southernmost colony in Russian America.",
     "media": { 
       "img": require("../images/1812-Fort_Ross.jpg"),
-      "alt": "A view of Fort Ross in 1828 by A. B. Duhaut-Cilly. From the archives of the Fort Ross Historical Society"
+      "alt": "A view of Fort Ross in 1828, by A. B. Duhaut-Cilly, from the archives of the Fort Ross Historical Society"
     }
   },
   {
@@ -314,7 +314,7 @@ const data= [
     "description": "Scottish and Irish settlers led by Miles Macdonell formally take possession of the Red River Colony. They construct Fort Daer near present-day Pembina, North Dakota, which becomes the first permanent European-American settlement in the Dakotas.",
     "media": { 
       "img": require("../images/1812-Miles_MacDonell.jpg"),
-      "alt": "A sketch portrait of Miles Macdonnell (1767 – 28 June 1828) was the first Governor of the Red River Colony (or, Assiniboia), a 19th-century Scottish settlement located in present-day Manitoba and North Dakota"
+      "alt": "A sketch portrait of Miles Macdonnell (1767 – 28 June 1828), the first Governor of the Red River Colony (or, Assiniboia), a 19th-century Scottish settlement located in present-day Manitoba and North Dakota"
     }
   },
   {
@@ -340,7 +340,7 @@ const data= [
     "description": "Construction begins on a frontier military post known as Fort Smith in what is now Arkansas.",
     "media": { 
       "img": require("../images/1817-Fort_Smith.jpg"),
-      "alt": "The remains of the foundation of the first fort built at Fort Smith, which was replaced by the second fort in 1838, both forts are part of the Fort Smith National Historic Site in Arkansas"
+      "alt": "The remains of the foundation of the first fort built at Fort Smith, which was replaced by the second fort in 1838, both forts are part of the Fort Smith National Historic Site in Fort Smith, Arkansas"
     }
   },
   {
@@ -350,7 +350,7 @@ const data= [
     "description": "The Treaty of 1818 establishes the 49th parallel from Lake of the Woods west to the Rocky Mountains as the boundary between the United States and British North America.",
     "media": { 
       "img": require("../images/1818-Treaty_of_1818.png"),
-      "alt": "A map of US territorial acquisitions, the Treaty of 1818 involved the green and blue areas at the top of the map, along the present day Canada-US border"
+      "alt": "A map of US territorial acquisitions, the Treaty of 1818 involved the green and blue areas at the top of the map along the present day Canada-US border"
     }
   },
   {
@@ -360,7 +360,7 @@ const data= [
     "description": "The Arkansas Territory is organized.",
     "media": { 
       "img": require("../images/1819-Arkansas_Territory.png"),
-      "alt": "The Great Seal of the Arkansas Territory"
+      "alt": "The Great Seal of the Territory of Arkansas"
     }
   },
   {
@@ -390,7 +390,7 @@ const data= [
     "description": "Major Stephen H. Long leads a scientific expedition up the Platte River, along the Front Range of the Rocky Mountains, south to the Arkansas and Canadian rivers, and finally east to present-day Fort Smith, Arkansas. Among the first expeditions to bring American artists and scientists into the West, the party includes painter Samuel Seymour, artist-naturalist Titian Peale, and physician Edwin James, who leads the first recorded ascent of Pikes Peak. Long's report, published in 1823, promotes the idea of the Great Plains as the 'Great American Desert'.",
     "media": { 
       "img": require("../images/1820-Prairie_Dog-Titian_Ramsay_Peale.jpg"),
-      "alt": "Prairie Dog by Titian Ramsay Peale, c. 1819–1821"
+      "alt": "Prairie Dog, by Titian Ramsay Peale, c. 1819–1821"
     }
   },
   {
@@ -440,7 +440,7 @@ const data= [
     "description": "William Henry Ashley and Andrew Henry place an advertisement in the Missouri Republican for one hundred 'enterprising young men' to join a trapping expedition to the upper Missouri River. The respondents comprise 'Ashley's Hundred' many of whom, including Jedediah Smith, Jim Bridger, Hugh Glass, and Jim Beckwourth, earn reputations as famous explorers and mountain men.",
     "media": { 
       "img": require("../images/1822-James_Beckwourth.jpg"),
-      "alt": "Jim Beckwourth"
+      "alt": "James Pierson 'Bloody Arm' Beckwourth (born Beckwith, April 26, 1798 or 1800 – October 29, 1866 or 1867), was an American mountain man, fur trader, and explorer"
     }
   },
   {
@@ -470,7 +470,7 @@ const data= [
     "description": "The first of 297 pioneer families and partnerships known as the 'Old Three Hundred' are granted land titles in American empresario Stephen F. Austin's colony in Coahuila y Tejas. They are the first American settlers of Mexican Texas under a recently reformed Mexican law.",
     "media": { 
       "img": require("../images/1824-Stephen_Austin.jpg"),
-      "alt": "Marble sculpture of Stephen F. Austin (1903) by Elisabet Ney at the Texas State Capitol"
+      "alt": "Marble sculpture of Stephen F. Austin, by Elisabet Ney, 1903, at the Texas State Capitol in Austin, Texas"
     }
   },
   {
@@ -486,7 +486,7 @@ const data= [
     "description": "Colonel Henry Leavenworth founds a U.S. Army cantonment later known as Fort Leavenworth above the confluence of the Little Platte and the Missouri River in present-day Kansas.",
     "media": { 
       "img": require("../images/1827-Henry_Leavenworth.jpg"),
-      "alt": "Portrait illustration of Henry Leavenworth"
+      "alt": "Portrait of Henry Leavenworth"
     }
   },
   {
@@ -506,7 +506,7 @@ const data= [
     "description": "A merchant caravan led by Antonio Armijo embarks from Abiquiú, New Mexico and successfully reaches San Gabriel, California 86 days later, becoming the first to travel the length of the Old Spanish Trail.",
     "media": { 
       "img": require("../images/1829-Old_Spanish_Trail.png"),
-      "alt": "Timeline: Early exploration of the Old Spanish Trail, from the National Park Service (Armijo Route is the grey 'dot-dash-dot' line originating in Abiquiu, New Mexico)"
+      "alt": "Timeline: Early exploration of the Old Spanish Trail, from the National Park Service; Armijo Route is the grey 'dot-dash-dot' line originating in Abiquiu, New Mexico"
     }
   },
   {
@@ -522,7 +522,7 @@ const data= [
     "description": "The Indian Removal Act is signed into law by President Andrew Jackson, authorizing the U.S. government to negotiate the removal of Native American tribes of the southeastern United States to federal territory in what is now Oklahoma.",
     "media": { 
       "img": require("../images/1830-Andrew_Jackson.jpg"),
-      "alt": "President Andrew Jackson called for an American Indian Removal Act in his first (1829) State of the Union address"
+      "alt": "President Andrew Jackson (March 15, 1767 – June 8, 1845) was an American lawyer, planter, general, and statesman who served as the seventh president of the United States; he called for an American Indian Removal Act in his first (1829) State of the Union address"
     }
   },
   {
@@ -538,7 +538,7 @@ const data= [
     "description": "The Bonneville Expedition departs Missouri with 110 men. Over the next two years, the party explores several major river systems in present-day Wyoming, Idaho, Oregon, and Washington, and establishes an overland route to California that will later become the California Trail.",
     "media": { 
       "img": require("../images/1832-Benjamin_Louis_Eulalie_de_Bonneville.jpg"),
-      "alt": "Benjamin Louis Eulalie de Bonneville"
+      "alt": "Benjamin Louis Eulalie de Bonneville (April 14, 1796 – June 12, 1878) was an American officer in the United States Army, fur trapper, and explorer in the American West"
     }
   },
   {
@@ -564,7 +564,7 @@ const data= [
     "description": "Frontier trader William Bent establishes Bent's Fort on the north bank of the Arkansas River, along the Santa Fe Trail.",
     "media": { 
       "img": require("../images/1833-Bents_Fort.jpg"),
-      "alt": "Bent's Old Fort National Historic Site"
+      "alt": "Bent's Old Fort National Historic Site in La Junta, Colorado "
     }
   },
   {
@@ -574,7 +574,7 @@ const data= [
     "description": "Fort Laramie is founded by William Sublette in what is now eastern Wyoming as a private fur-trading post named Fort William.",
     "media": { 
       "img": require("../images/1834-Fort_Laramie.jpg"),
-      "alt": "Fort William, the first Fort Laramie, as it looked prior to 1840, painting from memory by Alfred Jacob Miller"
+      "alt": "Fort William, the first Fort Laramie, as it looked prior to 1840, painted from memory by Alfred Jacob Miller"
     }
   },
   {
@@ -594,7 +594,7 @@ const data= [
     "description": "Frontier traders Louis Vasquez and Andrew Sublette establish Fort Vasquez on the South Platte River, 35 miles northeast of present-day Denver, Colorado.",
     "media": { 
       "img": require("../images/1835-Fort_Vasquez.jpeg"),
-      "alt": "Fort Vasquez, near present day Denver, Colorado"
+      "alt": "Fort Vasquez in Platteville, Colorado"
     }
   },
   {
@@ -614,7 +614,7 @@ const data= [
     "description": "The Mexican Constitution of 1824 is repealed, abolishing the former federalist system of government and replacing it with a provisional centralist system under President-General Antonio López de Santa Anna. The move further alienates Anglo-American settlers in Mexican Texas.",
     "media": { 
       "img": require("../images/1835-Antonio_Lopez_de_Santa_Anna.png"),
-      "alt": "Antonio López de Santa Anna"
+      "alt": "Antonio de Padua María Severino López de Santa Anna y Pérez de Lebrón (21 February 1794 – 21 June 1876), usually known as Santa Anna or López de Santa Anna, was a Mexican politician and general"
     }
   },
   {
@@ -624,7 +624,7 @@ const data= [
     "description": "The two-month Siege of Béxar culminates in the surrender of the last remaining Mexican garrison in Texas, under Martín Perfecto de Cos, to the Texian Army under Edward Burleson. Santa Anna immediately prepares to march overland to recapture San Antonio.",
     "media": { 
       "img": require("../images/1835-Ed_Burleson.jpg"),
-      "alt": "Edward Burleson (1798-1851)"
+      "alt": "Edward Burleson (December 15, 1798 – December 26, 1851) was the third vice president of the Republic of Texas"
     }
   },
   {
@@ -644,7 +644,7 @@ const data= [
     "description": "Following a 13-day siege, Mexican troops under Santa Anna storm the Alamo Mission in San Antonio, killing all but a handful of its more than 200 Texian defenders, including Jim Bowie and Davy Crockett.",
     "media": { 
       "img": require("../images/1836-David_Crockett.jpg"),
-      "alt": "David Crockett by Chester Harding"
+      "alt": "Portrait of David Crockett, by Chester Harding c. 1834"
     }
   },
   {
@@ -654,7 +654,7 @@ const data= [
     "description": "More than 450 captured Texian soldiers are executed by the Mexican army at the Goliad massacre.",
     "media": { 
       "img": require("../images/1836-Goliad_Executions.jpg"),
-      "alt": "Goliad Executions By Norman Price From Texas State Archives And Library Commission"
+      "alt": "Goliad Executions, by Norman Price, from Texas State Archives And Library Commission"
     }
   },
   {
@@ -664,7 +664,7 @@ const data= [
     "description": "Texians under General Sam Houston surprise and defeat the Mexican army at the Battle of San Jacinto, ending the Texas Revolution.",
     "media": { 
       "img": require("../images/1836-The_Battle_of_San_Jacinto.jpg"),
-      "alt": "The Battle of San Jacinto – 1895 painting by Henry Arthur McArdle"
+      "alt": "The Battle of San Jacinto, by Henry Arthur McArdle c. 1895"
     }
   },
   {
@@ -674,7 +674,7 @@ const data= [
     "description": "Texians declare the independence of the Republic of Texas from Mexico. On May 14, they force captured General Antonio López de Santa Anna to sign the Treaties of Velasco, though Mexico never ratifies these treaties.",
     "media": { 
       "img": require("../images/1836-Washington_on_the_Brazos_Monument.jpg"),
-      "alt": "Replica of the building at Washington-on-the-Brazos where the Texas Declaration was signed. An inscription reads: 'Here a Nation was born.'"
+      "alt": "Replica of the building at Washington-on-the-Brazos where the Texas Declaration was signed; an inscription reads: 'Here a Nation was born.'"
     }
   },
   {
@@ -720,7 +720,7 @@ const data= [
     "description": "In the Council House Fight, a delegation of 33 Comanche chiefs and warriors is slaughtered by Texan militiamen while attempting to negotiate the return of captive white settlers at a peace conference in San Antonio.",
     "media": { 
       "img": require("../images/1840-San_Antonio_Plaza.jpg"),
-      "alt": "The Plaza and the Council House in San Antonio"
+      "alt": "The Plaza and the Council House in San Antonio, Texas"
     }
   },
   {
@@ -730,7 +730,7 @@ const data= [
     "description": "Political rivalries in the river town of Bellevue, Iowa Territory culminate in a shootout in front of the town hotel that leaves seven people dead.",
     "media": { 
       "img": require("../images/1840-Bellevue_Iowa_in_1848.png"),
-      "alt": "Illustration of Bellevue, Iowa in 1848, viewed from the Mississippi"
+      "alt": "Illustration of Bellevue, Iowa viewed from the Mississippi in 1848"
     }
   },
   {
@@ -740,7 +740,7 @@ const data= [
     "description": "Swiss pioneer John Sutter receives title to nearly 50,000 acres of land surrounding the confluence of the Sacramento and American rivers in the Mexican province of Alta California, upon which he founds a colony he names 'New Helvetia'. In December, Sutter purchases the Russian settlement at Fort Ross and uses its building materials to construct a fort on the site of present-day Sacramento.",
     "media": { 
       "img": require("../images/1841-Johann_August_Sutter.jpg"),
-      "alt": "Johann August Sutter"
+      "alt": "John Augustus Sutter (February 23, 1803 – June 18, 1880), born Johann August Sutter and known in Spanish as Don Juan Sutter, was a Swiss immigrant of Mexican and American citizenship, known for establishing Sutter's Fort in the area that would eventually become Sacramento, California, the state's capital"
     }
   },
   {
@@ -772,7 +772,7 @@ const data= [
     "description": "Seventeen Texan prisoners of war are executed by the Mexican army after drawing beans in a random lottery, as punishment for their participation in a raid on the town of Ciudad Mier several months earlier.",
     "media": { 
       "img": require("../images/1843-The_Drawing_of_the_Black_Bean.jpg"),
-      "alt": "The Mier Expedition - The Drawing of the Black Bean by Frederic Remington"
+      "alt": "The Mier Expedition - The Drawing of the Black Bean, by Frederic Remington"
     }
   },
   {
@@ -802,7 +802,7 @@ const data= [
     "description": "Oregon City, the western terminus of the Oregon Trail, becomes the first incorporated U.S. city west of the Rocky Mountains.",
     "media": { 
       "img": require("../images/1844-Oregon_City.jpg"),
-      "alt": "A painting of Oregon City, c. 1850–52, by John Mix Stanley"
+      "alt": "A painting of Oregon City, by John Mix Stanley c. 1850–52"
     }
   },
   {
@@ -812,7 +812,7 @@ const data= [
     "description": "The Stephens-Townsend-Murphy Party pioneers the first wagon route across the Sierra Nevada on the California Trail.",
     "media": { 
       "img": require("../images/1844-Elisha_Stephens.jpg"),
-      "alt": "Elisha Stephens"
+      "alt": "Elisha Stephens (1804 - September 9, 1887) was a blacksmith and trapper who was born in South Carolina"
     }
   },
   {
@@ -822,7 +822,7 @@ const data= [
     "description": "John C. Frémont's third expedition with 55 men and Kit Carson as guide leaves St. Louis to 'map the source of the Arkansas River' but continues to the Sacramento Valley.",
     "media": { 
       "img": require("../images/1845-John_Charles_Fremont.png"),
-      "alt": "Portrait of John Charles Frémont by William Smith Jewett"
+      "alt": "Portrait of John Charles Frémont, by William Smith Jewett"
     }
   },
   {
@@ -838,7 +838,7 @@ const data= [
     "description": "The phrase 'manifest destiny' first appears in the Democratic Review in an essay by John L. O'Sullivan urging the annexation of Texas. The concept does not become widely popular until O'Sullivan later uses the same phrase while addressing the subject of the Oregon Country.",
     "media": { 
       "img": require("../images/1845-Manifest_Destiny.jpg"),
-      "alt": "American Progress (1872) by John Gast is an allegorical representation of the modernization of the new west. Columbia, a personification of the United States, is shown leading civilization westward with the American settlers. She is shown bringing light from east to west, stringing telegraph wire, holding a book, and highlighting different stages of economic activity and evolving forms of transportation"
+      "alt": "American Progress, by John Gast c. 1872, is an allegorical representation of the modernization of the new west; Columbia, a personification of the United States, is shown leading civilization westward with the American settlers; she is shown bringing light from east to west, stringing telegraph wire, holding a book, and highlighting different stages of economic activity and evolving forms of transportation"
     }
   },
   {
@@ -884,7 +884,7 @@ const data= [
     "description": "The United States under President James K. Polk declares war on Mexico, formally commencing the Mexican–American War.",
     "media": { 
       "img": require("../images/1846-James_K_Polk.jpg"),
-      "alt": "Daguerrotype of United States president James Knox Polk"
+      "alt": "Daguerrotype of United States president James Knox Polk (November 2, 1795 – June 15, 1849) was the 11th president of the United States"
     }
   },
   {
@@ -894,7 +894,7 @@ const data= [
     "description": "In the Bear Flag Revolt, American insurgents led by William B. Ide seize the Sonoma Barracks from Mexican officers and declare their intention to found an independent republic in northern Alta California. The so-called 'Bear Flag Republic' lasts just 25 days, after which it is subsumed into American military efforts to control California.",
     "media": { 
       "img": require("../images/1846-William_B_Ide.png"),
-      "alt": "William B. Ide"
+      "alt": "William Brown Ide (March 28, 1796 – December 19 or 20, 1852) was an American pioneer who headed the short-lived California Republic in 1846"
     }
   },
   {
@@ -910,7 +910,7 @@ const data= [
     "description": "Troops under the command of General Stephen W. Kearny seize the territorial capital of Santa Fe for the United States with little resistance.",
     "media": { 
       "img": require("../images/1846-Stephen_W_Kearny.jpg"),
-      "alt": "Brigadier-General Stephen W. Kearny (1794-1848)"
+      "alt": "Brigadier-General Stephen Watts Kearny (August 30, 1794 – October 31, 1848) was one of the foremost antebellum frontier officers of the United States Army"
     }
   },
   {
@@ -920,7 +920,7 @@ const data= [
     "description": "Kearny's Army of the West engages Mexican lancers east of San Diego at the Battle of San Pasqual.",
     "media": { 
       "img": require("../images/1846-San_Pasqual.jpg"),
-      "alt": "Battle of San Pasqual by Colonel Charles Waterhouse, US Marine Corp Reserves"
+      "alt": "Battle of San Pasqual, by Colonel Charles Waterhouse, US Marine Corp Reserves"
     }
   },
   {
@@ -950,7 +950,7 @@ const data= [
     "description": "Governor Charles Bent of the New Mexico Territory is assassinated and scalped during the Taos Revolt.",
     "media": { 
       "img": require("../images/1847-Charles_Bent.jpg"),
-      "alt": "New Mexico Territorial Governor Charles Bent"
+      "alt": "Charles Bent (November 11, 1799 – January 19, 1847) was an American businessman and politician who served as the first civilian United States governor of the New Mexico Territory, newly acquired by the Military Governor, Stephen Watts Kearny, in September 1846"
     }
   },
   {
@@ -996,7 +996,7 @@ const data= [
     "description": "The United States and Mexico sign the Treaty of Guadalupe Hidalgo, ending the Mexican–American War. The agreement results in the cession of nearly all of the present-day Southwest, including California, to the U.S., as well as the designation of the Rio Grande as the boundary between Texas and Mexico.",
     "media": { 
       "img": require("../images/1848-Mexican_Cession.png"),
-      "alt": "Shown is the area Mexico ceded to the United States in 1848, minus Texan claims. The Mexican Cession consisted of the present-day U.S. states of California, Nevada, Utah, most of Arizona, the western half of New Mexico, the western quarter of Colorado, and the southwest corner of Wyoming"
+      "alt": "Shown is the area Mexico ceded to the United States in 1848, minus Texan claims; the Mexican Cession consisted of the present-day U.S. states of California, Nevada, Utah, most of Arizona, the western half of New Mexico, the western quarter of Colorado, and the southwest corner of Wyoming"
     }
   },
   {
@@ -1006,7 +1006,7 @@ const data= [
     "description": "Regular steamboat service between the east and west coasts of the United States begins with the arrival of the SS California in San Francisco.",
     "media": { 
       "img": require("../images/1849-SS_California.jpg"),
-      "alt": "SS California, the first ship of the Pacific Mail Steamship Company. This ship was used between Panama and San Francisco between 1848 and 1894, when she was wrecked off the coast of Peru"
+      "alt": "SS California, the first ship of the Pacific Mail Steamship Company; this ship was used between Panama and San Francisco between 1848 and 1894, when she was wrecked off the coast of Peru"
     }
   },
   {
@@ -1036,7 +1036,7 @@ const data= [
     "description": "The Nauvoo Legion, under orders from Brigham Young, attacks Timpanogos Indians over land disputes near Fort Utah.",
     "media": { 
       "img": require("../images/1850-Nauvoo_Legion.png"),
-      "alt": "Joseph Mustering the Nauvoo Legion by C.C.A. Christensen"
+      "alt": "Joseph Mustering the Nauvoo Legion, by C.C.A. Christensen"
     }
   },
   {
@@ -1046,7 +1046,7 @@ const data= [
     "description": "The city of Los Angeles, California is incorporated.",
     "media": { 
       "img": require("../images/1850-Los_Angeles.png"),
-      "alt": "Panoramic view of Los Angeles Plaza and Old Plaza Church circa 1869, the two gas lamps seen on the corners of the Plaza were the first streetlights installed in LA"
+      "alt": "Panoramic view of Los Angeles Plaza and Old Plaza Church circa 1869, the two gas lamps seen on the corners of the Plaza were the first streetlights installed in Los Angeles, California, photo courtesy Power and Light"
     }
   },
   {
@@ -1056,7 +1056,7 @@ const data= [
     "description": "The city of San Francisco, California is incorporated.",
     "media": { 
       "img": require("../images/1850-San_Francisco.jpg"),
-      "alt": "Panorama view from near present Ina Coolbrith Park to Telegraph Hill, San Francisco (1855) | Photo Courtesy of OpenSFHistory / wnp37.10118"
+      "alt": "Panorama view from near present Ina Coolbrith Park to Telegraph Hill, San Francisco c. 1855"
     }
   },
   {
@@ -1104,7 +1104,7 @@ const data= [
     "description": "President Millard Fillmore appoints Brigham Young the first governor of the Utah Territory.",
     "media": { 
       "img": require("../images/1850-Brigham_Young.jpg/"),
-      "alt": "Brigham Young"
+      "alt": "Brigham Young (June 1, 1801 – August 29, 1877) was an American religious leader and politician"
     }
   },
   {
@@ -1114,7 +1114,7 @@ const data= [
     "description": "The phrase 'Go West, young man' first appears in an editorial by Indiana newspaper writer John B.L. Soule in the Terre Haute Express. The saying is later popularized by Horace Greeley, editor of the New-York Tribune.",
     "media": { 
       "img": require("../images/1851-Horace_Greeley.jpg"),
-      "alt": "Horace Greeley, to whom the saying 'Go West, young man' is attributed"
+      "alt": "Horace Greeley (February 3, 1811 – November 29, 1872) was an American newspaper editor and publisher who was the founder and editor of the New-York Tribune; he is attributed with the saying 'Go West, young man'"
     }
   },
   {
@@ -1140,7 +1140,7 @@ const data= [
     "description": "A family of Brewsterite pioneers traveling a southern route to California is massacred by Indians on the banks of the Gila River in what is now Arizona. Thirteen-year-old Olive Oatman and her eight-year-old sister Mary Ann are abducted and enslaved, Mary Ann died of starvation.",
     "media": { 
       "img": require("../images/1851-Olive_Oatman.jpg"),
-      "alt": "Olive Oatman 1838–1903, albumen silver print, c. 1863 by Benjamin F. Powelson. The blue tattoo on her face was to make her more recognizable to her captors, she was the first known white woman with a Native tattoo on record"
+      "alt": "Olive Oatman 1838–1903, albumen silver print, by Benjamin F. Powelson c. 1863; the blue tattoo on her face was to make her more recognizable to her captors, she was the first known white woman with a Native tattoo on record"
     }
   },
   {
@@ -1156,7 +1156,7 @@ const data= [
     "description": "Mariposa Battalion, led by James D. Savage, are the first reported non-natives to enter California's Yosemite Valley.",
     "media": { 
       "img": require("../images/1851-Yosemite_Valley.jpg"),
-      "alt": "The First Picture of Yosemite Valley, sketch by Thomas Ayres, 1855"
+      "alt": "The First Picture of Yosemite Valley, sketch by Thomas Ayres c. 1855"
     }
   },
   {
@@ -1166,7 +1166,7 @@ const data= [
     "description": "Fort Union is established in the New Mexico Territory.",
     "media": { 
       "img": require("../images/1851-Fort_Union.jpeg"),
-      "alt": "Ruins of Fort Union, at the Fort Union National Monument, New Mexico"
+      "alt": "Ruins of Fort Union, at the Fort Union National Monument in Watrous, New Mexico"
     }
   },
   {
@@ -1176,7 +1176,7 @@ const data= [
     "description": "The Treaty of Fort Laramie (1851) is negotiated between the United States government and representatives of ten Native American tribes of the Great Plains, including the Lakota, Crow, and Cheyenne. The tribes agree to provide safe passage for westward migrants and permit the construction of roads and forts in their territories in return for an annuity of $50,000 for fifty years.",
     "media": { 
       "img": require("../images/1851-Washakie.jpg"),
-      "alt": "Washakie (c. 1804/1810 – February 20, 1900), a prominent Shoshoni chief holding a catlinite pipe"
+      "alt": "Washakie (c. 1804/1810 – February 20, 1900), a prominent Shoshoni chief; holding a catlinite pipe"
     }
   },
   {
@@ -1186,7 +1186,7 @@ const data= [
     "description": "The Denny Party lands at Alki Point, the first settlers of what will become Seattle, Washington.",
     "media": { 
       "img": require("../images/1851-Denny_Party.jpg"),
-      "alt": "Alki Point, where the Denny Party made their initial land claims. Seattle, Washington, USA, viewed from Elliott Bay"
+      "alt": "Alki Point viewed from Elliott Bay, where the Denny Party made their initial land claims. Seattle, Washington"
     }
   },
   {
@@ -1196,7 +1196,7 @@ const data= [
     "description": "The Wells Fargo company is founded to provide express and banking services to California.",
     "media": { 
       "img": require("../images/1852-Wells_Fargo.jpg"),
-      "alt": "The Wells Fargo stage stop built in 1872 in Black Canyon City, Arizona"
+      "alt": "The Wells Fargo stage stop in Black Canyon City, Arizona, built in 1872"
     }
   },
   {
@@ -1206,7 +1206,7 @@ const data= [
     "description": "Levi Strauss arrives in San Francisco and opens a store supplying goods and clothing to Gold Rush miners.",
     "media": { 
       "img": require("../images/1853-Levi_Strauss.jpg"),
-      "alt": "The original Levi's factory, at 14-16 Battery Street in San Francisco"
+      "alt": "The original Levi's factory, at 14-16 Battery Street in San Francisco, California"
     }
   },
   {
@@ -1226,7 +1226,7 @@ const data= [
     "description": "Fort Riley is established in what is now Kansas.",
     "media": { 
       "img": require("../images/1853-Fort_Riley_Custer_House.jpg"),
-      "alt": "Constructed in 1855 of native limestone, the Custer House is one of two surviving sets of quarters from Fort Riley's establishment. It depicts military life on the Western frontier and features displays that show the living conditions of a typical military family"
+      "alt": "Constructed in 1855 of native limestone, the Custer House is one of two surviving sets of quarters from Fort Riley's establishment; it depicts military life on the Western frontier and features displays that show the living conditions of a typical military family"
     }
   },
   {
@@ -1242,7 +1242,7 @@ const data= [
     "description": "Paiute Indians attack U.S. Army Captain John W. Gunnison and his party of 37 soldiers and railroad surveyors near Sevier Lake, Utah.",
     "media": { 
       "img": require("../images/1853-John_Williams_Gunnison.jpeg"),
-      "alt": "Portrait of John Williams Gunnison in military uniform"
+      "alt": "Portrait of John Williams Gunnison"
     }
   },
   {
@@ -1262,7 +1262,7 @@ const data= [
     "description": "The Mexican army forces would-be conqueror William Walker and his mercenary troops to retreat to Sonora.",
     "media": { 
       "img": require("../images/1854-William_Walker.jpg"),
-      "alt": "'General' William Walker"
+      "alt": "'General' William Walker (May 8, 1824 – September 12, 1860) was an American physician, lawyer, journalist, and mercenary"
     }
   },
   {
@@ -1288,7 +1288,7 @@ const data= [
     "description": "Omaha City is founded in the Nebraska Territory.",
     "media": { 
       "img": require("../images/1854-Omaha_Nebraska.jpg"),
-      "alt": "Looking Northwest from 13th and Farnam Streets in Omaha in 1860. The territorial capitol is visitble on the hill in background"
+      "alt": "Looking Northwest from 13th and Farnam Streets in Omaha, Nebraska in 1860; the territorial capitol is visitble on the hill in background"
     }
   },
   {
@@ -1330,7 +1330,7 @@ const data= [
     "description": "In the Puget Sound War, the Battle of Seattle is fought when an alliance of local Indians attacks pioneer settlements in the Washington Territory.",
     "media": { 
       "img": require("../images/1856-Battle_of_Seattle.jpg"),
-      "alt": "'Battle of Seattle' by Emily Inez Denny"
+      "alt": "Battle of Seattle, by Emily Inez Denny"
     }
   },
   {
@@ -1340,7 +1340,7 @@ const data= [
     "description": "The city of Dallas is incorporated in Texas.",
     "media": { 
       "img": require("../images/1856-Dallas.jpg"),
-      "alt": "One of the oldest photographs of Dallas, Texas from 1872.  At the time of it's incorporation in 1856 the city had less than 600 free residents and most of the original city burned down in 1860"
+      "alt": "One of the oldest photographs of Dallas, Texas from 1872; at the time of it's incorporation in 1856 the city had less than 600 free residents and most of the original city burned down in 1860"
     }
   },
   {
@@ -1350,7 +1350,7 @@ const data= [
     "description": "The predominantly abolitionist town of Lawrence, Kansas is ransacked and looted by a pro-slavery militia.",
     "media": { 
       "img": require("../images/1856-Lawrence_Kansas.jpg"),
-      "alt": "Ruins of Free State Hotel after Sacking of Lawrence, image from State Historical Society of Missouri"
+      "alt": "Ruins of Free State Hotel after the Sacking of Lawrence, image from State Historical Society of Missouri"
     }
   },
   {
@@ -1376,7 +1376,7 @@ const data= [
     "description": "The Battle of Pima Butte, in what is now Arizona, is the last major battle fought solely between indigenous peoples in North America.",
     "media": { 
       "img": require("../images/1857-Pima_Butte.jpg"),
-      "alt": "Two Mohave warriors in 1871, by Timothy H. O'Sullivan"
+      "alt": "Two Mohave warriors, by Timothy H. O'Sullivan c 1871"
     }
   },
   {
@@ -1392,7 +1392,7 @@ const data= [
     "description": "Chief Leschi, a leader of the Nisqually people, is hanged by the territorial government of Washington after being wrongfully convicted of killing a colonel during the Puget Sound War.",
     "media": { 
       "img": require("../images/1858-Chief_Leschi.png"),
-      "alt": "Nisqually Chief Leschi (1808-1858), portrait created in 1894, watercolor by Raphael Coombs. Courtesy Washington State Historical Society"
+      "alt": "Portrait of Nisqually Chief Leschi (1808-1858), by Raphael Coombs c. 1894, courtesy Washington State Historical Society"
     }
   },
   {
@@ -1422,7 +1422,7 @@ const data= [
     "description": "An army of Texas Rangers and Indian allies under the command of John Salmon Ford engages Comanche warriors in a series of battles after attacking villages in the Canadian River valley, the final actions of the Antelope Hills expedition.",
     "media": { 
       "img": require("../images/1858-John_Ford.jpg"),
-      "alt": "Capt. John 'Rip' Ford"
+      "alt": "Capt. John Salmon 'Rip' Ford (May 26, 1815 – November 3, 1897) was a member of the Republic of Texas Congress and later of the State Senate, and mayor of Brownsville, Texas"
     }
   },
   {
@@ -1432,7 +1432,7 @@ const data= [
     "description": "Gold is discovered in the Front Range of the Rocky Mountains. The resulting gold rush draws nearly 100,000 people to the Pike's Peak Country of present-day Colorado over the next three years.",
     "media": { 
       "img": require("../images/1858-Pikes_Peak.jpg"),
-      "alt": "Gold prospectors in what was then the 'Pikes Peak' region of western Kansas Territory (modern Colorado), ca. 1858"
+      "alt": "Gold prospectors in what was then the 'Pikes Peak' region of western Kansas Territory (present day Colorado) c. 1858"
     }
   },
   {
@@ -1462,7 +1462,7 @@ const data= [
     "description": "Mexican folk hero Juan Cortina and a large posse seize control of Brownsville, Texas in one of the major actions of the First Cortina War. His motivation is the legal abuses perpetrated by Texan authorities against ethnic Mexicans. The occupation only lasts two days, but the Cortina Troubles continue for another two years.",
     "media": { 
       "img": require("../images/1859-Juan_Cortina.jpg"),
-      "alt": "Juan Nepomuceno Cortina, the 'Red Robber or the Rio Grande'"
+      "alt": "Juan Nepomuceno Cortina Goseacochea (May 16, 1824 – October 30, 1894), also known by his nicknames Cheno Cortina, the Red Robber of the Rio Grande and the Rio Grande Robin Hood, was a Mexican rancher, politician, military leader, outlaw and folk hero"
     }
   },
   {
@@ -1472,7 +1472,7 @@ const data= [
     "description": "Hundreds of Wiyot people are massacred by white settlers along the coast of what is now Humboldt County, California.",
     "media": { 
       "img": require("../images/1860-Wiyot_map.png"),
-      "alt": "Map of Wiyot dialects and villages with locator"
+      "alt": "Map of Wiyot dialects and villages"
     },
     "coords":
       [
@@ -1506,7 +1506,7 @@ const data= [
     "description": "Texas Rangers under Lawrence Sullivan 'Sul' Ross attack a Comanche camp at the Battle of Pease River, where they discover Cynthia Ann Parker 24 years after her kidnapping.",
     "media": { 
       "img": require("../images/1860-Cynthia_Ann_Parker.jpg"),
-      "alt": "Cynthia Ann Parker and her daughter in 1861 after being taken at Pease River, in a picture which was famous all over the United States"
+      "alt": "Cynthia Ann Parker and her daughter in 1861, after being saved at Pease River; a picture which was famous all over the United States"
     },
     "coords": ""
   },
@@ -1528,7 +1528,7 @@ const data= [
     "description": "A series of hostilities involving U.S. Army Lt. George Nicholas Bascom and Chiricahua Apache chief Cochise triggers the Chiricahua Wars, which remain a central conflict in Arizona and New Mexico for the next 25 years.",
     "media": { 
       "img": require("../images/1861-Cochise.png"),
-      "alt": "Bronze bust of Cochise by Betty Butts. Fort Bowie National Historic Site, Arizona"
+      "alt": "Bronze bust of Cochise, by Betty Butts, at the Fort Bowie National Historic Site in Bowie, Arizona"
     },
     "coords": ""
   },
@@ -1539,7 +1539,7 @@ const data= [
     "description": "A convention of the Texas legislature votes to secede from the Union.",
     "media": { 
       "img": require("../images/1861-TX_Rebel_Flag.png"),
-      "alt": "The Texas Rebel Flag during the Civil War, Texas was a part of the Confederate States of America"
+      "alt": "The Texas Rebel Flag, during the Civil War Texas was a part of the Confederate States of America"
     },
     "coords": ""
   },
@@ -1561,7 +1561,7 @@ const data= [
     "description": "The Nevada Territory and Dakota Territory are organized.",
     "media": { 
       "img": require("../images/1861-Nevada_Dakota_Territory.png"),
-      "alt": "The Territorial Coat of Arms for Nevada and Dakota"
+      "alt": "The Territorial Coats of Arms for Nevada and Dakota"
     },
     "coords": ""
   },
@@ -1572,7 +1572,7 @@ const data= [
     "description": "Governor of Texas Sam Houston is evicted from office for refusing to take an oath of loyalty to the Confederate States of America.",
     "media": { 
       "img": require("../images/1861-Sam_Houston.jpg"),
-      "alt": "Sam Houston (March 2, 1793 – July 26, 1863), the 7th Governor of Texas"
+      "alt": "Sam Houston (March 2, 1793 – July 26, 1863), the 7th Governor of Texas, was an American general and statesman who played an important role in the Texas Revolution"
     },
     "coords": ""
   },
@@ -1594,7 +1594,7 @@ const data= [
     "description": "250 Confederate troops led by John R. Baylor engage Union forces under Isaac Lynde at Mesilla, New Mexico, resulting in Lynde's troops retreating into the Organ Mountains, toward Fort Stanton. Lynde is relieved of duty after abandoning his post.",
     "media": { 
       "img": require("../images/1861-John_Baylor.png"),
-      "alt": "John R. Baylor (July 27, 1822 - February 6, 1894)"
+      "alt": "John R. Baylor (July 27, 1822 - February 6, 1894) was a US Indian agent, publisher and editor, politician, and a senior officer of the Confederate States Army"
     },
     "coords": ""
   },
@@ -1627,7 +1627,7 @@ const data= [
     "description": "Months of record precipitation in the far west culminate in the Great Flood of 1862, which turns California's Central Valley into an inland sea and causes millions of dollars in property damage.",
     "media": { 
       "img": require("../images/1862-Great_Flood.jpg"),
-      "alt": "Lithograph of K Street in the city of Sacramento, California — during the Great Flood of 1862 The flood affected the Western United States, from Oregon through California, and Idaho through New Mexico"
+      "alt": "Lithograph of K Street in the city of Sacramento, California — during the Great Flood of 1862; the flood affected the Western United States, from Oregon through California, and Idaho through New Mexico"
     },
     "coords": ""
   },
@@ -1638,7 +1638,7 @@ const data= [
     "description": "Confederate forces under Brigadier General Henry Hopkins Sibley and Colonel Thomas Green undertake one of the most ambitious military operations of the American Civil War when they begin the New Mexico Campaign. Their goals include seizing the Colorado gold fields and securing roads by which to invade California and Mexico.",
     "media": { 
       "img": require("../images/1862-Henry_Hopkins_Sibley.jpg"),
-      "alt": "Henry Hopkins Sibley (May 25, 1816 - August 23, 1886"
+      "alt": "Henry Hopkins Sibley (May 25, 1816 - August 23, 1886) was a career officer in the United States Army, who commanded a Confederate cavalry brigade in the Civil War"
     },
     "coords": ""
   },
@@ -1660,7 +1660,7 @@ const data= [
     "description": "The Battle of Glorieta Pass, sometimes called the 'Gettysburg of the West', is fought in the Sangre de Cristo Mountains between Confederate cavalry forces and Union volunteers from Colorado and New Mexico. It marks a turning point in the New Mexico Campaign in favor of the Union.",
     "media": { 
       "img": require("../images/1862-Glorietta_Pass.png"),
-      "alt": "Battle of Glorieta Pass - Pigeon's Ranch by Roy Andersen"
+      "alt": "Battle of Glorieta Pass - Pigeon's Ranch, by Roy Andersen"
     },
     "coords": ""
   },
@@ -1707,7 +1707,7 @@ const data= [
     "description": "The Homestead Act of 1862 is signed into law by President Abraham Lincoln. It aims to encourage settlement in the West by simplifying the process of land acquisition: homesteaders need only claim, occupy for five years, and improve a minimum of 160 acres of unappropriated land to be granted full ownership. Alternatively, settlers have the option of purchasing the land outright after six months of residency.",
     "media": { 
       "img": require("../images/1862-Homestead_Certificate.jpg"),
-      "alt": "Certificate of homestead in Nebraska given under the Homestead Act, 1862"
+      "alt": "Certificate of homestead in Nebraska, given under the Homestead Act of 1862"
     },
     "coords": ""
   },
@@ -1740,7 +1740,7 @@ const data= [
     "description": "The Dakota War of 1862 begins when a Sioux hunting party slaughters five white settlers and the tribal council decides to attack white settlements throughout the Minnesota River valley.",
     "media": { 
       "img": require("../images/1862-Dakota_War.jpg"),
-      "alt": "1904 painting 'Attack on New Ulm' by Anton Gag"
+      "alt": "Attack on New Ulm, by Anton Gag c. 1904"
     },
     "coords": ""
   },
@@ -1784,7 +1784,7 @@ const data= [
     "description": "Colonel Patrick Edward Connor leads his troops to fight Shoshone Indians in present-day Idaho, resulting in the Bear River Massacre.",
     "media": { 
       "img": require("../images/1863-Chief_Sagwitch_and_Beawoachee.jpg"),
-      "alt": "Massacre survivor Chief Sagwitch and spouse Beawoachee, circa 1875"
+      "alt": "Massacre survivor Chief Sagwitch and spouse Beawoachee, c. 1875"
     },
     "coords": ""
   },
@@ -1828,7 +1828,7 @@ const data= [
     "description": "In the aftermath of the Lawrence massacre, Union General Thomas Ewing Jr. issues General Order No. 11, which forces the expulsion of all residents who cannot prove their allegiance to the Union from four counties in rural western Missouri.",
     "media": { 
       "img": require("../images/1863-Order_No_11.jpg"),
-      "alt": "George Caleb Bingham painting of General Order No. 11. In this famous propaganda work General Thomas Ewing is seated on a horse watching the Red Legs (the Red Legs were a secretive paramilitary organisation of abolitionist fighters on the western union border)"
+      "alt": "General Order No. 11, by George Caleb Bingham; in this famous propaganda work General Thomas Ewing is seated on a horse watching the Red Legs (the Red Legs were a secretive paramilitary organisation of abolitionist fighters on the western union border)"
     },
     "coords": ""
   },
@@ -1839,7 +1839,7 @@ const data= [
     "description": "John Bozeman leads a group of about 2,000 settlers along the Bozeman Trail, a new cutoff route connecting the Oregon Trail with the gold fields of southwestern Montana, which he and John Jacobs had blazed the previous year.",
     "media": { 
       "img": require("../images/1864-John_Bozeman.jpeg"),
-      "alt": "John Bozeman (January 1835 - April 20, 1867)"
+      "alt": "John Merin Bozeman (January 1835 – April 20, 1867) was a pioneer and frontiersman in the American West who helped establish the Bozeman Trail through Wyoming Territory into the gold fields of southwestern Montana Territory in the early 1860s"
     },
     "coords": ""
   },
@@ -1850,7 +1850,7 @@ const data= [
     "description": "Colonel Kit Carson accepts the surrender of most of the Navajo nation after the final two years of the bloody Navajo Wars.",
     "media": { 
       "img": require("../images/1864-Kit_Carson.jpg"),
-      "alt": "Colonel Kit Carson (December 24, 1809 - May 23, 1868)"
+      "alt": "Colonel Christopher Houston 'Kit' Carson (December 24, 1809 – May 23, 1868) was an American frontiersman, fur trapper, wilderness guide, Indian agent, and U.S. Army officer"
     },
     "coords": ""
   },
@@ -1872,7 +1872,7 @@ const data= [
     "description": "Outlaw Jim Reynolds and his gang plunder and rob settlements in the South Park Basin of the Colorado Territory in an attempt to loot the gold mines of the region to support the fledgling Confederacy.",
     "media": { 
       "img": require("../images/1864-Jim_Reynolds.jpg"),
-      "alt": "Depiction of The Reynolds Gang robbing a stagecoach in South Park, CO"
+      "alt": "Depiction of The Reynolds Gang robbing a stagecoach in South Park, Colorado"
     },
     "coords": ""
   },
@@ -1883,7 +1883,7 @@ const data= [
     "description": "Pro-Confederate bushwhackers led by William 'Bloody Bill' Anderson capture and execute 24 unarmed Union soldiers at a rail depot in Centralia, Missouri.",
     "media": { 
       "img": require("../images/1864-Bloody_Bill_Anderson.jpg"),
-      "alt": "William T. 'Bloody Bill' Anderson (1840 - October 27, 1864)"
+      "alt": "William T. 'Bloody Bill' Anderson (c. 1840 - October 27, 1864) was an American soldier who was one of the deadliest and most notorious Confederate guerrilla leaders in the American Civil War"
     },
     "coords": ""
   },
@@ -1894,7 +1894,7 @@ const data= [
     "description": "Union General Samuel R. Curtis' Army of the Border decisively defeats Confederate General Sterling Price's Army of Missouri at the Battle of Westport, near Kansas City. The battle ends the last major Confederate offensive west of the Mississippi River. The largest engagement in the Trans-Mississippi Theater, with over 30,000 men involved, it is sometimes called the 'Gettysburg of the West'.",
     "media": { 
       "img": require("../images/1864-Samuel_Curtis.jpg"),
-      "alt": "General Samuel Ryan Curtis (February 3, 1805 - 	December 26, 1866)"
+      "alt": "General Samuel Ryan Curtis (February 3, 1805 - December 26, 1866) was an American military officer and one of the first Republicans elected to Congress"
     },
     "coords": ""
   },
@@ -1905,7 +1905,7 @@ const data= [
     "description": "In consecutive engagements only hours apart, Union cavalry under Alfred Pleasonton pursue and defeat Confederate forces under Sterling Price at Marais des Cygnes, Mine Creek, and Marmiton River as they retreat through Kansas and Missouri.",
     "media": { 
       "img": require("../images/1864-Price_Raid.jpg"),
-      "alt": "Confederate cavalry during Price's Raid drawn by Samuel J. Reader in 1865"
+      "alt": "Confederate cavalry during Price's Raid, by Samuel J. Reader c. 1865"
     },
     "coords": ""
   },
@@ -1927,7 +1927,7 @@ const data= [
     "description": "Colonel John Chivington and his volunteer militia massacre a peaceful Cheyenne village near Sand Creek in the Colorado Territory, in what is later called the Sand Creek massacre.",
     "media": { 
       "img": require("../images/1864-Sand_Creek.jpg"),
-      "alt": "Mochi, a Southern Cheyenne in Black Kettle's camp, became a warrior after her experiences at the Sand Creek massacre"
+      "alt": "Mochi, a Southern Cheyenne in Black Kettle's camp; she became a warrior after her experiences at the Sand Creek massacre"
     },
     "coords": ""
   },
@@ -1938,7 +1938,7 @@ const data= [
     "description": "Fort Buchanan is overrun and destroyed by Chiricahua warriors in the Arizona Territory.",
     "media": { 
       "img": require("../images/1865-Fort_Buchanan_ruins_in_1914.jpg"),
-      "alt": "US Army Captain John H. Cady at the ruins of Fort Buchanan in Arizona, 1914"
+      "alt": "US Army Captain John H. Cady at the ruins of Fort Buchanan in Arizona c. 1914"
     },
     "coords": ""
   },
@@ -1960,7 +1960,7 @@ const data= [
     "description": "Stand Watie, a Cherokee cavalry commander in the Confederate Army, becomes the last Confederate general to surrender to Union forces, at Doaksville in the Indian Territory.",
     "media": { 
       "img": require("../images/1865-Stand_Watie.jpg"),
-      "alt": "Isaac Stand Watie Degataga (December 12, 1806 - September 9, 1871).  The Cherokee chief Stand Watie was the last Confederate general to surrender in the Civil War"
+      "alt": "Isaac Stand Watie Degataga (December 12, 1806 - September 9, 1871) was the last Confederate general to surrender in the Civil War"
     },
     "coords": ""
   },
@@ -1971,7 +1971,7 @@ const data= [
     "description": "'Wild Bill' Hickok kills gambler Davis Tutt in a shootout in Springfield, Missouri. The confrontation is sensationalized in Harper's Magazine, making Hickok a household name. It is often considered the archetypal one-on-one quick-draw duel, which later becomes a popular image of the Old West.",
     "media": { 
       "img": require("../images/1865-Wild_Bill_Hickok.png"),
-      "alt": "James Butler Hickok (May 27, 1837 - August 2, 1876)"
+      "alt": "James Butler 'Wild Bill' Hickok (May 27, 1837 – August 2, 1876) was a folk hero of the American Old West known for his life on the frontier as a soldier, scout, lawman, gambler, showman, and actor, and for his involvement in many famous gunfights"
     },
     "coords": ""
   },
@@ -2004,7 +2004,7 @@ const data= [
     "description": "Captain William J. Fetterman and 80 soldiers of the U.S. 2nd Cavalry and 18th Infantry regiments are ambushed and wiped out by Lakota, Cheyenne, and Arapaho warriors near Fort Phil Kearny, Wyoming. A fort built the next year, Fort Fetterman, is named in his honor.",
     "media": { 
       "img": require("../images/1866-Red_Cloud.jpg"),
-      "alt": "Red Cloud, the Oglala Lakota leader and victor of the 'Fetterman Fight' in 1866"
+      "alt": "Red Cloud (1822 – December 10, 1909) the Oglala Lakota leader and victor of the 'Fetterman Fight' in 1866"
     },
     "coords": ""
   },
@@ -2026,7 +2026,7 @@ const data= [
     "description": "The United States purchases Alaska from the Russian Empire for $7.2 million.",
     "media": { 
       "img": require("../images/1867-Alaska_Purchase.jpg"),
-      "alt": "With this check, the United States completed the purchase of almost 600,000 square miles of land from the Russian Government. This treasury warrant issued on August 1, 1868, at the Sub-Treasury Building at 26 Wall Street, New York, New York, transferred $7.2 million to Russian Minister to the United States Edouard de Stoeckl. The purchase price of the 49th state? Less than two cents an acre. Original located in the National Archives, Records of the Accounting Officers of the Department of Treasury"
+      "alt": "With this check, the United States completed the purchase of almost 600,000 square miles of land from the Russian Government; this treasury warrant issued on August 1, 1868, at the Sub-Treasury Building at 26 Wall Street, New York, New York, transferred $7.2 million to Russian Minister to the United States Edouard de Stoeckl; the purchase price of the 49th state was less than two cents an acre; the original document is located in the National Archives, Records of the Accounting Officers of the Department of Treasury"
     },
     "coords": ""
   },
@@ -2048,7 +2048,7 @@ const data= [
     "description": "In the Wagon Box Fight, a small party of U.S. Army soldiers and civilians near Fort Phil Kearny, armed with new rapid-fire breech-loading rifles and encircled by a wall of wagon boxes, manages to hold off hundreds of Lakota warriors led by Red Cloud and Crazy Horse.",
     "media": { 
       "img": require("../images/1867-Crazy_Horse.jpg"),
-      "alt": "Alleged photo of Crazy Horse in 1877"
+      "alt": "Alleged photo of Crazy Horse (c. 1840 – September 5, 1877) in 1877, he was a Lakota war leader of the Oglala band in the 19th century"
     },
     "coords": ""
   },
@@ -2059,7 +2059,7 @@ const data= [
     "description": "At a ceremony in Sitka, Alaska, Russian soldiers officially transfer Alaska to the U.S. Army on Castle Hill. It is organized on the same day into the Department of Alaska, to be administered by the Army.",
     "media": { 
       "img": require("../images/1867-Illustration_of_Castle_Hill_in_1827.jpg"),
-      "alt": "1827 illustration of Castle Hill in Russian-controlled Sitka. The hilltop building was an imposing fortification on a hill overlooking the water and Tlingit areas. On October 18, 1867, the Russian flag was lowered on Castle Hill, home of Alaska's Russian governors, the American flag was raised, and a brief exchange of statements completed the transfer of Alaska to the United States"
+      "alt": "1827 illustration of Castle Hill in Russian-controlled Sitka; the hilltop building was an imposing fortification on a hill overlooking the water and Tlingit areas; on October 18, 1867, the Russian flag was lowered on Castle Hill, home of Alaska's Russian governors, the American flag was raised, and a brief exchange of statements completed the transfer of Alaska to the United States"
     },
     "coords": ""
   },
@@ -2070,7 +2070,7 @@ const data= [
     "description": "The Medicine Lodge Treaty is signed between the U.S. government and several southern Plains Indian tribes, requiring that the tribes relocate to the Indian Territory.",
     "media": { 
       "img": require("../images/1867-Council_at_Medicine_Lodge_Creek.png"),
-      "alt": "Council at Medicine Lodge Creek This drawing by J. Howland, originally printed in Harper's Weekly, depicts the council between representatives of the U.S. government and the Kiowa and Comanche tribes at Medicine Creek Lodge, Kansas, in 1867. At this council the Kiowa, Comanche, Plains Apache, Cheyenne and Arapaho tribes signed three successive treaties with the United States government, collectively known as the Medicine Lodge treaty"
+      "alt": "Council at Medicine Lodge Creek, by J. Howland, originally printed in Harper's Weekly; depicts the council between representatives of the U.S. government and the Kiowa and Comanche tribes at Medicine Creek Lodge, Kansas, in 1867; at this council the Kiowa, Comanche, Plains Apache, Cheyenne and Arapaho tribes signed three successive treaties with the United States government, collectively known as the Medicine Lodge treaty"
     },
     "coords": ""
   },
@@ -2103,7 +2103,7 @@ const data= [
     "description": "The Battle of Washita River is fought when Lt. Col. George Armstrong Custer's 7th Cavalry Regiment attacks a winter encampment of Southern Cheyenne Indians on the Washita River in what is now western Oklahoma. Chief Black Kettle, leader of the Cheyenne, is killed.",
     "media": { 
       "img": require("../images/1868-Battle_of_Washita_River.jpg"),
-      "alt": "The Seventh U.S. Cavalry charging into Black Kettle's village at daylight, November 27, 1868, wood engraving 1868"
+      "alt": "The Seventh U.S. Cavalry charging into Black Kettle's village at daylight, November 27, 1868, wood engraving c. 1868"
     },
     "coords": ""
   },
@@ -2114,7 +2114,7 @@ const data= [
     "description": "Fort Sill is established by General Philip H. Sheridan in the Indian Territory, near present-day Lawton, Oklahoma.",
     "media": { 
       "img": require("../images/1869-Philip_Sheridan.jpg"),
-      "alt": "Philip Henry Sheridan (March 6, 1831 - August 5, 1888)"
+      "alt": "Philip Henry Sheridan (March 6, 1831 - August 5, 1888) was a career United States Army officer and a Union general in the American Civil War"
     },
     "coords": ""
   },
@@ -2136,7 +2136,7 @@ const data= [
     "description": "John Wesley Powell and nine others embark on a scientific expedition that charts more than 930 mi (1,500 km) of the Green River and Colorado River through the canyon country of Wyoming, Colorado, Utah, and Arizona. Powell and his crew become the first recorded white men to travel the length of the Grand Canyon. They reach the mouth of the Virgin River in present-day Nevada on August 30.",
     "media": { 
       "img": require("../images/1869-John_Wesley_Powell.jpg"),
-      "alt": "John Wesley Powell (March 24, 1834 - September 23, 1902), 2nd Director of the United States Geological Survey"
+      "alt": "John Wesley Powell (March 24, 1834 - September 23, 1902)was an American geologist, U.S. Army soldier, explorer of the American West, professor at Illinois Wesleyan University, and 2nd Director of the United States Geological Survey"
     },
     "coords": ""
   },
@@ -2147,7 +2147,7 @@ const data= [
     "description": "The world's first documented competitive rodeo is held in the town of Deer Trail in the Colorado Territory.",
     "media": { 
       "img": require("../images/1869-Deer_Trail.jpg"),
-      "alt": "The First Rodeo in Deer Trail, Colorado, courtesy Arapahoe County, CO"
+      "alt": "The First Rodeo in Deer Trail, Colorado, photo courtesy Arapahoe County, Colorado"
     },
     "coords": ""
   },
@@ -2249,7 +2249,7 @@ const data= [
     "description": "With the emergence of Abilene, Kansas as a major stopover for cattle ranchers, the town trustees attempt to curb the violence brought by the beginning of the cattle season by banning guns within town limits. This proves extremely unpopular and unenforceable, as Texas cowboys make a habit of shooting up ordinance posters and tear down the city's first jailhouse; violence continues in the city until the appointment of Tom 'Bear River' Smith as city marshal on June 4.",
     "media": { 
       "img": require("../images/1870-Thomas_J_Smith.jpg"),
-      "alt": "Thomas James Smith, also known as Tom 'Bear River' Smith, (June 12, 1830 – November 2, 1870) was a lawman in the American Old West and briefly marshal of cattle town Abilene, Kansas. He was killed and nearly decapitated in the line of duty"
+      "alt": "Thomas James 'Bear River' Smith (June 12, 1830 – November 2, 1870) was a lawman in the American Old West and briefly marshal of cattle town Abilene, Kansas; he was killed and nearly decapitated in the line of duty"
     },
     "coords": ""
   },
@@ -2346,7 +2346,7 @@ const data= [
     "description": "Thomas Carson, reportedly a nephew of Kit Carson, is appointed to the Abilene police force under City Marshal 'Wild Bill' Hickok. After an incident with gunfighter John Wesley Hardin over Hardin's insistence on wearing his gun in public, Carson is hired briefly as deputy in Newton, Kansas before returning to Abilene in November. Carson and Deputy John W. 'Brocky Jack' Norton are fired from the police force on November 27 after assaulting a bartender.",
     "media": { 
       "img": require("../images/1871-John_Wesley_Hardin.png"),
-      "alt": "John Wesley Hardin (May 26, 1853 – August 19, 1895) was an American Old West outlaw, gunfighter, and controversial folk icon was harassed by Abilene Police Officer Thomas Carson, resulting in Carson's removal from the town police force. Carson was later rehired, but was fired again shortly after for assaulting another local resident"
+      "alt": "John Wesley Hardin (May 26, 1853 – August 19, 1895) was an American Old West outlaw, gunfighter, and controversial folk icon was harassed by Abilene Police Officer Thomas Carson, resulting in Carson's removal from the town police force; Carson moved to a neighboring town to contiue working as a lawman, he was later rehired in Abilene and moved back, but was fired again shortly after for assaulting another local resident"
     },
     "coords": ""
   },
@@ -2375,7 +2375,7 @@ const data= [
     "description": "William F. 'Buffalo Bill' Cody, a scout for the U.S. 5th Cavalry Regiment, is awarded the Medal of Honor. Later that year, he and fellow scout John 'Texas Jack' Omohundro appear on stage for the first time, portraying themselves in 'Scouts of the Prairie'.",
     "media": { 
       "img": require("../images/1872-Buffalo_Bill_Cody.jpg"),
-      "alt": "William Frederick Cody (February 26, 1846 – January 10, 1917), known as 'Buffalo Bill', was an American soldier, bison hunter, and showman"
+      "alt": "William Frederick 'Buffalo Bill' Cody (February 26, 1846 – January 10, 1917) was an American soldier, bison hunter, and showman"
     },
     "coords": ""
   },
@@ -2419,7 +2419,7 @@ const data= [
     "description": "The Battle of Lost River results when the U.S. 1st Cavalry Regiment tries to force a band of Modoc Indians under Captain Jack to return to the Klamath Reservation in southern Oregon. In the subsequent Modoc War, a party of 53 Modoc warriors entrenched in the Lava Beds of northern California manages to hold off hundreds of U.S. soldiers for more than five months.",
     "media": { 
       "img": require("../images/1872-Lost_River.jpg"),
-      "alt": "The Modoc War -- Soldiers Recovering the Bodies of the Slain, a wood engraving published in Harper's Weekly, May 3, 1873"
+      "alt": "The Modoc War -- Soldiers Recovering the Bodies of the Slain, wood engraving published in Harper's Weekly, May 3, 1873"
     },
     "coords": ""
   },
@@ -2470,7 +2470,7 @@ const data= [
     "description": "The James–Younger Gang commits the first train robbery in the history of the West by derailing a locomotive of the Rock Island Line west of Adair, Iowa and stealing $3,000 from the express safe and passengers on board.",
     "media": { 
       "img": require("../images/1873-James_Younger_Train_Derail.jpeg"),
-      "alt": "The Rock Island Train, derailed during a robbery by the James-Younger Gang.  Although the Engineer was killed in the wreck and several other people were wounded, the gang did not harm any passengers and only stole from men, leving women and children alone with their belongings"
+      "alt": "The Rock Island Train, derailed during a robbery by the James-Younger Gang; although the Engineer was killed in the wreck and several other people were wounded, the gang did not harm any passengers and only stole from men, leving women and children alone with their belongings"
     },
     "coords": ""
   },
@@ -2488,7 +2488,7 @@ const data= [
     "description": "Californio bandido Tiburcio Vásquez and his gang loot the town of Kingston in Fresno County, California.",
     "media": { 
       "img": require("../images/1873-Tiburcio_Vasquez.jpg"),
-      "alt": "Tiburcio Vásquez (April 11, 1835 – March 19, 1875) was a Californio bandido who was active in California from 1854 to 1874. The Vasquez Rocks, 40 miles (64 km) north of Los Angeles, were one of his many hideouts and are named after him"
+      "alt": "Tiburcio Vásquez (April 11, 1835 – March 19, 1875) was a Californio bandido who was active in California from 1854 to 1874; the Vasquez Rocks, 40 miles (64 km) north of Los Angeles, were one of his many hideouts and are named after him"
     },
     "coords": ""
   },
@@ -2506,7 +2506,7 @@ const data= [
     "description": "John Younger is killed when he and his brother Jim assault two undercover Pinkerton detectives and a local sheriff in St. Clair County, Missouri.",
     "media": { 
       "img": require("../images/1874-John_Younger.jpg"),
-      "alt": "John Harrison Younger (1851 – March 17, 1874) was an American outlaw, the brother of Cole, Jim and Bob. He was briefly a member of the James-Younger Gang, a band of outlaws that also included the famous Jesse James"
+      "alt": "John Harrison Younger (1851 – March 17, 1874) was an American outlaw, the brother of Cole, Jim and Bob; he was briefly a member of the James-Younger Gang, a band of outlaws that also included the famous Jesse James"
     },
     "coords": ""
   },
@@ -2517,7 +2517,7 @@ const data= [
     "description": "While occupying an old trading post in the Texas panhandle, 28 bison hunters including 21-year-old Bat Masterson are besieged by 700 Comanche warriors at the Second Battle of Adobe Walls.",
     "media": { 
       "img": require("../images/1874-Billy_Dixon.jpg"),
-      "alt": "William 'Billy' Dixon (September 25, 1850 – March 9, 1913), civilian reciepient of the Congressional Medal of Honor, is credited by the US Army with an official confirmed sniper kill during the Second Battle of Adobe Walls from a distance of 1,538 yards, just under 9/10 of a mile, an international record that stood for 93 years until the Vietnam War in 1967"
+      "alt": "William 'Billy' Dixon (September 25, 1850 – March 9, 1913), civilian reciepient of the Congressional Medal of Honor and credited by the US Army with an officialy confirmed sniper kill during the Second Battle of Adobe Walls from a distance of 1,538 yards, just under 9/10 of a mile, an international record shot that stood for 93 years until the Vietnam War in 1967"
     },
     "coords": ""
   },
@@ -2539,7 +2539,7 @@ const data= [
     "description": "The 4th U.S. Cavalry under Col. Ranald S. Mackenzie routs a large camp of Cheyenne, Comanche, and Kiowa Indians taking refuge in Palo Duro Canyon in the Texas panhandle.",
     "media": { 
       "img": require("../images/1874-Randall_S_Mackenzie.jpg"),
-      "alt": "Brevet Major General Ranald Slidell Mackenzie, also called Bad Hand, (July 27, 1840 – January 19, 1889)"
+      "alt": "Major General Ranald Slidell 'Bad Hand' Mackenzie (July 27, 1840 – January 19, 1889) was a career United States Army officer and general in the Union Army during the American Civil War"
     },
     "coords": ""
   },
@@ -2564,7 +2564,7 @@ const data= [
     "description": "Pinkerton agents throw an incendiary device into Jesse James' family home in Kearney, Missouri, killing James' 9-year-old half-brother and badly wounding his mother.",
     "media": { 
       "img": require("../images/1875-Jesse_James.png"),
-      "alt": "A portrait of Jesse James. The photograph is from the Library of Congress, reproduction number LC-USZ62-3854. According to the LoC, it was taken May 22, 1882, although it has been claimed that this photo is actually from 1876"
+      "alt": "A portrait of Jesse James; photo courtesy of the Library of Congress"
     },
     "coords": ""
   },
@@ -2582,7 +2582,7 @@ const data= [
     "description": "The Las Cuevas War is fought when Texas Rangers commanded by Leander McNelly engage Mexican militia in Tamaulipas in an attempt to return stolen cattle to U.S. territory.",
     "media": { 
       "img": require("../images/1875-Leander_McNelly.jpg"),
-      "alt": "Captain Leander H. McNelly (March 12, 1844 - September 4, 1877)"
+      "alt": "Captain Leander H. McNelly (March 12, 1844 - September 4, 1877) was a Confederate officer and Texas Ranger captain"
     },
     "coords": ""
   },
@@ -2593,7 +2593,7 @@ const data= [
     "description": "After being wounded in the hip during a gunfight in Sweetwater, Texas, Bat Masterson agrees to become assistant city marshal of Dodge City, Kansas.",
     "media": { 
       "img": require("../images/1876-Bat_Masterson.jpg"),
-      "alt": "Bartholemew William Barclay 'Bat' Masterson (November 26, 1853 – October 25, 1921)"
+      "alt": "Bartholemew William Barclay 'Bat' Masterson (November 26, 1853 – October 25, 1921) was a U.S. Army scout, lawman, professional gambler, and journalist known for his exploits in the 19th and early 20th-century American Old West"
     },
     "coords": ""
   },
@@ -2604,7 +2604,7 @@ const data= [
     "description": "When Sioux leaders Sitting Bull and Crazy Horse refuse to comply with the United States government's order to leave the Black Hills of the Dakota Territory, an expeditionary force commanded by General George Crook directs Colonel Joseph J. Reynolds to attack a Cheyenne encampment at the Battle of Powder River, thereby beginning the Great Sioux War.",
     "media": { 
       "img": require("../images/1876-Chief_Sitting_Bull.jpg"),
-      "alt": "Sitting Bull (Lakota: Tȟatȟáŋka Íyotake [tˣaˈtˣə̃ka ˈi.jɔtakɛ]) (c. 1831 – December 15, 1890)"
+      "alt": "Sitting Bull (Lakota: Tȟatȟáŋka Íyotake [tˣaˈtˣə̃ka ˈi.jɔtakɛ]) (c. 1831 – December 15, 1890) was a Hunkpapa Lakota leader who led his people during years of resistance against United States government policies"
     },
     "coords": ""
   },
@@ -2626,7 +2626,7 @@ const data= [
     "description": "While leading an attack into a Sioux village in the Montana Territory, the U.S. 7th Cavalry Regiment under Brig. Gen. George Armstrong Custer is ambushed and massacred by over 2,000 Lakota and Cheyenne warriors led by Sitting Bull and Crazy Horse at the Battle of the Little Bighorn.",
     "media": { 
       "img": require("../images/1876-George_Armstrong_Custer.jpg"),
-      "alt": "General George Armstrong Custer (December 5, 1839 – June 25, 1876)"
+      "alt": "General George Armstrong Custer (December 5, 1839 – June 25, 1876) was a United States Army officer and cavalry commander in the American Civil War and the American Indian Wars"
     },
     "coords": ""
   },
@@ -2648,7 +2648,7 @@ const data= [
     "description": "'Wild Bill' Hickok is shot and killed by Jack McCall during a poker game in Deadwood, Dakota Territory.",
     "media": { 
       "img": require("../images/1876-Wild_Bill_Death.jpg"),
-      "alt": "James Butler Hickok (May 27, 1837 – August 2, 1876), better known as 'Wild Bill' Hickok"
+      "alt": "James Butler Hickok (May 27, 1837 – August 2, 1876), better known as 'Wild Bill' Hickok, was a folk hero of the American Old West known for his life on the frontier as a soldier, scout, lawman, gambler, showman, and actor, and for his involvement in many famous gunfights"
     },
     "coords": ""
   },
@@ -2670,7 +2670,7 @@ const data= [
     "description": "In the first U.S. Army victory since the disaster at the Little Bighorn, a punitive expedition led by George Crook destroys an Oglala Lakota village led by Chief American Horse at the Battle of Slim Buttes in present-day South Dakota.",
     "media": { 
       "img": require("../images/1876-George_Crook.jpg"),
-      "alt": "General George R. Crook (September 8, 1828 – March 21, 1890)"
+      "alt": "General George R. Crook (September 8, 1828 – March 21, 1890) was a career United States Army officer, most noted for his distinguished service during the American Civil War and the Indian Wars; during the 1880s, the Apache nicknamed Crook Nantan Lupan, which means 'Grey Wolf'"
     },
     "coords": ""
   },
@@ -2692,7 +2692,7 @@ const data= [
     "description": "Anticipating retaliation for recent crimes against white settlers and reluctant to move to a reservation, about 600 Nez Perce Indians led by Chief Joseph, Ollokot, and White Bird begin a long retreat from western Idaho with the U.S. Army in pursuit. They defeat their pursuers at the Battle of White Bird Canyon, and the Nez Perce War begins.",
     "media": { 
       "img": require("../images/1877-Chief_Joseph.jpg"),
-      "alt": "Chief Joseph (March 3, 1840 - September 21, 1904), pictured taken in 1877"
+      "alt": "Chief Joseph (March 3, 1840 - September 21, 1904) was a leader of the Wal-lam-wat-kain (Wallowa) band of Nez Perce, a Native American tribe of the interior Pacific Northwest region of the United States, in the latter half of the 19th century"
     },
     "coords": ""
   },
@@ -2736,7 +2736,7 @@ const data= [
     "description": "A gang led by Sam Bass robs a Union Pacific train of more than $60,000 ($1.4 million adjusted for inflation to 2020 value) while it is stopped at a remote water station near present-day Big Springs, Nebraska.",
     "media": { 
       "img": require("../images/1877-Sam_Bass.jpeg"),
-      "alt": "Sam Bass (July 21, 1851 - July 21 1878)"
+      "alt": "Sam Bass (July 21, 1851 - July 21 1878) was a 19th-century American train robber, outlaw, and outlaw gang leader"
     },
     "coords": ""
   },
@@ -2747,7 +2747,7 @@ const data= [
     "description": "Prospector Ed Schieffelin files his first mining claim after discovering silver ore on a high plateau between the San Pedro River and the Dragoon Mountains in southeastern Arizona Territory. He names his stake 'Tombstone'.",
     "media": { 
       "img": require("../images/1877-Ed-Schieffelin.jpg"),
-      "alt": "Ed Schieffelin (1847 - May 12, 1897), during a visit to the Yukon River in Alaska in 1882"
+      "alt": "Ed Schieffelin (1847 - May 12, 1897) was an Indian scout and prospector who discovered silver in the Arizona Territory, which led to the founding of Tombstone, Arizona"
     },
     "coords": ""
   },
@@ -2769,7 +2769,7 @@ const data= [
     "description": "In the San Elizario Salt War, years of legal conflict over the application of individual mineral rights to traditionally community-held salt lakes near the Guadalupe Mountains reach a climax when a detachment of Texas Rangers surrenders to a popular army of Tejano citizens following a four-day siege in the town of San Elizario, Texas. More than a dozen people are killed in the exchange.",
     "media": { 
       "img": require("../images/1877-San_Elizaro_Rangers.jpg"),
-      "alt": "Three of the surrendering Texas Rangers at San Elizario, c. 1878. Photo of Texas Rangers Andy and Tom Zickefoose, with an unidentified man in the middle. This is the only known photo taken of Salt War Rangers"
+      "alt": "Three of the surrendering Texas Rangers at San Elizario, c. 1878; photo of Texas Rangers Andy and Tom Zickefoose, with an unidentified man in the middle"
     },
     "coords": ""
   },
@@ -2791,7 +2791,7 @@ const data= [
     "description": "The town of Leadville is incorporated in Colorado.  Today, it still remains as the highest altitude incorporated place in the United States, at over 10,000 ft elevation.",
     "media": { 
       "img": require("../images/1878-Leadville.jpg"),
-      "alt": "Leadville Colorado, 1879, courtesy of Western Mining History"
+      "alt": "Leadville, Colorado in 1879, courtesy of Western Mining History"
     },
     "coords": ""
   },
@@ -2820,7 +2820,7 @@ const data= [
     "description": "Ike and Billy Clanton enlist William 'Curly Bill' Brocius and Johnny Ringo as they begin cattle rustling in the New Mexico and Arizona Territories.",
     "media": { 
       "img": require("../images/1879-Billy_Clanton_Tombstone_Shootout.jpg"),
-      "alt": "Tom McLaury, Frank McLaury and Billy Clanton (left to right) lie dead after the gunfight at the O.K. Corral. This is the only known photo of 19 year-old Billy"
+      "alt": "Tom McLaury, Frank McLaury and Billy Clanton (left to right) lie dead after the gunfight at the O.K. Corral, this is the only known photo of 19 year-old Billy"
     },
     "coords": ""
   },
@@ -2831,7 +2831,7 @@ const data= [
     "description": "Captain Marcus Reno, the highest-ranking officer to have survived the Battle of the Little Bighorn, is brought before a general court-martial but is acquitted of cowardice.",
     "media": { 
       "img": require("../images/1879-The_Custer_Fight.jpg"),
-      "alt": "Lithograph showing the Battle of Little Bighorn, from the Indian side, by Charles Marion Russell"
+      "alt": "Lithograph showing the Battle of Little Bighorn from the Indian side, by Charles Marion Russell"
     },
     "coords": ""
   },
@@ -2853,7 +2853,7 @@ const data= [
     "description": "In the White River War, Nathan Meeker and ten employees of the White River Indian Agency in western Colorado are massacred by Ute Indians when Meeker wires for military assistance in suppressing a perceived uprising. The Utes besiege a U.S. Army detachment in the Battle of Milk Creek until it is relieved by troops under Col. Wesley Merritt on October 5.",
     "media": { 
       "img": require("../images/1879-Chief_Ouray_and_Chipeta.jpg"),
-      "alt": "Chief Ouray (1833 – August 24, 1880) and Chipeta (or White Singing Bird) (1843 or 1844 – August 1924)"
+      "alt": "Chief Ouray (1833 – August 24, 1880) and Chipeta (or White Singing Bird) (1843 or 1844 – August 1924) was a Native American chief of the Tabeguache (Uncompahgre) band of the Ute tribe"
     },
     "coords": ""
   },
@@ -2900,7 +2900,7 @@ const data= [
     "description": "Tom O'Folliard, best friend of Billy the Kid, is shot and killed by members of Pat Garrett's posse in Fort Sumner, New Mexico.",
     "media": { 
       "img": require("../images/1880-Tom_O'Folliard.jpg"),
-      "alt": "Tom O'Folliard (1858 – December 19, 1880) was the best friend of outlaw William 'Billy the Kid' Bonney; Both were members of the Regulators during the Lincoln County War"
+      "alt": "Tom O'Folliard (1858 – December 19, 1880) was the best friend of outlaw William 'Billy the Kid' Bonney who were both members of the Regulators during the Lincoln County War"
     },
     "coords": ""
   },
@@ -2911,7 +2911,7 @@ const data= [
     "description": "Charlie Bowdre, a member of Billy the Kid's gang, is shot and killed by members of Pat Garrett's posse at Stinking Springs, New Mexico.",
     "media": { 
       "img": require("../images/1880-Charlie_Bowdre.jpg"),
-      "alt": "Charles Bowdre (1848 – December 23, 1880) was an American cowboy and outlaw; He was an associate of Billy the Kid and member of his gang"
+      "alt": "Charles Bowdre (1848 – December 23, 1880) was an American cowboy and outlaw; he was an associate of Billy the Kid and member of his gang"
     },
     "coords": ""
   },
@@ -2940,7 +2940,7 @@ const data= [
     "description": "A gunfight involving El Paso, Texas Marshal Dallas Stoudenmire results in what witnesses recall as 'four dead in five seconds'.",
     "media": { 
       "img": require("../images/1881-Dallas_Stoudenmire.jpg"),
-      "alt": "Dallas Stoudenmire (December 11, 1845 – September 18, 1882) was an American Old West gunfighter and lawman who gained fame for a brief gunfight that was later dubbed the 'Four Dead in Five Seconds Gunfight.'; Stoudenmire had a deadly reputation in his day and was involved in several gunfights"
+      "alt": "Dallas Stoudenmire (December 11, 1845 – September 18, 1882) was an American Old West gunfighter and lawman who had a deadly reputation in his day and was involved in several gunfights; he gained fame for a brief gunfight that was later dubbed the 'Four Dead in Five Seconds Gunfight.'"
     },
     "coords": ""
   },
@@ -2951,7 +2951,7 @@ const data= [
     "description": "Billy the Kid is shot and killed by Sheriff Pat Garrett in Fort Sumner, New Mexico. He is buried the next day between his friends Tom O'Folliard and Charlie Bowdre in the town's old military cemetery.",
     "media": { 
       "img": require("../images/1881-Billy_the_Kid.jpg"),
-      "alt": "Billy the Kid (born Henry McCarty; September 17 or November 23, 1859 – July 14, 1881)"
+      "alt": "Billy the Kid (born Henry McCarty; September 17 or November 23, 1859 – July 14, 1881), also known by the pseudonym William H. Bonney, was an outlaw and gunfighter of the American Old West, who killed eight men before he was shot and killed at the age of 21"
     },
     "coords": ""
   },
@@ -2973,7 +2973,7 @@ const data= [
     "description": "The Gunfight at the O.K. Corral takes place in the street behind a saloon in Tombstone, Arizona, pitting the Earps and Doc Holliday against Ike and Billy Clanton, Frank and Tom McLaury, and Billy Claiborne. Billy Clanton and the McLaurys are killed, and Virgil and Morgan Earp, along with Holliday, are wounded.",
     "media": { 
       "img": require("../images/1881-Doc_Holliday.jpg"),
-      "alt": ""
+      "alt": "John Henry 'Doc' Holliday (August 14, 1851 – November 8, 1887) was an American gambler, gunfighter, and dentist"
     },
     "coords": ""
   },
@@ -2984,7 +2984,7 @@ const data= [
     "description": "San Jose, California becomes the first city west of the Rocky Mountains with civic electric lighting when a 237-foot-tall moonlight tower is illuminated downtown.",
     "media": { 
       "img": require("../images/1881-San_Jose.jpg"),
-      "alt": "A postcard depicting the San Jose Moontower;  The design of the Eiffel Tower, in Paris, France, was inspired by the San Jose Moontower"
+      "alt": "A postcard depicting the San Jose Moontower; the design of the Eiffel Tower, in Paris, France, was inspired by the San Jose Moontower"
     },
     "coords": ""
   },
@@ -2995,7 +2995,7 @@ const data= [
     "description": "Morgan Earp is shot and killed while playing billiards in Tombstone, Arizona. His assassination is linked to his involvement in the Gunfight at the O.K. Corral.",
     "media": { 
       "img": require("../images/1882-Morgan_Earp.jpg"),
-      "alt": "Morgan Seth Earp (April 24, 1851 – March 18, 1882) was an American sheriff and lawman; He served as Tombstone, Arizona's Special Policeman when he helped his brothers Virgil and Wyatt, as well as Doc Holliday, confront the outlaw Cochise County Cowboys in the Gunfight at the O.K. Corral"
+      "alt": "Morgan Seth Earp (April 24, 1851 – March 18, 1882) was an American sheriff and lawman; he served as Tombstone, Arizona's Special Policeman when he helped his brothers Virgil and Wyatt, as well as Doc Holliday, confront the outlaw Cochise County Cowboys in the Gunfight at the O.K. Corral"
     },
     "coords": ""
   },
@@ -3053,7 +3053,7 @@ const data= [
     "description": "'Buckskin' Frank Leslie shoots and kills outlaw Billy Claiborne while bartending at the Oriental Saloon in Tombstone, Arizona.",
     "media": { 
       "img": require("../images/1882-Buckskin_and_Claiborne.png"),
-      "alt": "Buckskin Franklyn Leslie (March 18, 1842 – after 1920), left; Billy Claiborne (1860 – November 14, 1882), right"
+      "alt": "Buckskin Franklyn Leslie (March 18, 1842 – after 1920), on the left; Billy Claiborne (1860 – November 14, 1882), on the right"
     },
     "coords": ""
   },
@@ -3093,7 +3093,7 @@ const data= [
     "description": "Former lawmen Ben Thompson and John King Fisher are ambushed and killed by enemies of Thompson at the Jack Harris Vaudeville Saloon and Theater in San Antonio, Texas.",
     "media": { 
       "img": require("../images/1884-Thompson_and_King.png"),
-      "alt": "Ben Thompson (November 2, 1843 – March 11, 1884), left; John King Fisher (October 1853 – March 11, 1884), right"
+      "alt": "Ben Thompson (November 2, 1843 – March 11, 1884), on the left; John King Fisher (October 1853 – March 11, 1884), on the right"
     },
     "coords": ""
   },
@@ -3137,7 +3137,7 @@ const data= [
     "description": "Years of racial tension, aggravated by labor unrest over the preferential hiring of Chinese immigrants for very low wages, come to a head in the Rock Springs massacre, which leaves at least 28 Chinese coal miners dead at the hands of white miners in the town of Rock Springs, Wyoming. The riot touches off a wave of anti-Chinese violence across the country.",
     "media": { 
       "img": require("../images/1885-Rock_Springs.jpg"),
-      "alt": "'The Massacre of the Chinese at Rock Springs, Wyoming': Illustration of the 1885 riot and massacre of Chinese-American coal miners, by white miners. Wood engraving from Harper's Weekly: Harper's Weekly, Vol. 29"
+      "alt": "'The Massacre of the Chinese at Rock Springs, Wyoming': Illustration of the 1885 riot and massacre of Chinese-American coal miners, by white miners, wood engraving from Harper's Weekly: Harper's Weekly, Vol. 29"
     },
     "coords": ""
   },
@@ -3202,7 +3202,7 @@ const data= [
     "description": "Brothers Jim and Rube Burrow rob their first train in Bellevue, Texas.",
     "media": { 
       "img": require("../images/1886-Rube_Burrow.jpg"),
-      "alt": "Reuben Houston Burrow (December 11, 1855 – October 9, 1890), better known as Rube Burrow, was an infamous train-robber and outlaw in the Southern and Southwestern United States"
+      "alt": "Reuben Houston 'Rube' Burrow (December 11, 1855 – October 9, 1890) was an infamous train-robber and outlaw in the Southern and Southwestern United States"
     },
     "coords": ""
   },
@@ -3411,7 +3411,7 @@ const data= [
     "description": "More than 200 men, women, and children of the Lakota Sioux are killed at Wounded Knee Creek on the Pine Ridge Indian Reservation in South Dakota when the U.S. 7th Cavalry Regiment under Colonel James W. Forsyth attempts to confiscate their weapons.",
     "media": { 
       "img": require("../images/1890-Survivors_of_Wounded_Knee_Massacre.jpg"),
-      "alt": "Survivors of Wounded Knee Massacre, 1891; (Title: What's left of Big Foot's band); John C. Grabill"
+      "alt": "Survivors of Wounded Knee Massacre, 1891; (Title: What's left of Big Foot's band); by John C. Grabill"
     },
     "coords": ""
   },
@@ -3422,7 +3422,7 @@ const data= [
     "description": "In the most violent episode of the Johnson County War, wealthy cattle barons of the Wyoming Stock Growers Association and hired mercenaries invade the Powder River Country to persecute local ranchers on allegations of cattle rustling. A series of deadly stand-offs ensues before President Benjamin Harrison orders the 6th Cavalry Regiment to intervene. The conflict forces a reorganization of the cattle industry in Wyoming and becomes one of the most well-known range wars in the history of the West.",
     "media": { 
       "img": require("../images/1892-Johnson_County_Invaders.png"),
-      "alt": "Johnson County War Invaders, taken May 1892 according to the Wyoming State Library"
+      "alt": "Johnson County War Invaders, photo courtesy the Wyoming State Library"
     },
     "coords": ""
   },
@@ -3544,7 +3544,7 @@ const data= [
     "description": "An uprising of Yaqui Indians and Mexican revolutionaries, angered by the policies of Mexican President Porfirio Díaz, storms the customhouse in Nogales, Sonora on the U.S.–Mexico border. Detachments of both federal armies manage to disperse the rebels over the next several days.",
     "media": { 
       "img": require("../images/1896-Uprising_of_Yaqui_Indians_Remington.jpg"),
-      "alt": "Uprising of the Yaqui Indians - Yaqui warriors in retreat by Frederic Remington"
+      "alt": "Uprising of the Yaqui Indians - Yaqui warriors in retreat, by Frederic Remington"
     }
   },
   {
@@ -3561,7 +3561,7 @@ const data= [
     "description": "A staged train wreck designed as a publicity stunt for the Missouri-Kansas-Texas Railroad unexpectedly causes simultaneous boiler explosions that kill at least two spectators and result in numerous other injuries.",
     "media": { 
       "img": require("../images/1896-Crush_Texas_Train_Explosion.jpg"),
-      "alt": "The explosion of a train boiler in Crush, Texas"
+      "alt": "The explosion of a train boiler, during a staged train wreck in Crush, Texas"
     }
   },
   {
@@ -3581,7 +3581,7 @@ const data= [
     "description": "The Shootout on Juneau Wharf occurs in Skagway, District of Alaska when crime boss Soapy Smith and Frank H. Reid are shot during an argument. Smith is killed immediately and Reid dies 12 days later.",
     "media": { 
       "img": require("../images/1898-Soapy_Smith_Skagway_Alaska.jpg"),
-      "alt": "Soapy Smith at a bar in Skagway Alaska"
+      "alt": "Jefferson Randolph 'Soapy' Smith II (November 2, 1860 – July 8, 1898) was an American con artist and gangster in the American frontier; pictured at a bar in Skagway Alaska"
     }
   },
   {
@@ -3601,7 +3601,7 @@ const data= [
     "description": "Pearl Hart and a companion rob a stagecoach traveling between Globe and Florence in the Arizona Territory. The pair is tracked down and arrested a few days later.",
     "media": { 
       "img": require("../images/1899-Pearl_Hart.jpg"),
-      "alt": "Pearl Hart sitting in a jail cell"
+      "alt": "Pearl Hart (born Pearl Taylor; 1871–1955) was a Canadian-born outlaw of the American Old West; pictured sitting in a jail cell"
     }
   },
   {
@@ -3641,7 +3641,7 @@ const data= [
     "description": "Butch Cassidy, Harry 'The Sundance Kid' Longabaugh, and Etta Place depart the United States for Buenos Aires, Argentina aboard a British steamer.",
     "media": { 
       "img": require("../images/1901-Sundance_Kid_and_Wife.jpg"),
-      "alt": "The Sundance Kid and his wife, Etta Place"
+      "alt": "Harry Alonzo 'The Sundance Kid' Longabaugh (1867 – November 7, 1908) and his wife, Etta Place (c. 1878 - disappeared in 1909)"
     }
   },
   {
@@ -3651,7 +3651,7 @@ const data= [
     "description": "Horatio Nelson Jackson and Sewall K. Crocker depart San Francisco in a two-cylinder Winton motor car. They arrive in New York City on July 26, becoming the first people to cross the continent in an automobile.",
     "media": { 
       "img": require("../images/1903-Horatio_Jackson_Nelson.jpg"),
-      "alt": "Horatio Nelson Jackson driving the Winton motor car"
+      "alt": "Horatio Nelson Jackson (March 25, 1872 – January 14, 1955) was an American physician and automobile pioneer; pictured driving the Winton motor car during the first transcontinental automobile trip"
     }
   },
   {
@@ -3661,7 +3661,7 @@ const data= [
     "description": "Legendary gunman Tom Horn is hung in Cheyenne, Wyoming for the disputed killing of 14-year-old sheepherder Willie Nickell in 1901. His trial and hanging mark the waning of the power of the cattle barons in Wyoming.",
     "media": { 
       "img": require("../images/1903-Tom_Horn.jpg"),
-      "alt": "Tom Horn inspecting a rope"
+      "alt": "Thomas Horn Jr., (November 21, 1860 – November 20, 1903) was an American scout, cowboy, soldier, range detective, and Pinkerton agent in the 19th-century and early 20th-century American Old West; pictured inspecting a rope"
     }
   },
   {
@@ -3681,7 +3681,7 @@ const data= [
     "description": "Former Idaho Governor Frank Steunenberg is wounded by a bomb in his home in Caldwell, Idaho and dies a short time later. An investigation suggests the assassination was motivated by prior labor unrest in Idaho's mining communities.",
     "media": { 
       "img": require("../images/1905-Frank_Steunenberg.jpg"),
-      "alt": "Former Idaho Governor Frank Steunenberg"
+      "alt": "Frank Steunenberg (August 8, 1861 – December 30, 1905) was the fourth governor of the State of Idaho, serving from 1897 until 1901; he was assassinated in 1905 by one-time union member Harry Orchard, who was also a paid informant for the Cripple Creek Mine Owners' Association"
     }
   },
   {
@@ -3711,7 +3711,7 @@ const data= [
     "description": "Pat Garrett, known for killing Billy the Kid, is murdered under mysterious circumstances near Las Cruces, New Mexico Territory.",
     "media": { 
       "img": require("../images/1908-Pat_Garrett.jpg"),
-      "alt": "A portrait of Pat Garret"
+      "alt": "Patrick Floyd Jarvis Garrett (June 5, 1850 – February 29, 1908) was an American Old West lawman, bartender and customs agent known for killing Billy the Kid"
     }
   },
   {
@@ -3721,7 +3721,7 @@ const data= [
     "description": "Butch Cassidy and the Sundance Kid are reportedly found dead following a shootout with police in the town of San Vicente, Bolivia.",
     "media": { 
       "img": require("../images/1908-Butch_Cassidy.jpg"),
-      "alt": "A portrait of Butch Cassidy"
+      "alt": "Robert LeRoy Parker (April 13, 1866 – November 7, 1908), better known as Butch Cassidy, was an American train and bank robber and the leader of a gang of criminal outlaws known as the 'Wild Bunch' in the Old West"
     }
   },
   {
@@ -3761,7 +3761,7 @@ const data= [
     "description": "The last stagecoach robbery in American history occurs at Jarbidge Canyon, Nevada, when Ben Kuhl and his two accomplices hold up a U.S. Post Office Department stagecoach, shoot the driver, and steal $4,000 in cash. The criminals are captured without incident soon after.",
     "media": { 
       "img": require("../images/1916-Ben_Kuhl_Jarbridge_Canyon.jpg"),
-      "alt": "Ben Kuhl's mugshot"
+      "alt": "Ben E. Kuhl (1884 – paroled 1945, date of death unknown, possibly 1945) was, in 1916, the last known stage coach robber in the United States; pictured in his mugshot after the stagecoach robbery"
     }
   },
   {
