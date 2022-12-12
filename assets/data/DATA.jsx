@@ -3312,7 +3312,7 @@ const data= [
     "description": "The Great Seattle Fire destroys the entire central business district in Seattle, Washington Territory, eventually burning 25 city blocks and costing the city nearly $20 million.",
     "media": { 
       "img": require("../images/1889-Seattle_fire.jpg"),
-      "alt": "Looking toward Elliott Bay from the burned-over district"
+      "alt": "Looking toward Elliott Bay, Seattle from the burned-over district"
     },
     "coords": ""
   },
@@ -3377,8 +3377,8 @@ const data= [
     "date": "June 1",
     "description": "Data collected for the Eleventh United States Census indicate that the spread of the population into unsettled areas has resulted in the disappearance of the American frontier. The U.S. Census Bureau declares that it will no longer monitor westward migration in the country.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1890-States_post_Census.png"),
+      "alt": "A map of the states and territories at the time of the 1890 United States Census"
     },
     "coords": ""
   },
@@ -3388,8 +3388,8 @@ const data= [
     "date": "July 3",
     "description": "Idaho is admitted as the 43rd U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1890-Idaho_State_Seal.png"),
+      "alt": "The Great Seal of the State of Idaho"
     },
     "coords": ""
   },
@@ -3399,8 +3399,8 @@ const data= [
     "date": "July 10",
     "description": "Wyoming is admitted as the 44th U.S. state.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1890-Wyoming_State_Seal.png"),
+      "alt": "The Great Seal of the State of Wyoming"
     },
     "coords": ""
   },
@@ -3410,8 +3410,8 @@ const data= [
     "date": "December 29",
     "description": "More than 200 men, women, and children of the Lakota Sioux are killed at Wounded Knee Creek on the Pine Ridge Indian Reservation in South Dakota when the U.S. 7th Cavalry Regiment under Colonel James W. Forsyth attempts to confiscate their weapons.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1890-Survivors_of_Wounded_Knee_Massacre.jpg"),
+      "alt": "Survivors of Wounded Knee Massacre, 1891; (Title: What's left of Big Foot's band); John C. Grabill"
     },
     "coords": ""
   },
@@ -3421,8 +3421,8 @@ const data= [
     "date": "April 8",
     "description": "In the most violent episode of the Johnson County War, wealthy cattle barons of the Wyoming Stock Growers Association and hired mercenaries invade the Powder River Country to persecute local ranchers on allegations of cattle rustling. A series of deadly stand-offs ensues before President Benjamin Harrison orders the 6th Cavalry Regiment to intervene. The conflict forces a reorganization of the cattle industry in Wyoming and becomes one of the most well-known range wars in the history of the West.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1892-Johnson_County_Invaders.png"),
+      "alt": "Johnson County War Invaders, taken May 1892 according to the Wyoming State Library"
     },
     "coords": ""
   },
@@ -3431,10 +3431,6 @@ const data= [
     "location": "Tempe, Arizona",
     "date": "August 2",
     "description": "Tom Graham, the last male member of the Graham family, is killed by Edwin Tewksbury in Tempe, Arizona, concluding the Pleasant Valley War.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3444,7 +3440,7 @@ const data= [
     "description": "Four members of the Dalton Gang are killed in a shootout with the townspeople while trying to rob two banks at the same time in Coffeyville, Kansas.",
     "media": { 
       "img": require("../images/1892-Dalton_Gang_memento_mori.jpg"),
-      "alt": ""
+      "alt": "Memento Mori of the Dalton Gang; Left to right: Bill Power, Bob Dalton, Grat Dalton, Dick Broadwell"
     },
     "coords": ""
   },
@@ -3454,8 +3450,8 @@ const data= [
     "date": "May 15",
     "description": "Provoked by the previous year's strike in Coeur d'Alene, coal miners establish the Western Federation of Miners in Butte, Montana.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1893-Cour-dAlene.png"),
+      "alt": "Newspaper illustration showing the town of Wardner, in the heart of Coeur d'Alenes; the Bunker Hill and Sullivan mines are in the side hill at the upper hand of the picture, and the Bunker Hill mill, which was blown up is the one from which smoke is rising"
     },
     "coords": ""
   },
@@ -3465,8 +3461,8 @@ const data= [
     "date": "June 11",
     "description": "Following a ten-month manhunt, local train robbers John Sontag and Chris Evans are wounded during a shootout with a posse of lawmen on a ranch north of Visalia, California. Both outlaws are eventually captured, and Sontag dies of his wounds three weeks later.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1893-Evans_Sontag.png"),
+      "alt": "John Sontag (May 27, 1861 – July 3, 1893), on the left, was an outlaw of the American West known for train robberies; Christopher Evans (February 19, 1847 – February 9, 1917), on the right, was an American farmer and teamster turned outlaw, he was the leader of the Evans-Sontag Gang"
     },
     "coords": ""
   },
@@ -3475,10 +3471,6 @@ const data= [
     "location": "Tres Jacales, Mexico",
     "date": "June 30",
     "description": "Captain Frank Jones is killed when he and a party of Texas Rangers searching for a gang of Mexican cattle rustlers are ambushed near the border town of Tres Jacales.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3487,8 +3479,8 @@ const data= [
     "date": "September 1",
     "description": "Three deputy U.S. Marshals and two civilians are killed in a shootout with members of the Doolin–Dalton Gang in the town of Ingalls, Oklahoma Territory. All of the outlaws manage to escape.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1893-Dalton_Gang.jpg"),
+      "alt": "Dalton Gang Wanted Poster"
     },
     "coords": ""
   },
@@ -3498,8 +3490,8 @@ const data= [
     "date": "November 7",
     "description": "Women in Colorado are granted the right to vote.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1893-Colorado_Womens_Suffrage.jpg"),
+      "alt": "Men and women outside a polling station in Colorado 1893"
     },
     "coords": ""
   },
@@ -3509,8 +3501,8 @@ const data= [
     "date": "November 1",
     "description": "Sunset Limited service opened on the second transcontinental route by Southern Pacific Railroad.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1894-Sunset_Limited.jpeg"),
+      "alt": "The train when it ran between New Orleans and San Francisco"
     },
     "coords": ""
   },
@@ -3520,8 +3512,8 @@ const data= [
     "date": "August 19",
     "description": "Outlaw John Wesley Hardin is shot and killed by John Selman at the Acme Saloon in El Paso, Texas.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1895-John_Wesley_Hardin.png"),
+      "alt": "John Wesley Hardin (May 26, 1853 – August 19, 1895) was an American Old West outlaw, gunfighter, and controversial folk icon; Hardin often got into trouble with the law from an early age, he killed his first man at the age of 15, claiming he did so in self-defense"
     },
     "coords": ""
   },
@@ -3531,7 +3523,7 @@ const data= [
     "date": "January 4",
     "description": "Utah is admitted as the 45th U.S. state.",
     "media": { 
-      "img": require("../images/1896_Utah_State_Seal.png"),
+      "img": require("../images/1896-Utah_State_Seal.png"),
       "alt": "The Great Seal of the State of Utah"
     }
   },
@@ -3541,7 +3533,7 @@ const data= [
     "date": "January 15",
     "description": "Bill Tilghman single-handedly captures wanted gang leader Bill Doolin at a bathhouse in Eureka Springs, Arkansas and returns him to the Oklahoma Territory. Doolin escapes from prison on July 5.",
     "media": { 
-      "img": require("../images/1896_Bill_Tilghman.jpg"),
+      "img": require("../images/1896-Bill_Tilghman.jpg"),
       "alt": "Bill Tilghman posing with his Winchester rifle in a scene from the 1915 film The Passing of the Oklahoma Outlaws"
     }
   },
@@ -3551,7 +3543,7 @@ const data= [
     "date": "August 12",
     "description": "An uprising of Yaqui Indians and Mexican revolutionaries, angered by the policies of Mexican President Porfirio Díaz, storms the customhouse in Nogales, Sonora on the U.S.–Mexico border. Detachments of both federal armies manage to disperse the rebels over the next several days.",
     "media": { 
-      "img": require("../images/1896_Uprising_of_Yaqui_Indians_Remington.jpg"),
+      "img": require("../images/1896-Uprising_of_Yaqui_Indians_Remington.jpg"),
       "alt": "Uprising of the Yaqui Indians - Yaqui warriors in retreat by Frederic Remington"
     }
   },
@@ -3560,10 +3552,6 @@ const data= [
     "location": "Montpelier, Idaho",
     "date": "August 13",
     "description": "Butch Cassidy, Elzy Lay, Harvey 'Kid Curry' Logan, and Bob Meeks rob a bank in Montpelier, Idaho.",
-    "media": { 
-      "img": "../images/",
-      "alt": ""
-    },
     "coords": ""
   },
   {
@@ -3572,7 +3560,7 @@ const data= [
     "date": "September 15",
     "description": "A staged train wreck designed as a publicity stunt for the Missouri-Kansas-Texas Railroad unexpectedly causes simultaneous boiler explosions that kill at least two spectators and result in numerous other injuries.",
     "media": { 
-      "img": require("../images/1896_Crush_Texas_Train_Explosion.jpg"),
+      "img": require("../images/1896-Crush_Texas_Train_Explosion.jpg"),
       "alt": "The explosion of a train boiler in Crush, Texas"
     }
   },
@@ -3582,7 +3570,7 @@ const data= [
     "date": "April 15",
     "description": "Crude oil is discovered for the first time in the Indian Territory, near present-day Bartlesville, Oklahoma.",
     "media": { 
-      "img": require("../images/1897_Bartlesville_Gusher.jpg"),
+      "img": require("../images/1897-Bartlesville_Gusher.jpg"),
       "alt": "Discovery 1 Oil Well, gushing oil"
     }
   },
@@ -3592,7 +3580,7 @@ const data= [
     "date": "July 8",
     "description": "The Shootout on Juneau Wharf occurs in Skagway, District of Alaska when crime boss Soapy Smith and Frank H. Reid are shot during an argument. Smith is killed immediately and Reid dies 12 days later.",
     "media": { 
-      "img": require("../images/1898_Soapy_Smith_Skagway_Alaska.jpg"),
+      "img": require("../images/1898-Soapy_Smith_Skagway_Alaska.jpg"),
       "alt": "Soapy Smith at a bar in Skagway Alaska"
     }
   },
@@ -3602,7 +3590,7 @@ const data= [
     "date": "August 31",
     "description": "At least 500 members of 35 different American Indian tribes attend the Indian Congress in Omaha, Nebraska, the largest gathering of its kind to date.",
     "media": { 
-      "img": require("../images/1898_Indian_Congress_Indian_Parade.jpg"),
+      "img": require("../images/1898-Indian_Congress_Indian_Parade.jpg"),
       "alt": "Members of the Indian Congress march in a parade through Omaha, Nebraska"
     }
   },
@@ -3612,7 +3600,7 @@ const data= [
     "date": "May 30",
     "description": "Pearl Hart and a companion rob a stagecoach traveling between Globe and Florence in the Arizona Territory. The pair is tracked down and arrested a few days later.",
     "media": { 
-      "img": require("../images/1899_Pearl_Hart.jpg"),
+      "img": require("../images/1899-Pearl_Hart.jpg"),
       "alt": "Pearl Hart sitting in a jail cell"
     }
   },
@@ -3632,7 +3620,7 @@ const data= [
     "date": "May 1",
     "description": "A dust explosion at the Winter Quarters Mine near Scofield, Utah kills at least 200 coal miners in the Scofield Mine disaster, the deadliest mining accident in American history to date.",
     "media": { 
-      "img": require("../images/1900_Scofield_Mine.jpeg"),
+      "img": require("../images/1900-Scofield_Mine.jpeg"),
       "alt": "The entrance to the Scofield Mine"
     }
   },
@@ -3642,7 +3630,7 @@ const data= [
     "date": "January 10",
     "description": "An oil well on the Spindletop dome near Beaumont, Texas strikes crude oil, becoming the first major gusher in the state and triggering the Texas oil boom.",
     "media": { 
-      "img": require("../images/1901_Spindletop_Gusher.jpg"),
+      "img": require("../images/1901-Spindletop_Gusher.jpg"),
       "alt": "A postcard drawing of Spindletop gushing oil"
     }
   },
@@ -3652,7 +3640,7 @@ const data= [
     "date": "February 20",
     "description": "Butch Cassidy, Harry 'The Sundance Kid' Longabaugh, and Etta Place depart the United States for Buenos Aires, Argentina aboard a British steamer.",
     "media": { 
-      "img": require("../images/1901_Sundance_Kid_and_Wife.jpg"),
+      "img": require("../images/1901-Sundance_Kid_and_Wife.jpg"),
       "alt": "The Sundance Kid and his wife, Etta Place"
     }
   },
@@ -3662,7 +3650,7 @@ const data= [
     "date": "May 23",
     "description": "Horatio Nelson Jackson and Sewall K. Crocker depart San Francisco in a two-cylinder Winton motor car. They arrive in New York City on July 26, becoming the first people to cross the continent in an automobile.",
     "media": { 
-      "img": require("../images/1903_Horatio_Jackson_Nelson.jpg"),
+      "img": require("../images/1903-Horatio_Jackson_Nelson.jpg"),
       "alt": "Horatio Nelson Jackson driving the Winton motor car"
     }
   },
@@ -3672,7 +3660,7 @@ const data= [
     "date": "November 20",
     "description": "Legendary gunman Tom Horn is hung in Cheyenne, Wyoming for the disputed killing of 14-year-old sheepherder Willie Nickell in 1901. His trial and hanging mark the waning of the power of the cattle barons in Wyoming.",
     "media": { 
-      "img": require("../images/1903_Tom_Horn.jpg"),
+      "img": require("../images/1903-Tom_Horn.jpg"),
       "alt": "Tom Horn inspecting a rope"
     }
   },
@@ -3682,7 +3670,7 @@ const data= [
     "date": "May 15",
     "description": "The city of Las Vegas is founded in Nevada.",
     "media": { 
-      "img": require("../images/1905_Las_Vegas.jpg"),
+      "img": require("../images/1905-Las_Vegas.jpg"),
       "alt": "The streets of Las Vegas, Nevada in 1905"
     }
   },
@@ -3692,7 +3680,7 @@ const data= [
     "date": "December 30",
     "description": "Former Idaho Governor Frank Steunenberg is wounded by a bomb in his home in Caldwell, Idaho and dies a short time later. An investigation suggests the assassination was motivated by prior labor unrest in Idaho's mining communities.",
     "media": { 
-      "img": require("../images/1905_Frank_Steunenberg.jpg"),
+      "img": require("../images/1905-Frank_Steunenberg.jpg"),
       "alt": "Former Idaho Governor Frank Steunenberg"
     }
   },
@@ -3702,7 +3690,7 @@ const data= [
     "date": "April 18",
     "description": "An earthquake and resulting fires devastate the city of San Francisco and neighboring communities, killing at least 3,000 people and leaving nearly three-fourths of the Bay Area's population homeless.",
     "media": { 
-      "img": require("../images/1906_San_Francisco_Earthquake.jpg"),
+      "img": require("../images/1906-San_Francisco_Earthquake.jpg"),
       "alt": "Collapsed buildings in San Francisco, California after the earthquake of 1906"
     }
   },
@@ -3712,7 +3700,7 @@ const data= [
     "date": "November 16",
     "description": "Oklahoma is admitted as the 46th U.S. state.",
     "media": { 
-      "img": require("../images/1907_Oklahoma_State_Seal.png"),
+      "img": require("../images/1907-Oklahoma_State_Seal.png"),
       "alt": "The Great Seal of the State of Oklahoma"
     }
   },
@@ -3722,7 +3710,7 @@ const data= [
     "date": "February 29",
     "description": "Pat Garrett, known for killing Billy the Kid, is murdered under mysterious circumstances near Las Cruces, New Mexico Territory.",
     "media": { 
-      "img": require("../images/1908_Pat_Garrett.jpg"),
+      "img": require("../images/1908-Pat_Garrett.jpg"),
       "alt": "A portrait of Pat Garret"
     }
   },
@@ -3732,7 +3720,7 @@ const data= [
     "date": "November 7",
     "description": "Butch Cassidy and the Sundance Kid are reportedly found dead following a shootout with police in the town of San Vicente, Bolivia.",
     "media": { 
-      "img": require("../images/1908_Butch_Cassidy.jpg"),
+      "img": require("../images/1908-Butch_Cassidy.jpg"),
       "alt": "A portrait of Butch Cassidy"
     }
   },
@@ -3742,7 +3730,7 @@ const data= [
     "date": "January 6",
     "description": "New Mexico is admitted as the 47th U.S. state.",
     "media": { 
-      "img": require("../images/1912_New_Mexico_State_Seal.png"),
+      "img": require("../images/1912-New_Mexico_State_Seal.png"),
       "alt": "The Great Seal of the State of New Mexico"
     }
   },
@@ -3752,7 +3740,7 @@ const data= [
     "date": "February 14",
     "description": "Arizona is admitted as the 48th U.S. state. It is the last state to be admitted to the Union during the Old West era.",
     "media": { 
-      "img": require("../images/1912_Arizona_State_Seal.png"),
+      "img": require("../images/1912-Arizona_State_Seal.png"),
       "alt": "The Great Seal of the State of Arizona"
     }
   },
@@ -3762,7 +3750,7 @@ const data= [
     "date": "August 24",
     "description": "The District of Alaska is organized into the Territory of Alaska.",
     "media": { 
-      "img": require("../images/1912_Territory_of_Alaska.png"),
+      "img": require("../images/1912-Territory_of_Alaska.png"),
       "alt": "A map of the Territory of Alaska from The Alaska Steampship Company"
     }
   },
@@ -3772,7 +3760,7 @@ const data= [
     "date": "December 5",
     "description": "The last stagecoach robbery in American history occurs at Jarbidge Canyon, Nevada, when Ben Kuhl and his two accomplices hold up a U.S. Post Office Department stagecoach, shoot the driver, and steal $4,000 in cash. The criminals are captured without incident soon after.",
     "media": { 
-      "img": require("../images/1916_Ben_Kuhl_Jarbridge_Canyon.jpg"),
+      "img": require("../images/1916-Ben_Kuhl_Jarbridge_Canyon.jpg"),
       "alt": "Ben Kuhl's mugshot"
     }
   },
@@ -3782,10 +3770,9 @@ const data= [
     "date": "January 6",
     "description": "Alaska is admitted as the 49th U.S. state, marking the complete political incorporation of continental U.S. western territorial acquisitions.",
     "media": { 
-      "img": require("../images/1959_Alaska_State_Seal.png"),
+      "img": require("../images/1959-Alaska_State_Seal.png"),
       "alt": "The Great Seal of the State of Alaska"
     },
-    "location": ""
   }
  ];
 
