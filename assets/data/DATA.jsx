@@ -3322,8 +3322,8 @@ const data= [
     "date": "June 24",
     "description": "Outlaw Butch Cassidy robs his first bank in Telluride, Colorado before fleeing to the remote hideout of Robbers Roost.",
     "media": { 
-      "img": "../images/",
-      "alt": ""
+      "img": require("../images/1889-Butch_Cassidy.png"),
+      "alt": "Robert LeRoy Parker (April 13, 1866 – November 7, 1908), better known as Butch Cassidy"
     },
     "coords": ""
   },
