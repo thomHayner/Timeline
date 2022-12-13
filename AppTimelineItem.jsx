@@ -19,34 +19,39 @@ export default function TimeLineItem({
   touchDetected,
   warn,
 }) {
-  //// [MODAL: State to control modal visibility] ////
+  //// [MODAL] ////
+  // [State: to control modal visibility]
   const [modalVisible, setModalVisible] = React.useState(false);
   
-  //// [SCROLL: State to monitor scrolled cards] ////
+  //// [SCROLL] ////
+  // [State: to monitor if a card was scrolled]
   const [scrolled, setScrolled] = React.useState(0);
 
-  // [cardRef for scrolling cards]
+  // [cardRef: for scrolling cards]
   let cardRef = React.useRef(null);
 
-  //// [Function to monitor scrolled cards]
+  //// [handleScrollEvent: function to monitor scrolled cards]
   const handleScrollEvent = () => {
     let newScrolled = scrolled + 1;
     setScrolled(newScrolled);
     touchDetected();
   };
 
-  //// [SCROLL TO IMAGE: Function for image icon onPress] ////
+  //// [SCROLL TO IMAGE] ////
+  // [downButtonHandler: function to scroll for image icon onPress]
   const downButtonHandler = () => {
     cardRef.current.scrollToEnd({ animated: true });
     handleScrollEvent();
   };
   
-  //// [MODAL: Functions for opening and closing modal] ////
+  //// [MODAL] ////
+  // [handleModalOpen: function for opening modal]
   const handleModalOpen = () => {
     setModalVisible(true);
     handleScrollEvent();
   };
   
+  // [handleModalClose: function for closing modal]
   const handleModalClose = () => {
     setModalVisible(!modalVisible);
     handleScrollEvent();
