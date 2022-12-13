@@ -216,6 +216,7 @@ export default function TimeLineItem({
 //// [ITEM STYLES] ////
 const styles = StyleSheet.create({
   itemWrapper: {
+    flex: 1,
     flexDirection: 'column',
     marginBottom: 10,
     marginLeft: 40, // these margins keep the FlatList from staring/ending at the edges
@@ -265,8 +266,6 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     borderStyle: 'solid',
     borderWidth: 1,
-    flex: 1,
-    height: 1,
     overflow: 'scroll',
     padding: 20,
     shadowColor: '#171717',
@@ -307,7 +306,6 @@ const styles = StyleSheet.create({
   itemCardSubTitleFont: {
     fontFamily: 'SpecialElite_400Regular',
     fontSize: 26,
-    // height: 45,
     marginBottom: 15,
     marginTop: 5,
     // textAlign: 'right'

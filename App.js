@@ -1,7 +1,7 @@
 //// [IMPORTS] ////
 import * as React from 'react';
 import {
-  FlatList,
+  Animated,
   ImageBackground,
   Modal,
   PanResponder,
@@ -30,20 +30,96 @@ import DATA from './assets/data/DATA';
 SplashScreen.preventAutoHideAsync();
 
 export default function App() {
-  //// [INACTIVITY TIMEOUT: state] ////
+  //// [TOPBAR: Text values]
+  const TITLE = "Timeline of the American Old West";
+
+  //// [DECADES SCROLL BAR] ////
+  // [Ref: flatList ref]
+  const timeLineRef = React.useRef(null);
+  
+  // [scrollToDecade: onPress will scroll the flatList to the corresponding card index]
+  const scrollToDecade = (cardIndex) => {
+    timeLineRef.current.scrollToIndex({
+      animated: true,
+      index: parseInt(cardIndex),
+      viewPosition: 0,
+      viewOffset: 0,
+    });
+    touchDetected();
+  };
+    
+  //// [FLATLIST COMPONENTS] ////
+  // [Animations values]
+  const animatedValue = React.useRef(new Animated.Value(0)).current;
+  const ITEM_SIZE = 580; // card width + margins
+
+  // [flatListKeyExtractor: keyExtractor function]
+  const flatListKeyExtractor = ( _, index ) => index;
+
+  // [flatListRenderItem: component render function]
+  const flatListRenderItem = ({ item, index }) => {
+    const inputRange = [
+      -1,
+      0,
+      ITEM_SIZE * index,
+      ITEM_SIZE * (index + 2)
+    ];
+    const scale = animatedValue.interpolate({
+      inputRange,
+      outputRange: [1,1,1,0]
+    })
+  
+    return(
+      <Animated.View style={{ transform: [{scale}] }}>
+        <TimeLineItem
+          itemData={item}
+          isTextEnlarged={isTextEnlarged}
+          inactive={inactive}
+          touchDetected={touchDetected}
+          warn={warn}
+        />
+      </Animated.View>
+    )
+  };
+
+  // [flatListRenderSeparator: separator component render function]
+  const flatListRenderSeparator = (({ highlighted }) => (
+    <View
+      style={[
+        styles.timelineSeparator,
+        highlighted && { marginLeft: 0 }
+      ]}
+    />
+  ));
+
+  //// [BOTTOMBAR: Text values] ////
+  const COPYRIGHT = "2022 Pony Express Station Museum, Gothenberg, NE";
+    
+  //// [ACCESSIBILITY: Functions to operate 'easier to read' text switch] ////
+  // [State: determines which text/font mode the app is currently using]
+  const [isTextEnlarged, setIsTextEnlarged] = React.useState(false);
+
+  // [handleEnlargeText: changes the text/font mode]
+  const handleEnlargeText = () => {
+    setIsTextEnlarged(!isTextEnlarged);
+    touchDetected();
+  };
+
+  //// [INACTIVITY TIMEOUT] ////
+  // [State: determines whether or not app is inactive]
   const [inactive, setInactive] = React.useState(true);
-
-  // [Controls/closes card fullscreen modal to display warning modal (passed down)]
+  
+  // [State: ontrols/closes card fullscreen modal to display warning modal (passed down)]
   const [warn, setWarn] = React.useState(false);
-
-  // [Controls state of warning modal]
+  
+  // [State: ontrols state of warning modal]
   const [warningVisible, setWarningVisible] = React.useState(false);
   
-  // [refs for setTimeout()s to make sure that they are cleared properly]
+  // [Refs: for setTimeout()s to make sure that they are cleared properly]
   const inactivityWarningTimer = React.useRef(false);
   const inactivityLogoutTimer = React.useRef(false);
   
-  // [PanResponder acts as a touch sensor]
+  // [panResponder: acts as a touch sensor]
   const panResponder = React.useRef(
     PanResponder.create({
       onMoveShouldSetPanResponderCapture: () => {
@@ -52,8 +128,8 @@ export default function App() {
       }
     })
   ).current;
-  
-  // [Function for whenever a button is pressed or a PanResponder is detected]
+    
+  // [touchDetected: function for whenever a button is pressed or a panResponder is detected]
   const touchDetected = () => {
     if (inactive) {
       setInactive(false);
@@ -67,8 +143,8 @@ export default function App() {
     resetInactivityWarning();
     console.log('touch detected');
   };
-
-  // [setTimeout function]
+    
+  // [resetInactivityWarning: setTimeout and clear setTimeout]
   const resetInactivityWarning = () => {
     clearTimeout(inactivityWarningTimer.current);
     clearTimeout(inactivityLogoutTimer.current);
@@ -77,7 +153,7 @@ export default function App() {
       setWarn(true);
       setWarningVisible(true);
     }, 540000);
-
+    
     inactivityLogoutTimer.current = setTimeout(() => {
       console.log('logout timeout complete');
       timeLineRef.current.scrollToIndex({
@@ -91,36 +167,22 @@ export default function App() {
       setInactive(true);
     }, 600000)
   };
-
-  // [Function to close warning modal onPress]
+    
+  // [handleWarningModalClose: function to close warning modal onPress]
   const handleWarningModalClose = () => {
     setWarningVisible(false);
     touchDetected();
   };
-
-  // [Clear the setTimeout()s on unmount to prevent memory leaks]
+    
+  // [Effect: clears the setTimeout()s on unmount to prevent memory leaks]
   React.useEffect(() => {
     resetInactivityWarning();
   }, []);
 
-  //// [ACCESSIBILITY: Functions to operate 'easier to read' text switch] ////
-  const [isTextEnlarged, setIsTextEnlarged] = React.useState(false);
-  const handleEnlargeText = () => {
-    setIsTextEnlarged(!isTextEnlarged);
-    touchDetected();
-  };
-
-  //// [DECADES SCROLL BAR: Functions to operate the scroll feature] ////
-  const timeLineRef = React.useRef(null);
-  const scrollToDecade = (cardIndex) => {
-    timeLineRef.current.scrollToIndex({
-      animated: true,
-      index: parseInt(cardIndex),
-      viewPosition: 0,
-      viewOffset: 0,
-    });
-    touchDetected();
-  };
+  // [Text values]
+  const WARN_TITLE = "Inactivity Alert";
+  const WARN_TEXT = "Timeline will reset in 1 minute unless you press 'OK'";
+  const WARN_BUTTON_TEXT = "OK";
 
   //// [FONTS: load custom fonts] ////
   const [fontsLoaded] = useFonts({
@@ -161,7 +223,7 @@ export default function App() {
           {/* [TOP INFORMATION BAR] */}
           <View style={styles.topBarContainer}>
             <Text style={isTextEnlarged ? styles.topBarTitleEnlarged : styles.topBarTitleFont}>
-              Timeline of the American West
+              {TITLE}
             </Text>
           </View>
 
@@ -188,42 +250,27 @@ export default function App() {
             </ScrollView>
             
             {/* [LIST OF CARDS DISPLAYING TIMELINE EVENTS] */}
-            <FlatList
+            <Animated.FlatList
               data={DATA}
               horizontal
               initialNumToRender={DATA.length}
               initialScrollIndex={0}
-              ItemSeparatorComponent={
-                Platform.OS !== 'android' &&
-                (({ highlighted }) => (
-                  <View
-                    style={[
-                      styles.timelineSeparator,
-                      highlighted && { marginLeft: 0 }
-                    ]}
-                  />
-                ))
-              }
-              keyExtractor={(item, index) => item + index}
+              ItemSeparatorComponent={Platform.OS !== 'android' && flatListRenderSeparator}
+              keyExtractor={flatListKeyExtractor}
+              onScroll={Animated.event(
+                [{ nativeEvent: { contentOffset: { x: animatedValue }}}],
+                { useNativeDriver: true }
+              )}
               ref={timeLineRef}
               removeClippedSubviews={false}
-              renderItem={({ item, index }) => (
-                <TimeLineItem
-                  itemData={item}
-                  isTextEnlarged={isTextEnlarged}
-                  inactive={inactive}
-                  touchDetected={touchDetected}
-                  warn={warn}
-                />
-              )}
+              renderItem={flatListRenderItem}
               showsHorizontalScrollIndicator={false}
             />
           </View>
           
           {/* [BOTTOM INFORMATION BAR] */}
           <View style={styles.bottomBarContainer}>
-            <Text style={styles.bottomBarCopyright}>&copy; 2022 Pony Express Station Museum, Gothenberg, NE</Text>
-            <Text></Text>
+            <Text style={styles.bottomBarCopyright}>&copy;{COPYRIGHT}</Text>
             <View style={styles.bottomBarSwitchRow}>
               <MaterialIcons
                 color='#E8DCB8'
@@ -256,13 +303,13 @@ export default function App() {
               >
                 <View style={styles.warningTitleBox}>
                   <Text style={isTextEnlarged ? styles.warningTitleEnlarged : styles.warningTitleFont}>
-                    Inactivity Alert
+                    {WARN_TITLE}
                   </Text>
                 </View>
 
                 <View style={styles.warningSubtitleBox}>
                   <Text  style={isTextEnlarged ? styles.warningSubtitleEnlarged : styles.warningSubtitleFont}>
-                    Timeline will reset in 1 minute unless you press "OK"
+                    {WARN_TEXT}
                   </Text>
                 </View>
 
@@ -271,7 +318,7 @@ export default function App() {
                   style={styles.warningButtonBox}
                 >
                   <Text style={isTextEnlarged ? styles.warningButtonTextEnlarged: styles.warningButtonTextFont}>
-                    OK
+                    {WARN_BUTTON_TEXT}
                   </Text>
                 </Pressable>
               </View>
@@ -355,9 +402,10 @@ const styles = StyleSheet.create({
     borderBottomColor: '#BD5923', // orange
     borderBottomWidth: 6,
     borderStyle: 'solid',
-    marginHorizontal: -250,
+    marginHorizontal: -290,
     marginTop: 36,
-    width: 500,
+    width: 580,
+    zIndex: -1,
   },
   bottomBarContainer: {
     alignItems: 'center',
@@ -394,7 +442,6 @@ const styles = StyleSheet.create({
   },
   warningVisibleBox: {
     alignItems: 'center',
-    // backgroundColor: '#E8DCB8',
     backgroundColor: '#322312', // brownMediumDark
     borderColor: '#4A2711', // brownAccent
     borderRadius: 20,
