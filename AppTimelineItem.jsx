@@ -43,6 +43,9 @@ export default function TimeLineItem({
     cardRef.current.scrollToEnd({ animated: true });
     handleScrollEvent();
   };
+
+  //// [MAP MARKER FOR LOCAL EVENTS]
+  const youAreHere = `You\nAre\nHere`;
   
   //// [MODAL] ////
   // [handleModalOpen: function for opening modal]
@@ -116,6 +119,16 @@ export default function TimeLineItem({
           >
             <MaterialIcons name='image' size={32} color='black' />
           </Pressable>
+        :
+          <View />
+        }
+
+        {/* [MAP MARKER FOR LOCAL EVENTS] */}
+        {itemData.location === 'Gothenberg, Nebraska' ?
+          <View style={styles.mapMarker}>
+            <MaterialIcons name="where-to-vote" size={32} color="green" />
+            <Text style={styles.youAreHere}>{youAreHere}</Text>
+          </View>
         :
           <View />
         }
@@ -291,6 +304,16 @@ const styles = StyleSheet.create({
     right: 0,
     top: 0,
   },
+  mapMarker: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    position: 'absolute',
+    right: 0,
+    top: 55,
+  },
+  youAreHere: {
+    textAlign: 'center',
+  },
   itemCardTitleBox: {
     minHeight: 120,
     maxWidth: 420,
@@ -357,7 +380,6 @@ const styles = StyleSheet.create({
   modalAltBox: {
     alignSelf: 'center',
     alignItems: 'center',
-    minHeight: 75,
     backgroundColor: '#E8DCB8',
     borderColor: '#191109', // brownDark
     borderRadius: 10,
@@ -387,10 +409,10 @@ const styles = StyleSheet.create({
     padding: 10,
   },
   modalButtonOpen: {
-    width: 400,
+    width: 300,
   },
   modalButtonClose: {
-    width: 500,
+    width: 400,
   },
   modalButtonTextFont: {
     fontFamily: 'SpecialElite_400Regular',
