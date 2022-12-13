@@ -1257,6 +1257,16 @@ const data= [
   },
   {
     "year": "1854",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "The Sam Machette Station, now located in Ehmen Park, was originally erected in 1854 on the Oregon Trail south & west of Gothenburg (near the Fort McPherson national cemetery). It was used originally used as a trade station for travelers on the Oregon Trail, a fur trading post and also as a family ranch house. The logs used to build the structure were harvested from old growth cedar trees in the hills south of its original location.",
+    "media": { 
+      "img": require("../images/1854-Gothenberg_Station.jpg"),
+      "alt": "The original Sam Machette home and trading post"
+    },
+  },
+  {
+    "year": "1854",
     "location": "Baja California and Sonora, Mexico",
     "date": "February 13",
     "description": "The Mexican army forces would-be conqueror William Walker and his mercenary troops to retreat to Sonora.",
@@ -1467,6 +1477,16 @@ const data= [
   },
   {
     "year": "1860",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "Sam Machette sold his home and trading post to the Central Overland California & Pikes Peak Express Company, it was used as a Pony Express Station from 1860 through 1861.",
+    "media": { 
+      "img": require("../images/1860-Pony_Express_Map_Sam_Machette.jpg"),
+      "alt": "A map of the Pony Express route, with Sam Machette Station indicated by the red arrow"
+    },
+  },
+  {
+    "year": "1860",
     "location": "Humboldt County, California",
     "date": "February 26",
     "description": "Hundreds of Wiyot people are massacred by white settlers along the coast of what is now Humboldt County, California.",
@@ -1655,6 +1675,16 @@ const data= [
   },
   {
     "year": "1862",
+    "location": "Gothenberg, Nebraska",
+    "date": "March 21",
+    "description": "After the Pony Express ended, the station building was used as an Overland Trail Stage Station, bunk house, storage building, and dwelling until 1931.",
+    "media": { 
+      "img": require("../images/1862-Gothenberg_Overland_Stage.jpg"),
+      "alt": "The overland stagecoach leaving Cottonwood Springs, near Fort Cottonwood (later Fort McPherson, Nebraska); illustration from The Overland Stage to California (1901)"
+    },
+  },
+  {
+    "year": "1862",
     "location": "San Miguel County, New Mexico",
     "date": "March 26",
     "description": "The Battle of Glorieta Pass, sometimes called the 'Gettysburg of the West', is fought in the Sangre de Cristo Mountains between Confederate cavalry forces and Union volunteers from Colorado and New Mexico. It marks a turning point in the New Mexico Campaign in favor of the Union.",
@@ -1762,7 +1792,7 @@ const data= [
     "description": "Daniel Freeman submits the first claim under the Homestead Act of 1862 for land near Beatrice, Nebraska.",
     "media": { 
       "img": require("../images/1863-Daniel_Freeman_Homestead_Application.jpg"),
-      "alt": ""
+      "alt": "Daniel Freeman's original homestead application"
     },
     "coords": "Daniel Freeman's Homestead Application"
   },
@@ -1831,6 +1861,22 @@ const data= [
       "alt": "General Order No. 11, by George Caleb Bingham; in this famous propaganda work General Thomas Ewing is seated on a horse watching the Red Legs (the Red Legs were a secretive paramilitary organisation of abolitionist fighters on the western union border)"
     },
     "coords": ""
+  },
+  {
+    "year": "1863",
+    "location": "Gothenberg, Nebraska",
+    "date": "October 11",
+    "description": "Ft. McPherson, Nebraska was first established in October 1863 in Cottonwood Canyon to protect the Overland Trail between Fort Kearny and Julesburg, Colorado. It was first known as Cantonment McKean, but was changed to Fort Cottonwood when construction began. However, it was soon moved closer to the town of Maxwell, Nebraska. It was renamed Fort McPherson on February 26, 1866, to honor General James B. McPherson, who had fallen while fighting with General William T. Sherman against the Confederate forces in the battle for Atlanta. The main activities of the fort during its 17 years of activity, were escorting stagecoaches and emigrant wagon trains; pursuing and punishing Indians for depredations; and protecting the mail and the telegraph lines.",
+    "media": { 
+      "img": require("../images/1863-Fort_McPherson.jpg"),
+      "alt": "An original building from Fort McPherson, moved to it's new location in Maxwell, Nebraska as an historic site"
+    },
+  },
+  {
+    "year": "1864",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "Fort McPherson played an important role in the Indian Wars from 1864 until its abandonment in 1880. Numerous important campaigns and expeditions were launched from the fort including that of General Eugene Carr which culminated in the defeat of the Cheyenne Indians at the Battle of Summit Springs. Buffalo Bill Cody, the North Brothers, and the Pawnee Scouts all served at Fort McPherson during this period. Lieutenant Colonel George A. Custer led the 7th Cavalry from Fort McPherson on June 15th, 1867 for operations against Indians in Kansas.",
   },
   {
     "year": "1864",
@@ -2476,6 +2522,16 @@ const data= [
   },
   {
     "year": "1873",
+    "location": "Maxwell, Nebraska",
+    "date": "October 13",
+    "description": "On October 13, 1873, a tract of 107 acres was set aside as a national cemetery. Subsequent reductions have limited the size of the cemetery to twenty acres. Burials in the McPherson National Cemetery have included soldiers who served in the Indian Wars through the west, as well as those who have served in the Civil War, Spanish-American War, World Wars I and II, and the Korean War. After providing nearly two decades of strong economic and developmental influences for hundreds of miles, the original fort was abandoned by the Army in 1880. The following spring, the buildings were sold at auction. Today, all that’s left is the National Cemetery, located at Maxwell, Nebraska.",
+    "media": { 
+      "img": require("../images/1873-Fort_McPherson_Cemetary.jpg"),
+      "alt": "The Fort McPherson National Cemetary, in Maxwell, Nebraska"
+    },
+  },
+  {
+    "year": "1873",
     "location": "Smith County, Kansas",
     "date": "December 1",
     "description": "'My Western Home', a poem by Dr. Brewster M. Higley, is first published in an issue of the Smith County Pioneer. It is set to music by Daniel E. Kelley and evolves into the classic western folk song 'Home on the Range', which is later adopted as the state song of Kansas.",
@@ -2990,6 +3046,16 @@ const data= [
   },
   {
     "year": "1882",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "In the latter part of 1882, a worker with the Union Pacific Railroad named Olof Bergstrom conceived the idea that a town was needed where Gothenburg now stands. The town is situated in the Platte River Valley, which is probably the greatest agricultural valley in the world.",
+    "media": { 
+      "img": require("../images/1882-Gothenberg_Union_Pacific.png"),
+      "alt": "A Union Pacific Steam Locomotive, similar to the one Olaf Bergstom would have ridden past the empty land that would later become Gothenberg, Nebraska"
+    },
+  },
+  {
+    "year": "1882",
     "location": "Tombstone, Arizona",
     "date": "March 18",
     "description": "Morgan Earp is shot and killed while playing billiards in Tombstone, Arizona. His assassination is linked to his involvement in the Gunfight at the O.K. Corral.",
@@ -3132,6 +3198,16 @@ const data= [
   },
   {
     "year": "1885",
+    "location": "Gothenberg, Nebraska",
+    "date": "July 8",
+    "description": "Olaf Bergstrom chose farm ground north of the town site and traveled back to Sweden to convince his fellow countrymen to migrate to the United States — to Nebraska — to build a new town in the West. He was persuasive and by July 8, 1885, Gothenburg was incorporated as a town with a population of 300. Swedes and Germans settled the area, as is evidenced by the name Gothenburg. The town was named after Göteborg, Sweden, but was given a German spelling by railroad officials.",
+    "media": { 
+      "img": require("../images/1885-Gothenberg_Town.png"),
+      "alt": "The early days of Gothenberg, Nebraska"
+    },
+  },
+  {
+    "year": "1885",
     "location": "Rock Springs, Wyoming",
     "date": "September 2",
     "description": "Years of racial tension, aggravated by labor unrest over the preferential hiring of Chinese immigrants for very low wages, come to a head in the Rock Springs massacre, which leaves at least 28 Chinese coal miners dead at the hands of white miners in the town of Rock Springs, Wyoming. The riot touches off a wave of anti-Chinese violence across the country.",
@@ -3238,6 +3314,16 @@ const data= [
       "alt": "Luke Lamar Short (January 22, 1854 – September 8, 1893), on the left; Timothy Isaiah Courtright (1848 – February 8, 1887), also known as 'Longhair Jim' or 'Big Jim' Courtright, on the right"
     },
     "coords": ""
+  },
+  {
+    "year": "1888",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "The digging of a 12-mile canal off the Platte River and construction of the first man-made lake designed to generate electricity begins, encouraging several industries and factories to locate in Gothenburg. Companies included shirt and overall factories, brick kilns, bathtub and ironworks factories, flour mills, vinegar and pickle works, a cigar manufacturer and a barbed wire factory. The boom days came early in the 1890s. Then, when the money panic of 1893 hit hard, the boom quickly turned to bust and many of the industries disappeared. Despite the loss of business, the canal provided the first irrigation system and served approximately 17,000 acres east of the lake. Agriculture quickly settled in as the main industry for the growing community, and agriculture continues to drive our prosperity today. The man-made lake spurred industrial, community and agricultural growth, a hallmark of Gothenburg’s success throughout its history. Most Gothenburg residents had electricity by 1892, the first community in western Nebraska.",
+    "media": { 
+      "img": require("../images/1888-Gothenberg_Canal.jpg"),
+      "alt": "Digging the Gothenberg Canal"
+    },
   },
   {
     "year": "1888",
@@ -3497,6 +3583,16 @@ const data= [
   },
   {
     "year": "1894",
+    "location": "Gothenberg, Nebraska",
+    "date": "December",
+    "description": "The Gothenberg Hydroelectric Power Plant is completed",
+    "media": { 
+      "img": require("../images/1894-Gothenberg_Power_Plant.jpg"),
+      "alt": "Gothernberg, Nebraska Hydro-Electric Power Plant, completed in 1894"
+    },
+  },
+  {
+    "year": "1894",
     "location": "New Orleans, LA to Los Angeles, CA",
     "date": "November 1",
     "description": "Sunset Limited service opened on the second transcontinental route by Southern Pacific Railroad.",
@@ -3516,6 +3612,12 @@ const data= [
       "alt": "John Wesley Hardin (May 26, 1853 – August 19, 1895) was an American Old West outlaw, gunfighter, and controversial folk icon; Hardin often got into trouble with the law from an early age, he killed his first man at the age of 15, claiming he did so in self-defense"
     },
     "coords": ""
+  },
+  {
+    "year": "1895",
+    "location": "Gothenberg, Nebraska",
+    "date": "December",
+    "description": "The digging of the Gothenberg Canal is completed",
   },
   {
     "year": "1896",
@@ -3765,6 +3867,26 @@ const data= [
     }
   },
   {
+    "year": "1931",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "The Sam Machette Building was moved from its original site in order to preserve it for future generations to enjoy. In 1931 Mrs. C.A. Williams donated the station to the city of Gothenburg. Members of the local American Legion Post disassembled the building, log by log, transported it and then reassembled it on its current site at Ehmen Park, Gothenburg. The station was dedicated at the time to 'All Pioneers Who Passed This Way, To Win and Hold the West.'",
+    "media": { 
+      "img": require("../images/1931-Sam_Machette_Building.jpg"),
+      "alt": "The former Sam Machette Station, just before it was moved to Ehmen Park"
+    },
+  },
+  {
+    "year": "1954",
+    "location": "Gothenberg, Nebraska",
+    "date": "January 6",
+    "description": "The original Sam Machette Pony Express Station opened up to the general public as a gift shop & tourism stop.",
+    "media": { 
+      "img": require("../images/1954_Pony_Express_Station.jpg"),
+      "alt": "The original Sam Machette Pony Express Station opens to the public"
+    },
+  },
+  {
     "year": "1959",
     "location": "Juneau, Alaska",
     "date": "January 6",
@@ -3773,7 +3895,17 @@ const data= [
       "img": require("../images/1959-Alaska_State_Seal.png"),
       "alt": "The Great Seal of the State of Alaska"
     },
-  }
+  },
+  {
+    "year": "2016",
+    "location": "Gothenberg, Nebraska",
+    "date": "",
+    "description": "Redesignated as a local historical museum that’s open to the general public annually, April 3rd thru October 24th, seven days a week.",
+    "media": { 
+      "img": require("../images/2016-Pony_Express_Museum.jpg"),
+      "alt": "The Pony Express Station Museum in Gothenberg, Nebraska"
+    },
+  },
  ];
 
  export default data

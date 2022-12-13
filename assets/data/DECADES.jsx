@@ -32,23 +32,23 @@ const DECADES = [
     onPressValue: "107"
   },{
     decade: 1860,
-    onPressValue: "157"
+    onPressValue: "158"
   },{
     decade: 1870,
-    onPressValue: "220"
+    onPressValue: "225"
   },{
     decade: 1880,
-    onPressValue: "289"
+    onPressValue: "295"
   },{
     decade: 1890,
-    onPressValue: "339"
+    onPressValue: "348"
   },{
     decade: 1900,
-    onPressValue: "363"
+    onPressValue: "374"
   },
   {
     decade: 1910,
-    onPressValue: "374"
+    onPressValue: "385"
   },
 ];
 
