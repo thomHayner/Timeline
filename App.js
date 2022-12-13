@@ -1,7 +1,7 @@
 //// [IMPORTS] ////
 import * as React from 'react';
 import {
-  Animated,
+  FlatList,
   ImageBackground,
   Modal,
   PanResponder,
@@ -49,28 +49,12 @@ export default function App() {
   };
     
   //// [FLATLIST COMPONENTS] ////
-  // [Animations values]
-  const animatedValue = React.useRef(new Animated.Value(0)).current;
-  const ITEM_SIZE = 580; // card width + margins
-
   // [flatListKeyExtractor: keyExtractor function]
   const flatListKeyExtractor = ( _, index ) => index;
 
   // [flatListRenderItem: component render function]
   const flatListRenderItem = ({ item, index }) => {
-    const inputRange = [
-      -1,
-      0,
-      ITEM_SIZE * index,
-      ITEM_SIZE * (index + 2)
-    ];
-    const scale = animatedValue.interpolate({
-      inputRange,
-      outputRange: [1,1,1,0]
-    })
-  
     return(
-      <Animated.View style={{ transform: [{scale}] }}>
         <TimeLineItem
           itemData={item}
           isTextEnlarged={isTextEnlarged}
@@ -78,16 +62,15 @@ export default function App() {
           touchDetected={touchDetected}
           warn={warn}
         />
-      </Animated.View>
     )
   };
 
-  // [flatListRenderSeparator: separator component render function]
-  const flatListRenderSeparator = (({ highlighted }) => (
+  // [flatListSeparatorRender: separator component render function]
+  const flatListSeparatorRender = (({ highlighted }) => (
     <View
       style={[
         styles.timelineSeparator,
-        highlighted && { marginLeft: 0 }
+        // highlighted && { marginLeft: 0 }
       ]}
     />
   ));
@@ -250,19 +233,15 @@ export default function App() {
             </ScrollView>
             
             {/* [LIST OF CARDS DISPLAYING TIMELINE EVENTS] */}
-            <Animated.FlatList
+            <FlatList
               data={DATA}
               horizontal
               initialNumToRender={DATA.length}
               initialScrollIndex={0}
-              ItemSeparatorComponent={Platform.OS !== 'android' && flatListRenderSeparator}
+              ItemSeparatorComponent={Platform.OS !== 'android' && flatListSeparatorRender}
               keyExtractor={flatListKeyExtractor}
-              onScroll={Animated.event(
-                [{ nativeEvent: { contentOffset: { x: animatedValue }}}],
-                { useNativeDriver: true }
-              )}
               ref={timeLineRef}
-              removeClippedSubviews={false}
+              // removeClippedSubviews={false}
               renderItem={flatListRenderItem}
               showsHorizontalScrollIndicator={false}
             />
