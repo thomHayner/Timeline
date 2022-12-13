@@ -50,7 +50,7 @@ export default function App() {
     
   //// [FLATLIST COMPONENTS] ////
   // [flatListKeyExtractor: keyExtractor function]
-  const flatListKeyExtractor = ( _, index ) => index;
+  const flatListKeyExtractor = ( index, item ) => index + item;
 
   // [flatListRenderItem: component render function]
   const flatListRenderItem = ({ item, index }) => {
