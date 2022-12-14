@@ -124,7 +124,7 @@ export default function TimeLineItem({
         }
 
         {/* [MAP MARKER FOR LOCAL EVENTS] */}
-        {itemData.location === 'Gothenberg, Nebraska' ?
+        {itemData.location === 'Gothenberg, Nebraska' || itemData.location === 'The Pony Express Route' ?
           <View style={styles.mapMarker}>
             <MaterialIcons name="where-to-vote" size={32} color="green" />
             <Text style={styles.youAreHere}>{youAreHere}</Text>
