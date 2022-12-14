@@ -1,11 +1,9 @@
 {
   "expo": {
     "name": "TimelineOfTheAmericanWest",
-    "slug": "TimelineOfTheAmericanWest",
+    "slug": "TimelineOfAmericanWest",
     "version": "1.1.0",
-    "orientation": "portrait",
     "icon": "./assets/appStoreImages/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/appStoreImages/splash.png",
       "resizeMode": "contain",
@@ -22,7 +20,7 @@
       "icon": "./assets/appStoreImages/icon.png",
       "supportsTablet": true,
       "isTabletOnly": true,
-      "buildNumber": "1"
+      "buildNumber": "2"
     },
     "android": {
       "adaptiveIcon": {
@@ -32,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/appStoreImages/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fae9f4e8-e03c-4afa-87a0-12fe6482c722"
+      }
     }
   }
 }
